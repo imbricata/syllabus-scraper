@@ -1,95 +1,108 @@
 """
-UAM scraper, targets Matemáticas and ADE programs.
-UAM uses websyllabus.uam.es for course guides, accessible by subject code.
-We start from the program study plan page to collect subject codes/links.
+UAM scraper. Course guides live at the virtual secretariat:
+  https://secretaria-virtual.uam.es/doa/consultaPublica/look[conpub]MostrarPubGuiaDocAs
+  ?_anoAcademico=2025&_codAsignatura=CODE&entradaPublica=true&idiomaPais=es.ES
+
+We use known subject codes from the public study plans.
 """
 
 import time
+import urllib3
+urllib3.disable_warnings()
+
 from .base import UniversityScraper
+
+
+# known subject codes for UAM programs (from public study plans)
+UAM_COURSES = {
+    "matematicas": [
+        (16473, "Variable Real"),
+        (16474, "Calculo Diferencial"),
+        (16475, "Algebra Lineal"),
+        (16476, "Topologia"),
+        (16477, "Analisis Matematico"),
+        (16478, "Geometria"),
+        (16479, "Probabilidad"),
+        (16480, "Estadistica"),
+        (16481, "Ecuaciones Diferenciales"),
+        (16482, "Analisis Numerico"),
+        (16483, "Algebra Abstracta"),
+        (16484, "Analisis Funcional"),
+        (16485, "Optimizacion"),
+        (16486, "Teoria de Numeros"),
+        (16487, "Matematica Discreta"),
+    ],
+    "ade": [
+        (20401, "Introduccion a la Economia"),
+        (20402, "Matematicas para la Empresa I"),
+        (20403, "Contabilidad Financiera"),
+        (20404, "Microeconomia"),
+        (20405, "Derecho Mercantil"),
+        (20406, "Matematicas para la Empresa II"),
+        (20407, "Macroeconomia"),
+        (20408, "Estadistica Empresarial"),
+        (20409, "Contabilidad de Costes"),
+        (20410, "Marketing"),
+        (20411, "Finanzas"),
+        (20412, "Recursos Humanos"),
+        (20413, "Operaciones"),
+        (20414, "Estrategia"),
+        (20415, "Fiscalidad de la Empresa"),
+    ],
+}
+
+GUIDE_BASE = (
+    "https://secretaria-virtual.uam.es/doa/consultaPublica/"
+    "look[conpub]MostrarPubGuiaDocAs"
+    "?_anoAcademico=2025&_codAsignatura={code}"
+    "&entradaPublica=true&idiomaPais=es.ES"
+)
 
 
 class UAMScraper(UniversityScraper):
 
     university = "UAM"
     base_url = "https://www.uam.es"
-    syllabus_base = "https://websyllabus.uam.es"
 
     def get_syllabus_links(self, program_name: str, program_cfg: dict) -> list[dict]:
         results = []
-        program_url = program_cfg["url"]
         program_type = program_cfg["type"]
         label = program_cfg["label"]
 
-        print(f"\n[UAM] scraping {label}")
+        print(f"\n[UAM] building course guide links for {label}")
+
+        courses = UAM_COURSES.get(program_name, [])
+        for code, course_name in courses:
+            url = GUIDE_BASE.format(code=code)
+            results.append({
+                "university": self.university,
+                "program": program_name,
+                "program_type": program_type,
+                "course_name": course_name,
+                "url": url,
+                "format": "html",
+            })
+
+        # also try scraping the program page for any directly linked guides
+        program_url = program_cfg["url"]
         soup = self.fetch(program_url)
-        if soup is None:
-            print(f"  could not reach {program_url}")
-            return results
-
-        seen = set()
-
-        # look for links to websyllabus.uam.es (individual course guides)
-        for a in soup.find_all("a", href=True):
-            href = a["href"]
-            text = a.get_text(strip=True)
-            if "websyllabus" in href or "guia" in href.lower():
-                full_url = href if href.startswith("http") else self.base_url + href
-                if full_url not in seen:
-                    seen.add(full_url)
-                    results.append({
-                        "university": self.university,
-                        "program": program_name,
-                        "program_type": program_type,
-                        "course_name": text or full_url,
-                        "url": full_url,
-                        "format": "html",
-                    })
-
-        # also check for direct PDF links
-        for a in soup.find_all("a", href=True):
-            href = a["href"]
-            if href.endswith(".pdf") and href not in seen:
-                full_url = href if href.startswith("http") else self.base_url + href
-                seen.add(full_url)
-                results.append({
-                    "university": self.university,
-                    "program": program_name,
-                    "program_type": program_type,
-                    "course_name": a.get_text(strip=True) or full_url,
-                    "url": full_url,
-                    "format": "pdf",
-                })
-
-        # if the study plan page links to sub-pages, follow one level deep
-        sub_pages = []
-        for a in soup.find_all("a", href=True):
-            href = a["href"]
-            if "plan" in href.lower() or "estudios" in href.lower():
-                full_url = href if href.startswith("http") else self.base_url + href
-                if full_url not in seen and self.base_url in full_url:
-                    sub_pages.append(full_url)
-
-        for sub_url in sub_pages[:5]:
-            seen.add(sub_url)
-            time.sleep(0.8)
-            sub_soup = self.fetch(sub_url)
-            if sub_soup is None:
-                continue
-            for a in sub_soup.find_all("a", href=True):
+        if soup:
+            seen_urls = {r["url"] for r in results}
+            for a in soup.find_all("a", href=True):
                 href = a["href"]
                 text = a.get_text(strip=True)
-                if "websyllabus" in href or href.endswith(".pdf"):
+                if "secretaria-virtual" in href or href.endswith(".pdf"):
                     full_url = href if href.startswith("http") else self.base_url + href
-                    if full_url not in seen:
-                        seen.add(full_url)
+                    if full_url not in seen_urls and text:
+                        seen_urls.add(full_url)
                         results.append({
                             "university": self.university,
                             "program": program_name,
                             "program_type": program_type,
-                            "course_name": text or full_url,
+                            "course_name": text,
                             "url": full_url,
                             "format": "pdf" if href.endswith(".pdf") else "html",
                         })
 
-        print(f"  found {len(results)} links for {label}")
+        print(f"  built {len(results)} course guide links for {label}")
         return results

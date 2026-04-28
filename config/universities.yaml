@@ -6,23 +6,27 @@ universities:
       matematicas:
         type: stem
         label: Grado en Matemáticas
-        url: https://www.mat.ucm.es/estudios/grado-en-matematicas/plan-de-estudios
+        url: https://matematicas.ucm.es/estudios/2025-26/grado-matematicas-estudios-estructura
       ade:
         type: business
-        label: Grado en Administración y Dirección de Empresas
-        url: https://www.ccee.ucm.es/estudios/ade/plan-de-estudios
+        label: Grado en ADE
+        url: https://economicasyempresariales.ucm.es/estudios/2025-26/grado-ade-plan-802310
 
   UC3M:
     name: Universidad Carlos III de Madrid
     programs:
-      applied_mathematics:
+      matematicas:
         type: stem
-        label: Bachelor in Applied Mathematics
-        url: https://www.uc3m.es/bachelor-degree/applied-mathematics/study-plan
+        label: Grado en Matemáticas y Computación
+        url: https://www.uc3m.es/grado/matematicas-computacion
+        course_guide_base: https://aplicaciones.uc3m.es/cpa/generaFicha
+        program_code: "362"
       business:
         type: business
-        label: Bachelor in Business Administration
-        url: https://www.uc3m.es/bachelor-degree/business-administration/study-plan
+        label: Grado en Administración de Empresas
+        url: https://www.uc3m.es/bachelor-degree/business-administration
+        course_guide_base: https://aplicaciones.uc3m.es/cpa/generaFicha
+        program_code: "204"
 
   UAM:
     name: Universidad Autónoma de Madrid
@@ -30,19 +34,13 @@ universities:
       matematicas:
         type: stem
         label: Grado en Matemáticas
-        url: https://www.uam.es/uam/estudios/grado/matematicas
+        url: https://matematicas.uam.es/web/index.php/es/grado/matematicas/plan-de-estudios
+        course_guide_base: https://secretaria-virtual.uam.es/doa/consultaPublica/look[conpub]MostrarPubGuiaDocAs
       ade:
         type: business
-        label: Grado en Administración y Dirección de Empresas
-        url: https://www.uam.es/uam/estudios/grado/administracion-y-direccion-de-empresas
-
-  UPM:
-    name: Universidad Politécnica de Madrid
-    programs:
-      matematicas_ingenieria:
-        type: stem
-        label: Grado en Matemáticas e Ingeniería
-        url: https://www.upm.es/Estudiantes/Estudios_Titulaciones/EstudiosGrado/grados?id=54
+        label: Grado en ADE
+        url: https://www.uam.es/uam/ade
+        course_guide_base: https://secretaria-virtual.uam.es/doa/consultaPublica/look[conpub]MostrarPubGuiaDocAs
 
   IE:
     name: IE University

@@ -28,13 +28,17 @@ class UniversityScraper:
     def fetch(self, url: str, retries: int = 3, delay: float = 1.5) -> BeautifulSoup | None:
         for attempt in range(retries):
             try:
-                resp = requests.get(url, headers=HEADERS, timeout=15)
+                resp = requests.get(url, headers=HEADERS, timeout=15, verify=False)
                 resp.raise_for_status()
                 return BeautifulSoup(resp.text, "lxml")
             except Exception as e:
                 print(f"  fetch error ({url}): {e}, attempt {attempt + 1}/{retries}")
                 time.sleep(delay)
         return None
+
+    def fetch_text(self, url: str) -> str:
+        soup = self.fetch(url)
+        return soup.get_text(separator="\n") if soup else ""
 
     def find_pdf_links(self, soup: BeautifulSoup, base_url: str = "") -> list[str]:
         links = []

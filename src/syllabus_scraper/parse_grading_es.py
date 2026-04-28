@@ -97,7 +97,8 @@ def extract_text_from_pdf(pdf_path: str) -> str:
 
 def fetch_html_text(url: str) -> str:
     try:
-        resp = requests.get(url, headers=HEADERS, timeout=15)
+        import urllib3; urllib3.disable_warnings()
+        resp = requests.get(url, headers=HEADERS, timeout=15, verify=False)
         resp.raise_for_status()
         from bs4 import BeautifulSoup
         soup = BeautifulSoup(resp.text, "lxml")
@@ -230,9 +231,9 @@ def parse_syllabus(source: str, is_url: bool = False, is_html: bool = False) -> 
     if is_url and is_html:
         text = fetch_html_text(source)
     elif is_url:
-        import tempfile, requests
+        import tempfile, requests, urllib3; urllib3.disable_warnings()
         try:
-            resp = requests.get(source, headers=HEADERS, timeout=20)
+            resp = requests.get(source, headers=HEADERS, timeout=20, verify=False)
             resp.raise_for_status()
             with tempfile.NamedTemporaryFile(suffix=".pdf", delete=False) as f:
                 f.write(resp.content)

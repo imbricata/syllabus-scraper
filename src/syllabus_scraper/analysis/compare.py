@@ -26,8 +26,14 @@ def load_data() -> pd.DataFrame:
         ie["university"] = "IE"
         # IE only has one program type in clean data, we tag it based on filename
         # BAM courses are STEM, BBA courses are business
-        ie["program_type"] = ie["filename"].apply(
-            lambda f: "stem" if any(k in f.lower() for k in ["math", "bam", "calculus", "algebra", "statistics", "linear", "differential"]) else "business"
+        STEM_KEYWORDS = [
+            "calculus", "algebra", "discrete", "geometry", "differential",
+            "optimization", "machine learning", "deep learning", "approximation",
+            "statistical", "partial", "numerical", "nonlinear", "dynamics",
+            "mathematics", "math", "statistics", "probability",
+        ]
+        ie["program_type"] = ie["course_name"].apply(
+            lambda n: "stem" if any(k in n.lower() for k in STEM_KEYWORDS) else "business"
         )
         ie["program"] = ie["program_type"].apply(lambda t: "applied_mathematics" if t == "stem" else "bba")
         frames.append(ie[["university", "program", "program_type", "course_name"] + GRADING_COLS])
