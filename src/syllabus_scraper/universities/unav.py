@@ -1,10 +1,10 @@
 """
-UCM scraper. Fetches course guide links from the plan de estudios pages.
-UCM course guides (fichas docentes) are HTML pages linked from subject entries.
-Discovery approach: follow links from program page matching guide URL patterns.
+UNAV (Universidad de Navarra) scraper.
+Math: https://www.unav.edu/web/facultad-de-ciencias/grado-en-matematicas
+ADE:  https://www.unav.edu/web/facultad-de-ciencias-economicas-y-empresariales/grado-en-administracion-y-direccion-de-empresas
+UNAV course guides are HTML pages typically linked from the program's course listing.
 """
 
-import re
 import time
 import urllib3
 urllib3.disable_warnings()
@@ -12,20 +12,22 @@ urllib3.disable_warnings()
 from .base import UniversityScraper
 
 
-UCM_GUIDE_PATTERNS = [
-    "ficha", "guia", "guía", "docente", "asignatura",
+UNAV_GUIDE_PATTERNS = [
+    "guia", "guía", "ficha", "docente",
+    "asignatura", "planestudios",
+    "unav.edu/web", "unav.edu/portal",
 ]
 
-UCM_FOLLOW_PATTERNS = [
-    "plan", "curso", "primer", "segundo", "tercer", "cuarto",
-    "estudios", "asignatura", "estructura",
+UNAV_FOLLOW_PATTERNS = [
+    "plan", "estudios", "asignatura", "programa",
+    "grado", "curso", "matematicas", "empresa",
 ]
 
 
-class UCMScraper(UniversityScraper):
+class UNAVScraper(UniversityScraper):
 
-    university = "UCM"
-    base_url = "https://matematicas.ucm.es"
+    university = "UNAV"
+    base_url = "https://www.unav.edu"
 
     def get_syllabus_links(self, program_name: str, program_cfg: dict) -> list[dict]:
         results = []
@@ -33,22 +35,16 @@ class UCMScraper(UniversityScraper):
         program_type = program_cfg["type"]
         label = program_cfg["label"]
 
-        # pick the right base domain per program
-        if "economicasyempresariales" in program_url:
-            base = "https://economicasyempresariales.ucm.es"
-        else:
-            base = "https://matematicas.ucm.es"
-
-        print(f"\n[UCM] discovering course guides for {label}")
+        print(f"\n[UNAV] discovering course guides for {label}")
         print(f"  starting from: {program_url}")
 
         seen_urls: set[str] = set()
 
         discovered = self.discover_course_links(
             start_url=program_url,
-            url_patterns=UCM_GUIDE_PATTERNS,
-            follow_patterns=UCM_FOLLOW_PATTERNS,
-            base_url_override=base,
+            url_patterns=UNAV_GUIDE_PATTERNS,
+            follow_patterns=UNAV_FOLLOW_PATTERNS,
+            base_url_override=self.base_url,
             max_depth=2,
             min_links=3,
         )

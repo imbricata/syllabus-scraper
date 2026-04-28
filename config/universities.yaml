@@ -42,6 +42,68 @@ universities:
         url: https://www.uam.es/uam/ade
         course_guide_base: https://secretaria-virtual.uam.es/doa/consultaPublica/look[conpub]MostrarPubGuiaDocAs
 
+  UGR:
+    name: Universidad de Granada
+    programs:
+      matematicas:
+        type: stem
+        label: Grado en Matemáticas
+        url: https://grados.ugr.es/matematicas
+        guide_index: https://grados.ugr.es/matematicas/pages/infoacademica/guiasdocentes
+      ade:
+        type: business
+        label: Grado en Administración y Dirección de Empresas
+        url: https://grados.ugr.es/administracionempresas
+        guide_index: https://grados.ugr.es/administracionempresas/pages/infoacademica/guiasdocentes
+
+  URJC:
+    name: Universidad Rey Juan Carlos
+    programs:
+      matematicas:
+        type: stem
+        label: Grado en Matemáticas
+        url: https://www.urjc.es/estudios/grado/1067-grado-en-matematicas
+      ade:
+        type: business
+        label: Grado en Administración y Dirección de Empresas
+        url: https://www.urjc.es/estudios/grado/742-grado-en-administracion-y-direccion-de-empresas
+
+  Comillas:
+    name: Universidad Pontificia Comillas
+    programs:
+      icai_matematicas:
+        type: stem
+        label: ICAI Grado en Ingeniería Matemática e Inteligencia Artificial
+        url: https://www.comillas.edu/grados/grado-en-ingenieria-matematica-e-inteligencia-artificial-imat/
+      icade_ade:
+        type: business
+        label: ICADE Grado en Administración y Dirección de Empresas
+        url: https://www.comillas.edu/grados/grado-en-administracion-y-direccion-de-empresas-ade-e-2/
+
+  UB:
+    name: Universitat de Barcelona
+    programs:
+      matematicas:
+        type: stem
+        label: Grau en Matemàtiques
+        url: https://mat.ub.edu/categ/grau/
+      ade:
+        type: business
+        label: Grau en Administració i Direcció d'Empreses
+        url: https://www.ub.edu/portal/web/economia-empresa/grau-en-administracio-i-direccio-d-empreses
+
+  UNAV:
+    name: Universidad de Navarra
+    programs:
+      matematicas:
+        type: stem
+        label: Grado en Matemáticas
+        url: https://www.unav.edu/web/facultad-de-ciencias/grado-en-matematicas
+      ade:
+        type: business
+        label: Grado en Administración y Dirección de Empresas
+        url: https://www.unav.edu/web/facultad-de-ciencias-economicas-y-empresariales/grado-en-administracion-y-direccion-de-empresas
+
   IE:
     name: IE University
     programs:

@@ -3,7 +3,8 @@ UAM scraper. Course guides live at the virtual secretariat:
   https://secretaria-virtual.uam.es/doa/consultaPublica/look[conpub]MostrarPubGuiaDocAs
   ?_anoAcademico=2025&_codAsignatura=CODE&entradaPublica=true&idiomaPais=es.ES
 
-We use known subject codes from the public study plans.
+Discovery approach: scrape the program/plan de estudios page looking for links
+to secretaria-virtual.uam.es or guías docentes PDFs.
 """
 
 import time
@@ -13,50 +14,18 @@ urllib3.disable_warnings()
 from .base import UniversityScraper
 
 
-# known subject codes for UAM programs (from public study plans)
-UAM_COURSES = {
-    "matematicas": [
-        (16473, "Variable Real"),
-        (16474, "Calculo Diferencial"),
-        (16475, "Algebra Lineal"),
-        (16476, "Topologia"),
-        (16477, "Analisis Matematico"),
-        (16478, "Geometria"),
-        (16479, "Probabilidad"),
-        (16480, "Estadistica"),
-        (16481, "Ecuaciones Diferenciales"),
-        (16482, "Analisis Numerico"),
-        (16483, "Algebra Abstracta"),
-        (16484, "Analisis Funcional"),
-        (16485, "Optimizacion"),
-        (16486, "Teoria de Numeros"),
-        (16487, "Matematica Discreta"),
-    ],
-    "ade": [
-        (20401, "Introduccion a la Economia"),
-        (20402, "Matematicas para la Empresa I"),
-        (20403, "Contabilidad Financiera"),
-        (20404, "Microeconomia"),
-        (20405, "Derecho Mercantil"),
-        (20406, "Matematicas para la Empresa II"),
-        (20407, "Macroeconomia"),
-        (20408, "Estadistica Empresarial"),
-        (20409, "Contabilidad de Costes"),
-        (20410, "Marketing"),
-        (20411, "Finanzas"),
-        (20412, "Recursos Humanos"),
-        (20413, "Operaciones"),
-        (20414, "Estrategia"),
-        (20415, "Fiscalidad de la Empresa"),
-    ],
-}
+UAM_GUIDE_PATTERNS = [
+    "secretaria-virtual.uam.es",
+    "consultapublica",
+    "guiadoc",
+    "guia-docente",
+    "ficha",
+]
 
-GUIDE_BASE = (
-    "https://secretaria-virtual.uam.es/doa/consultaPublica/"
-    "look[conpub]MostrarPubGuiaDocAs"
-    "?_anoAcademico=2025&_codAsignatura={code}"
-    "&entradaPublica=true&idiomaPais=es.ES"
-)
+UAM_FOLLOW_PATTERNS = [
+    "plan", "estudios", "asignatura", "grado",
+    "programa", "docencia", "titulacion",
+]
 
 
 class UAMScraper(UniversityScraper):
@@ -68,41 +37,66 @@ class UAMScraper(UniversityScraper):
         results = []
         program_type = program_cfg["type"]
         label = program_cfg["label"]
-
-        print(f"\n[UAM] building course guide links for {label}")
-
-        courses = UAM_COURSES.get(program_name, [])
-        for code, course_name in courses:
-            url = GUIDE_BASE.format(code=code)
-            results.append({
-                "university": self.university,
-                "program": program_name,
-                "program_type": program_type,
-                "course_name": course_name,
-                "url": url,
-                "format": "html",
-            })
-
-        # also try scraping the program page for any directly linked guides
         program_url = program_cfg["url"]
-        soup = self.fetch(program_url)
-        if soup:
-            seen_urls = {r["url"] for r in results}
-            for a in soup.find_all("a", href=True):
-                href = a["href"]
-                text = a.get_text(strip=True)
-                if "secretaria-virtual" in href or href.endswith(".pdf"):
-                    full_url = href if href.startswith("http") else self.base_url + href
-                    if full_url not in seen_urls and text:
-                        seen_urls.add(full_url)
-                        results.append({
-                            "university": self.university,
-                            "program": program_name,
-                            "program_type": program_type,
-                            "course_name": text,
-                            "url": full_url,
-                            "format": "pdf" if href.endswith(".pdf") else "html",
-                        })
 
-        print(f"  built {len(results)} course guide links for {label}")
+        print(f"\n[UAM] discovering course guides for {label}")
+        print(f"  starting from: {program_url}")
+
+        seen_urls: set[str] = set()
+
+        discovered = self.discover_course_links(
+            start_url=program_url,
+            url_patterns=UAM_GUIDE_PATTERNS,
+            follow_patterns=UAM_FOLLOW_PATTERNS,
+            base_url_override=self.base_url,
+            max_depth=2,
+            min_links=3,
+        )
+
+        for text, url in discovered:
+            if url not in seen_urls:
+                seen_urls.add(url)
+                fmt = "pdf" if url.endswith(".pdf") else "html"
+                results.append({
+                    "university": self.university,
+                    "program": program_name,
+                    "program_type": program_type,
+                    "course_name": text,
+                    "url": url,
+                    "format": fmt,
+                })
+
+        # try the course guide base URL directly if config includes it
+        guide_base = program_cfg.get("course_guide_base", "")
+        if guide_base and len(results) < 5:
+            print(f"  trying course guide base: {guide_base}")
+            soup = self.fetch(guide_base)
+            if soup:
+                for text, url in self._extract_from_soup(soup, seen_urls, program_name, program_type):
+                    results.append(url)
+
+        print(f"  found {len(results)} course guide links for {label}")
         return results
+
+    def _extract_from_soup(self, soup, seen_urls, program_name, program_type):
+        out = []
+        for a in soup.find_all("a", href=True):
+            href = a["href"]
+            text = a.get_text(strip=True)
+            if not text:
+                continue
+            href_lower = href.lower()
+            if any(p in href_lower for p in UAM_GUIDE_PATTERNS) or href.endswith(".pdf"):
+                fu = href if href.startswith("http") else self.base_url + href
+                if fu not in seen_urls:
+                    seen_urls.add(fu)
+                    fmt = "pdf" if href.endswith(".pdf") else "html"
+                    out.append((text, {
+                        "university": self.university,
+                        "program": program_name,
+                        "program_type": program_type,
+                        "course_name": text,
+                        "url": fu,
+                        "format": fmt,
+                    }))
+        return out

@@ -4,9 +4,14 @@ Same structure as parse_grading.py but handles Spanish syllabuses,
 keywords like 'examen final', 'evaluacion', 'practicas', etc.
 """
 
+import os
 import re
+import tempfile
 import pdfplumber
 import requests
+import urllib3
+urllib3.disable_warnings()
+from bs4 import BeautifulSoup
 
 
 HEADERS = {
@@ -97,10 +102,8 @@ def extract_text_from_pdf(pdf_path: str) -> str:
 
 def fetch_html_text(url: str) -> str:
     try:
-        import urllib3; urllib3.disable_warnings()
         resp = requests.get(url, headers=HEADERS, timeout=15, verify=False)
         resp.raise_for_status()
-        from bs4 import BeautifulSoup
         soup = BeautifulSoup(resp.text, "lxml")
         return soup.get_text(separator="\n")
     except Exception as e:
@@ -151,22 +154,41 @@ def parse_grading_from_text(text: str) -> dict:
     grading = empty_grading()
     section = find_eval_section(text)
     if not section:
-        return grading
+        # still try peso-porcentual scan on full text
+        section = text
 
     for line in section.splitlines():
-        if "%" not in line:
+        line_stripped = line.strip()
+        if not line_stripped:
             continue
 
         raw_label = None
         pct = None
 
-        m = re.search(r"(.+?)\s+(\d{1,3})\s*%", line, flags=re.IGNORECASE)
+        # UC3M HTML style: "Peso porcentual del Examen/Prueba Final 60" (no % sign)
+        m_peso = re.search(
+            r"peso\s+porcentual\s+de[l]?\s+(.+?)\s+(\d{1,3})\s*$",
+            line_stripped,
+            flags=re.IGNORECASE,
+        )
+        if m_peso:
+            raw_label = m_peso.group(1).strip()
+            pct = int(m_peso.group(2))
+            category = map_label_es(raw_label)
+            if category and 0 < pct <= 100:
+                grading[category] += pct
+            continue
+
+        if "%" not in line_stripped:
+            continue
+
+        m = re.search(r"(.+?)\s+(\d{1,3})\s*%", line_stripped, flags=re.IGNORECASE)
         if m:
             raw_label = m.group(1).strip()
             pct = int(m.group(2))
 
         if raw_label is None:
-            m2 = re.search(r"(.+?)[:\-]\s*(\d{1,3})\s*%", line, flags=re.IGNORECASE)
+            m2 = re.search(r"(.+?)[:\-]\s*(\d{1,3})\s*%", line_stripped, flags=re.IGNORECASE)
             if m2:
                 raw_label = m2.group(1).strip()
                 pct = int(m2.group(2))
@@ -175,8 +197,52 @@ def parse_grading_from_text(text: str) -> dict:
             continue
 
         category = map_label_es(raw_label)
-        if category:
+        if category and 0 < pct <= 100:
             grading[category] += pct
+
+    return grading
+
+
+def parse_grading_from_html_soup(soup) -> dict:
+    """
+    Structured HTML parser — handles UC3M's list-based format and similar.
+    Looks at <li>, <td>, <th> elements for grading data before falling back to text.
+    """
+    grading = empty_grading()
+
+    # UC3M pattern: <li>Peso porcentual del X&nbsp;NN</li>
+    for li in soup.find_all("li"):
+        text = li.get_text(" ", strip=True)
+        m = re.search(
+            r"peso\s+porcentual\s+de[l]?\s+(.+?)\s+(\d{1,3})\s*$",
+            text,
+            flags=re.IGNORECASE,
+        )
+        if m:
+            raw_label = m.group(1).strip()
+            pct = int(m.group(2))
+            category = map_label_es(raw_label)
+            if category and 0 < pct <= 100:
+                grading[category] += pct
+
+    if total_weight(grading) > 0:
+        return grading
+
+    # generic table scan: find rows where one cell has a label and another has NN%
+    for table in soup.find_all("table"):
+        for row in table.find_all("tr"):
+            cells = [td.get_text(" ", strip=True) for td in row.find_all(["td", "th"])]
+            if len(cells) < 2:
+                continue
+            label = cells[0]
+            for cell in cells[1:]:
+                m = re.search(r"(\d{1,3})\s*%", cell)
+                if m:
+                    pct = int(m.group(1))
+                    category = map_label_es(label)
+                    if category and 0 < pct <= 100:
+                        grading[category] += pct
+                    break
 
     return grading
 
@@ -229,9 +295,34 @@ def parse_syllabus(source: str, is_url: bool = False, is_html: bool = False) -> 
     Returns grading dict or None if not a valid syllabus
     """
     if is_url and is_html:
-        text = fetch_html_text(source)
+        # try structured HTML soup parser first, fall back to text
+        try:
+            resp = requests.get(source, headers=HEADERS, timeout=15, verify=False)
+            resp.raise_for_status()
+            soup = BeautifulSoup(resp.text, "lxml")
+            text = soup.get_text(separator="\n")
+
+            if not text or not is_likely_syllabus(text):
+                return None
+
+            soup_grading = parse_grading_from_html_soup(soup)
+            text_grading = parse_grading_from_text(text)
+
+            s_total = total_weight(soup_grading)
+            t_total = total_weight(text_grading)
+
+            if 90 <= s_total <= 110:
+                return soup_grading
+            elif 90 <= t_total <= 110:
+                return text_grading
+            elif s_total > 0:
+                return soup_grading
+            else:
+                return text_grading
+        except Exception as e:
+            print(f"  html parse error {source}: {e}")
+            return None
     elif is_url:
-        import tempfile, requests, urllib3; urllib3.disable_warnings()
         try:
             resp = requests.get(source, headers=HEADERS, timeout=20, verify=False)
             resp.raise_for_status()
@@ -240,7 +331,7 @@ def parse_syllabus(source: str, is_url: bool = False, is_html: bool = False) -> 
                 tmp_path = f.name
             text = extract_text_from_pdf(tmp_path)
             table_grading = parse_grading_from_pdf_tables(tmp_path)
-            import os; os.unlink(tmp_path)
+            os.unlink(tmp_path)
         except Exception as e:
             print(f"  download error {source}: {e}")
             return None

@@ -1,10 +1,11 @@
 """
-UCM scraper. Fetches course guide links from the plan de estudios pages.
-UCM course guides (fichas docentes) are HTML pages linked from subject entries.
-Discovery approach: follow links from program page matching guide URL patterns.
+UB (Universitat de Barcelona) scraper.
+Math: https://mat.ub.edu/categ/grau/
+Business (ADE): https://www.ub.edu/portal/web/economia-empresa/grau-en-administracio-i-direccio-d-empreses
+UB course guides (fitxes docents / guies docents) are linked from degree plan pages.
+Guide URLs typically go through: https://www.ub.edu/guiadocent/
 """
 
-import re
 import time
 import urllib3
 urllib3.disable_warnings()
@@ -12,20 +13,22 @@ urllib3.disable_warnings()
 from .base import UniversityScraper
 
 
-UCM_GUIDE_PATTERNS = [
-    "ficha", "guia", "guía", "docente", "asignatura",
+UB_GUIDE_PATTERNS = [
+    "guiadocent", "guia-docent", "fitxa", "fitxadocent",
+    "docent", "guiadocente",
+    "ub.edu/guia",
 ]
 
-UCM_FOLLOW_PATTERNS = [
-    "plan", "curso", "primer", "segundo", "tercer", "cuarto",
-    "estudios", "asignatura", "estructura",
+UB_FOLLOW_PATTERNS = [
+    "pla", "plan", "estudis", "estudios", "assignatura",
+    "asignatura", "grau", "grado", "oferta",
 ]
 
 
-class UCMScraper(UniversityScraper):
+class UBScraper(UniversityScraper):
 
-    university = "UCM"
-    base_url = "https://matematicas.ucm.es"
+    university = "UB"
+    base_url = "https://www.ub.edu"
 
     def get_syllabus_links(self, program_name: str, program_cfg: dict) -> list[dict]:
         results = []
@@ -33,22 +36,22 @@ class UCMScraper(UniversityScraper):
         program_type = program_cfg["type"]
         label = program_cfg["label"]
 
-        # pick the right base domain per program
-        if "economicasyempresariales" in program_url:
-            base = "https://economicasyempresariales.ucm.es"
-        else:
-            base = "https://matematicas.ucm.es"
-
-        print(f"\n[UCM] discovering course guides for {label}")
+        print(f"\n[UB] discovering course guides for {label}")
         print(f"  starting from: {program_url}")
 
         seen_urls: set[str] = set()
 
+        # UB math is hosted on mat.ub.edu, use that as base
+        if "mat.ub.edu" in program_url:
+            base_override = "https://mat.ub.edu"
+        else:
+            base_override = self.base_url
+
         discovered = self.discover_course_links(
             start_url=program_url,
-            url_patterns=UCM_GUIDE_PATTERNS,
-            follow_patterns=UCM_FOLLOW_PATTERNS,
-            base_url_override=base,
+            url_patterns=UB_GUIDE_PATTERNS,
+            follow_patterns=UB_FOLLOW_PATTERNS,
+            base_url_override=base_override,
             max_depth=2,
             min_links=3,
         )
