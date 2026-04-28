@@ -1,0 +1,57 @@
+universities:
+
+  UCM:
+    name: Universidad Complutense de Madrid
+    programs:
+      matematicas:
+        type: stem
+        label: Grado en Matemáticas
+        url: https://www.mat.ucm.es/estudios/grado-en-matematicas/plan-de-estudios
+      ade:
+        type: business
+        label: Grado en Administración y Dirección de Empresas
+        url: https://www.ccee.ucm.es/estudios/ade/plan-de-estudios
+
+  UC3M:
+    name: Universidad Carlos III de Madrid
+    programs:
+      applied_mathematics:
+        type: stem
+        label: Bachelor in Applied Mathematics
+        url: https://www.uc3m.es/bachelor-degree/applied-mathematics/study-plan
+      business:
+        type: business
+        label: Bachelor in Business Administration
+        url: https://www.uc3m.es/bachelor-degree/business-administration/study-plan
+
+  UAM:
+    name: Universidad Autónoma de Madrid
+    programs:
+      matematicas:
+        type: stem
+        label: Grado en Matemáticas
+        url: https://www.uam.es/uam/estudios/grado/matematicas
+      ade:
+        type: business
+        label: Grado en Administración y Dirección de Empresas
+        url: https://www.uam.es/uam/estudios/grado/administracion-y-direccion-de-empresas
+
+  UPM:
+    name: Universidad Politécnica de Madrid
+    programs:
+      matematicas_ingenieria:
+        type: stem
+        label: Grado en Matemáticas e Ingeniería
+        url: https://www.upm.es/Estudiantes/Estudios_Titulaciones/EstudiosGrado/grados?id=54
+
+  IE:
+    name: IE University
+    programs:
+      applied_mathematics:
+        type: stem
+        label: Bachelor in Applied Mathematics
+        url: https://www.ie.edu/university/studies/undergraduate-programs/bachelor-applied-mathematics/
+      bba:
+        type: business
+        label: Bachelor in Business Administration
+        url: https://www.ie.edu/university/studies/undergraduate-programs/bachelor-business-administration/
