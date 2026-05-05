@@ -1,0 +1,2521 @@
+university,degree,course_name,exam_weight,degree_clean
+IE,BAM,ALGORITHMS,75.0,Applied Mathematics
+IE,BAM,PARTIAL DIFFERENTIAL EQUATIONS,80.0,Applied Mathematics
+IE,BAM,CALCULUS 1,75.0,Applied Mathematics
+IE,BAM,COMMUNICATION SKILLS,0.0,Applied Mathematics
+IE,BAM,COMPUTER PROGRAMMING 1,60.0,Applied Mathematics
+IE,BAM,DISCRETE MATHEMATICS,80.0,Applied Mathematics
+IE,BAM,GEOMETRY,70.0,Applied Mathematics
+IE,BAM,LINEAR ALGEBRA,70.0,Applied Mathematics
+IE,BAM,MACHINE LEARNING,60.0,Applied Mathematics
+IE,BAM,NUMERICAL METHODS,75.0,Applied Mathematics
+IE,BAM,ORDINARY DIFFERENTIAL EQUATIONS,80.0,Applied Mathematics
+IE,BAM,OPTIMIZATION I,70.0,Applied Mathematics
+IE,BAM,APPROXIMATION,70.0,Applied Mathematics
+IE,BAM,CALCULUS 2,70.0,Applied Mathematics
+IE,BAM,COMPUTER PROGRAMMING 2,70.0,Applied Mathematics
+IE,BAM,DATA BASES,60.0,Applied Mathematics
+IE,BAM,DATA VISUALIZATION,30.0,Applied Mathematics
+IE,BAM,MATHEMATICAL MODELING,60.0,Applied Mathematics
+IE,BAM,OPTIMIZATION II,70.0,Applied Mathematics
+IE,BAM,PROBABILITY AND STATISTICS,70.0,Applied Mathematics
+IE,BAM,STATISTICAL MODELING,60.0,Applied Mathematics
+IE,BAM,BAYESIAN STATISTICS AND STOCHASTIC,60.0,Applied Mathematics
+IE,BAM,DEEP LEARNING,70.0,Applied Mathematics
+IE,BAM,NONLINEAR DYNAMICS,70.0,Applied Mathematics
+IE,BAM,NUMERICAL LINEAR ALGEBRA,75.0,Applied Mathematics
+IE,BAM,OPTIMIZATION III,70.0,Applied Mathematics
+IE,BAS,ALTERNATIVE PRACTICES: DESIGN,0.0,Architecture
+IE,BAS,ALTERNATIVE PRACTICES: DIGITAL STUDIES,0.0,Architecture
+IE,BAS,ALTERNATIVE PRACTICES: LANDSCAPE AND,0.0,Architecture
+IE,BAS,ALTERNATIVE PRACTICES: RESEARCH METHODS,0.0,Architecture
+IE,BAS,ALTERNATIVE PRACTICES: URBAN,0.0,Architecture
+IE,BAS,APPLIED MATHEMATICS IN ARCHITECTURE 1,40.0,Architecture
+IE,BAS,APPLIED MATHEMATICS IN ARCHITECTURE 2,50.0,Architecture
+IE,BAS,APPLIED PHYSICS IN ARCHITECTURE 2,85.0,Architecture
+IE,BAS,ARCHITECTURAL GEOMETRY 2,30.0,Architecture
+IE,BAS,ARCHITECTURAL HISTORY AND THEORY 1,35.0,Architecture
+IE,BAS,ARCHITECTURAL HISTORY AND THEORY 2,40.0,Architecture
+IE,BAS,ARCHITECTURAL HISTORY AND THEORY 3,45.0,Architecture
+IE,BAS,ARCHITECTURE HISTORIES AND CONTEXTS,50.0,Architecture
+IE,BAS,ADVANCED ARCHITECTURAL GRAPHICS,0.0,Architecture
+IE,BAS,ADVANCED TECHNICAL STUDIES,0.0,Architecture
+IE,BAS,ADVANCED STRUCTURES AND FOUNDATIONS,50.0,Architecture
+IE,BAS,APPLIED PHYSICS IN ARCHITECTURE 1,70.0,Architecture
+IE,BAS,ARCHITECTURAL GEOMETRY 1,30.0,Architecture
+IE,BAS,ARCHITECTURAL HISTORY AND THEORY 4,0.0,Architecture
+IE,BAS,CONSTRUCTION SYSTEMS AND APPLICATIONS 1,0.0,Architecture
+IE,BAS,CONSTRUCTION SYSTEMS AND APPLICATIONS 3,0.0,Architecture
+IE,BAS,CONSTRUCTION SYSTEMS AND APPLICATIONS 4,0.0,Architecture
+IE,BAS,DESIGN STUDIO 1: IDEA AND FORM,0.0,Architecture
+IE,BAS,DESIGN STUDIO 3: EXPERIENCE,0.0,Architecture
+IE,BAS,DESIGN STUDIO 4: PROGRAM,0.0,Architecture
+IE,BAS,DESIGN STUDIO 5: TECHNIQUE,0.0,Architecture
+IE,BAS,DESIGN STUDIO 6: THE EXISTING,0.0,Architecture
+IE,BAS,DESIGN STUDIO 7: AGREGATION,0.0,Architecture
+IE,BAS,DESIGN ENTREPRENEURSHIP WORKSHOP 3,0.0,Architecture
+IE,BAS,DIGITAL TOOLS AND OPERATIONS 1,0.0,Architecture
+IE,BAS,DESIGN STUDIO 9: SYNTHESIS,0.0,Architecture
+IE,BAS,DESIGN ENTREPRENEURSHIP WORKSHOP 1,0.0,Architecture
+IE,BAS,DESIGN ENTREPRENEURSHIP WORKSHOP 2,0.0,Architecture
+IE,BAS,DESIGN STUDIO 2: FORM AND MATERIAL,0.0,Architecture
+IE,BAS,DESIGN STUDIO 8: TERRITORY,0.0,Architecture
+IE,BAS,DIGITAL TOOLS AND OPERATIONS 2,0.0,Architecture
+IE,BAS,ENVIRONMENTAL SYSTEMS AND STRATEGIES 1,20.0,Architecture
+IE,BAS,ENVIRONMENTAL SYSTEMS AND STRATEGIES 2,20.0,Architecture
+IE,BAS,EXPERIMENTATION WORKSHOP 1,0.0,Architecture
+IE,BAS,EXPERIMENTATION WORKSHOP 2,0.0,Architecture
+IE,BAS,GRAPHIC COMMUNICATION 1,0.0,Architecture
+IE,BAS,GRAPHIC COMMUNICATION 2,0.0,Architecture
+IE,BAS,INTRODUCTION TO URBAN AND REGIONAL,80.0,Architecture
+IE,BAS,PROFESSIONAL PRACTICE,0.0,Architecture
+IE,BAS,STRUCTURAL TYPES AND CALCULATION 1,70.0,Architecture
+IE,BAS,STRUCTURAL TYPES AND CALCULATION 2,60.0,Architecture
+IE,BAS,URBAN MANAGEMENT,80.0,Architecture
+IE,BAS,URBAN STRATEGIES 1,0.0,Architecture
+IE,BAS,UNDERGRADUATE THESIS,0.0,Architecture
+IE,BAS,URBAN STRATEGIES 2,30.0,Architecture
+IE,BBA,APPLIED BUSINESS MATHEMATICS,70.0,Business Administration
+IE,BBA,BUSINESS-DRIVEN INFORMATION,70.0,Business Administration
+IE,BBA,BUSINESS LAW,60.0,Business Administration
+IE,BBA,CAPITAL MARKETS,70.0,Business Administration
+IE,BBA,CORPORATE FINANCE,70.0,Business Administration
+IE,BBA,CONTABILIDAD DE COSTES,40.0,Business Administration
+IE,BBA,DATA ANALYSIS FOR ECONOMICS,75.0,Business Administration
+IE,BBA,ADVANCED CODING,50.0,Business Administration
+IE,BBA,ADVANCED CODING,50.0,Business Administration
+IE,BBA,CONSULTING CHALLENGE,0.0,Business Administration
+IE,BBA,FINAL PROJECT,0.0,Business Administration
+IE,BBA,FINANCIAL ACCOUNTING,70.0,Business Administration
+IE,BBA,FINANCIAL REPORTING & ANALYSIS,75.0,Business Administration
+IE,BBA,GLOBAL ECONOMIC ENVIRONMENT,60.0,Business Administration
+IE,BBA,HUMAN CAPITAL MANAGEMENT,40.0,Business Administration
+IE,BBA,IE HUMANITIES,100.0,Business Administration
+IE,BBA,IE-CHALLENGE,0.0,Business Administration
+IE,BBA,ENTREPRENEURSHIP,0.0,Business Administration
+IE,BBA,INTRODUCTION TO PROGRAMMING,60.0,Business Administration
+IE,BBA,MACROECONOMICS,0.0,Business Administration
+IE,BBA,MANAGEMENT CONTROL,60.0,Business Administration
+IE,BBA,MANAGEMENT TOOLS & PRINCIPLES,60.0,Business Administration
+IE,BBA,MARKETING FUNDAMENTALS,45.0,Business Administration
+IE,BBA,MARKETING IN ACTION,0.0,Business Administration
+IE,BBA,MARKETING MANAGEMENT,35.0,Business Administration
+IE,BBA,MATHEMATICS FOR MANAGEMENT,65.0,Business Administration
+IE,BBA,MICROECONOMICS,60.0,Business Administration
+IE,BBA,ORGANIZATIONAL BEHAVIOR,60.0,Business Administration
+IE,BBA,RESEARCH & ACADEMIC WRITING SKILLS,0.0,Business Administration
+IE,BBA,STATISTICS & DATA ANALYSIS,40.0,Business Administration
+IE,BBA,STRATEGIES FOR COMPETING IN INDUSTRIES,60.0,Business Administration
+IE,BBA,STRATEGIES FOR THE MULTINATIONAL,50.0,Business Administration
+IE,BBA,SUPPLY CHAIN MANAGEMENT,40.0,Business Administration
+IE,BBA,TECHNOLOGY,0.0,Business Administration
+IE,BBSS,BEHAVIOR AND THE BRAIN,40.0,Behavior & Social Sciences
+IE,BBSS,BEHAVIOR DESIGN,0.0,Behavior & Social Sciences
+IE,BBSS,BEHAVIORAL ECONOMICS AND DECISION-,25.0,Behavior & Social Sciences
+IE,BBSS,CAPSTONE PROJECT,0.0,Behavior & Social Sciences
+IE,BBSS,DATA INSIGHTS AND VISUALIZATION,40.0,Behavior & Social Sciences
+IE,BBSS,ADVANCED TOPIC: DRIVING CHANGE IN,0.0,Behavior & Social Sciences
+IE,BBSS,ENTREPRENEURSHIP,0.0,Behavior & Social Sciences
+IE,BBSS,FUNDAMENTALS OF DATA ANALYSIS,30.0,Behavior & Social Sciences
+IE,BBSS,FUNDAMENTALS OF HUMAN BEHAVIOR,60.0,Behavior & Social Sciences
+IE,BBSS,FUNDAMENTALS OF PROBABILITY AND,55.0,Behavior & Social Sciences
+IE,BBSS,FUNDAMENTALS OF SOCIAL SCIENCES,40.0,Behavior & Social Sciences
+IE,BBSS,IE HUMANITIES,30.0,Behavior & Social Sciences
+IE,BBSS,"IDENTITY, DIVERSITY AND CROSS CULTURAL",20.0,Behavior & Social Sciences
+IE,BBSS,IE-CHALLENGE,0.0,Behavior & Social Sciences
+IE,BBSS,INTRODUCTION TO ECONOMICS,40.0,Behavior & Social Sciences
+IE,BBSS,LAW & BEHAVIOR,65.0,Behavior & Social Sciences
+IE,BBSS,"LEARNING TO OBSERVE, EXPERIMENT AND",40.0,Behavior & Social Sciences
+IE,BBSS,"MARKETING, ADVERTISING & CONSUMER",0.0,Behavior & Social Sciences
+IE,BBSS,PERSUASION AND NEGOTIATION,0.0,Behavior & Social Sciences
+IE,BBSS,PERSUASION AND NEGOTIATION,0.0,Behavior & Social Sciences
+IE,BBSS,ORGANIZATIONAL AND EMPLOYEE BEHAVIOR,25.0,Behavior & Social Sciences
+IE,BBSS,"PERSONALITY, INDIVIDUAL AND CULTURAL",35.0,Behavior & Social Sciences
+IE,BBSS,POWER AND INEQUALITY: FUNDAMENTALS OF,65.0,Behavior & Social Sciences
+IE,BBSS,"PUBLIC OPINION, PREFERENCES & VOTER",30.0,Behavior & Social Sciences
+IE,BBSS,QUALITATIVE TOOLS FOR STUDYING PEOPLE,0.0,Behavior & Social Sciences
+IE,BBSS,QUANTITATIVE TOOLS FOR STUDYING PEOPLE,30.0,Behavior & Social Sciences
+IE,BBSS,TEAMWORKING AND COLLABORATION SKILLS,0.0,Behavior & Social Sciences
+IE,BBSS,TECHNOLOGY,0.0,Behavior & Social Sciences
+IE,BBSS,THE PSYCHOLOGY OF COGNITION AND EMOTION,0.0,Behavior & Social Sciences
+IE,BBSS,THE SOCIAL SELF,30.0,Behavior & Social Sciences
+IE,BBSS,UNDERSTANDING POPULATION AND,0.0,Behavior & Social Sciences
+IE,BBSS,WELFARE AND POLICY DESIGN,55.0,Behavior & Social Sciences
+IE,BCDM,COMMUNICATION AND LAW,40.0,Communication & Digital Media
+IE,BCDM,COMMUNICATION FOUNDATIONS,40.0,Communication & Digital Media
+IE,BCDM,CONSUMER BEHAVIOR,50.0,Communication & Digital Media
+IE,BCDM,CORPORATE COMMUNICATION,30.0,Communication & Digital Media
+IE,BCDM,CREATIVE PROJECT MANAGEMENT,0.0,Communication & Digital Media
+IE,BCDM,DIGITAL MARKETING AND SOCIAL MEDIA,0.0,Communication & Digital Media
+IE,BCDM,GLOBALIZATION AND CROSS-CULTURAL,0.0,Communication & Digital Media
+IE,BCDM,GRAPHIC DESIGN AND INFOGRAPHICS,10.0,Communication & Digital Media
+IE,BCDM,MEDIA AND ENTERTAINMENT INDUSTRIES,40.0,Communication & Digital Media
+IE,BCDM,MEDIA RELATIONS AND MEDIA TRAINING,0.0,Communication & Digital Media
+IE,BCDM,PHOTOGRAPHY,0.0,Communication & Digital Media
+IE,BCDM,POLITICAL COMMUNICATION AND ADVOCACY,30.0,Communication & Digital Media
+IE,BCDM,"PUBLIC OPINION, PERSUASION AND",25.0,Communication & Digital Media
+IE,BCDM,VIDEO PRODUCTION,0.0,Communication & Digital Media
+IE,BCDM,VISUAL STORYTELLING,0.0,Communication & Digital Media
+IE,BCDM,WEBS AND APPS DESIGN,20.0,Communication & Digital Media
+IE,BCDM,WRITING FOR MEDIA,0.0,Communication & Digital Media
+IE,BCSAI,AI: CHATBOTS & RECOMMENDATION ENGINES,30.0,Computer Science & AI
+IE,BCSAI,AI: COMPUTER VISION,65.0,Computer Science & AI
+IE,BCSAI,AI: MACHINE LEARNING FOUNDATIONS,30.0,Computer Science & AI
+IE,BCSAI,AI: NATURAL LANGUAGE PROCESSING &,35.0,Computer Science & AI
+IE,BCSAI,AI: PERSONALITY AND EMOTION FOR AI DESIGN,40.0,Computer Science & AI
+IE,BCSAI,AI: REASONING & PROBLEM SOLVING,30.0,Computer Science & AI
+IE,BCSAI,AI: REINFORCEMENT LEARNING,30.0,Computer Science & AI
+IE,BCSAI,AI: STATISTICAL LEARNING & PREDICTION,65.0,Computer Science & AI
+IE,BCSAI,ALGORITHMS & DATA STRUCTURES,30.0,Computer Science & AI
+IE,BCSAI,"BLOCKCHAIN, CRYPTOCURRENCIES & FINTECH",0.0,Computer Science & AI
+IE,BCSAI,CALCULUS FOR COMPUTER SCIENCE,60.0,Computer Science & AI
+IE,BCSAI,CLOUD COMPUTING,0.0,Computer Science & AI
+IE,BCSAI,"COMPUTER ARCHITECTURE, NETWORK",60.0,Computer Science & AI
+IE,BCSAI,COMPUTER PROGRAMMING 1,70.0,Computer Science & AI
+IE,BCSAI,COMPUTER PROGRAMMING 2,50.0,Computer Science & AI
+IE,BCSAI,CAPSTONE PROJECT,0.0,Computer Science & AI
+IE,BCSAI,DESIGNING AND USING DATABASES,50.0,Computer Science & AI
+IE,BCSAI,DISCRETE MATHEMATICS,70.0,Computer Science & AI
+IE,BCSAI,"ETHICS, POLICY MAKING AND LEGISLATION IN CS",20.0,Computer Science & AI
+IE,BCSAI,AT THE EDGE OF NEUROSCIENCE: MARKETING,25.0,Computer Science & AI
+IE,BCSAI,FUNDAMENTALS OF DATA ANALYSIS,50.0,Computer Science & AI
+IE,BCSAI,FUNDAMENTALS OF PROBABILITY AND,50.0,Computer Science & AI
+IE,BCSAI,HIGH PERFORMANCE COMPUTING,45.0,Computer Science & AI
+IE,BCSAI,INTRODUCTION TO BUSINESS MANAGEMENT,50.0,Computer Science & AI
+IE,BCSAI,"LEARNING TO OBSERVE, EXPERIMENT AND",55.0,Computer Science & AI
+IE,BCSAI,MATRICES & LINEAR TRANSFORMATIONS,30.0,Computer Science & AI
+IE,BCSAI,PHYSICS FOR COMPUTER SCIENCE,70.0,Computer Science & AI
+IE,BCSAI,PROBABILITY FOR COMPUTING SCIENCE,35.0,Computer Science & AI
+IE,BCSAI,PRINCIPLES OF PROGRAMMING,75.0,Computer Science & AI
+IE,BCSAI,ROBOTICS & AUTOMATION,50.0,Computer Science & AI
+IE,BCSAI,SIMULATING AND MODELING TO UNDERSTAND,50.0,Computer Science & AI
+IE,BCSAI,SOFTWARE DEVELOPMENT AND DEVOPS,45.0,Computer Science & AI
+IE,BCSAI,THE BIG HISTORY OF IDEAS AND INNOVATION,50.0,Computer Science & AI
+IE,BCSAI,"UX, UI & HUMAN-COMPUTER INTERACTION",30.0,Computer Science & AI
+IE,BDBA,AI-MACHINE LEARNING & ANALYTICS,40.0,Data & Business Analytics
+IE,BDBA,AI-MACHINE LEARNING FOUNDATIONS,35.0,Data & Business Analytics
+IE,BDBA,ADVANCED DATABASES,40.0,Data & Business Analytics
+IE,BDBA,"ADVANCED TOPIC: CONNECTED INDUSTRIES,",0.0,Data & Business Analytics
+IE,BDBA,ADVANCED TOPIC: CUSTOMER ANALYTICS,30.0,Data & Business Analytics
+IE,BDBA,ADVANCED TOPIC: FINANCIAL ANALYTICS,30.0,Data & Business Analytics
+IE,BDBA,ALGORITHMS & DATA STRUCTURES,45.0,Data & Business Analytics
+IE,BDBA,ANALYZING SOCIAL MEDIA,65.0,Data & Business Analytics
+IE,BDBA,BIG DATA TECHNOLOGY,40.0,Data & Business Analytics
+IE,BDBA,CAPSTONE PROJECT,0.0,Data & Business Analytics
+IE,BDBA,COMMUNICATION SKILLS,30.0,Data & Business Analytics
+IE,BDBA,COMPUTATIONAL THINKING FOR DATA,40.0,Data & Business Analytics
+IE,BDBA,DATA GOVERNANCE,30.0,Data & Business Analytics
+IE,BDBA,DATA INSIGHTS AND VISUALIZATION,40.0,Data & Business Analytics
+IE,BDBA,"DATA VISUALIZATION, DASHBOARDS &",0.0,Data & Business Analytics
+IE,BDBA,DESIGNING ARTIFICIAL INTELLIGENCE &,30.0,Data & Business Analytics
+IE,BDBA,EMERGING TOPICS IN DATA ANALYSIS &,40.0,Data & Business Analytics
+IE,BDBA,FORECASTING FOR TIME SERIES,60.0,Data & Business Analytics
+IE,BDBA,FUNDAMENTALS OF DATA ANALYSIS,35.0,Data & Business Analytics
+IE,BDBA,FUNDAMENTALS OF HUMAN BEHAVIOR,50.0,Data & Business Analytics
+IE,BDBA,FUNDAMENTALS OF PROBABILITY AND,50.0,Data & Business Analytics
+IE,BDBA,INTRODUCTION TO BUSINESS AND SOCIAL,40.0,Data & Business Analytics
+IE,BDBA,INTRODUCTION TO PROGRAMMING FOR DATA,75.0,Data & Business Analytics
+IE,BDBA,"LEARNING TO OBSERVE, EXPERIMENT AND",40.0,Data & Business Analytics
+IE,BDBA,MATHEMATICS FOR DATA MANAGEMENT AND,35.0,Data & Business Analytics
+IE,BDBA,"NLP, TEXT MINING AND SEMANTIC ANALYSIS",45.0,Data & Business Analytics
+IE,BDBA,OPERATING SYSTEMS & PARALLEL COMPUTING,50.0,Data & Business Analytics
+IE,BDBA,PROBABILITY & STATISTICS FOR DATA,25.0,Data & Business Analytics
+IE,BDBA,PROFESSIONAL BOOTCAMP: LEADERSHIP,20.0,Data & Business Analytics
+IE,BDBA,PROFESSIONAL BOOTCAMP: TEAMWORK,45.0,Data & Business Analytics
+IE,BDBA,PROGRAMMING FOR DATA MANAGEMENT &,55.0,Data & Business Analytics
+IE,BDBA,PROJECT MANAGEMENT,35.0,Data & Business Analytics
+IE,BDBA,RECOMMENDATION ENGINES,25.0,Data & Business Analytics
+IE,BDBA,SIMULATING AND MODELING TO UNDERSTAND,50.0,Data & Business Analytics
+IE,BDBA,STREAM ANALYTICS,50.0,Data & Business Analytics
+IE,BDBA,THE BIG HISTORY OF IDEAS AND INNOVATION,50.0,Data & Business Analytics
+IE,BDBA,TIME SERIES ANALYSIS,60.0,Data & Business Analytics
+IE,BDES,BUSINESS MANAGEMENT,50.0,Design
+IE,BDES,CONTEMPORARY DESIGN TRENDS,0.0,Design
+IE,BDES,DESIGN AND CRITICISM,35.0,Design
+IE,BDES,DESIGN HISTORY I,35.0,Design
+IE,BDES,DESIGN HISTORY II,25.0,Design
+IE,BDES,DESIGN METHODOLOGY,20.0,Design
+IE,BDES,DESIGN NARRATIVES,0.0,Design
+IE,BDES,DESIGN STUDIO I,20.0,Design
+IE,BDES,DESIGN STUDIO IV,0.0,Design
+IE,BDES,Food as a tool for change,0.0,Design
+IE,BDES,ENTREPRENEURSHIP,0.0,Design
+IE,BDES,ETHNOGRAPHY,0.0,Design
+IE,BDES,FABRICATION TECHNOLOGIES,0.0,Design
+IE,BDES,FINAL PROJECT,0.0,Design
+IE,BDES,IE-HUMANITIES,50.0,Design
+IE,BDES,IE-CHALLENGE,0.0,Design
+IE,BDES,INTERACTIVE AND DIGITAL TOOLS,0.0,Design
+IE,BDES,INTRODUCTION TO DESIGN STUDIO II:,0.0,Design
+IE,BDES,INTRODUCTION TO DESIGN STUDIO I: LEARNING,0.0,Design
+IE,BDES,MATERIALS AND APPLICATIONS I,0.0,Design
+IE,BDES,MATERIALS AND APPLICATIONS II,80.0,Design
+IE,BDES,PORTFOLIO DESIGN,30.0,Design
+IE,BDES,PROCESSES AND DESIGN THEORY,20.0,Design
+IE,BDES,PROGRAMMING FOR DESIGNERS,0.0,Design
+IE,BDES,PSYCHOLOGY AND USER CENTER DESIGN,0.0,Design
+IE,BDES,QUANTITATIVE METHODS,0.0,Design
+IE,BDES,RESEARCH TECHNIQUES,0.0,Design
+IE,BDES,SUSTAINABILITY,0.0,Design
+IE,BDES,TECHNOLOGY,0.0,Design
+IE,BDES,"TYPOGRAPHY, LAYOUT AND PRESENTATION",0.0,Design
+IE,BDES,VISUALIZATION AND REPRESENTATION,0.0,Design
+IE,BDES,WRITING SKILLS,0.0,Design
+IE,BEC,BLOCKCHAIN AND CRYPTOCURRENCY,0.0,Economics
+IE,BEC,CAPITAL MARKETS,40.0,Economics
+IE,BEC,COMPUTATIONAL MACROECONOMICS,40.0,Economics
+IE,BEC,CORPORATE FINANCE,60.0,Economics
+IE,BEC,DEVELOPMENT AND GROWTH ECONOMICS,50.0,Economics
+IE,BEC,ECONOMETRICS II: FORECASTING &,50.0,Economics
+IE,BEC,ECONOMETRICS,70.0,Economics
+IE,BEC,ECONOMIC HISTORY,30.0,Economics
+IE,BEC,ECONOMIC MODELING & SIMULATION,40.0,Economics
+IE,BEC,ECONOMIC REPORTING LAB,70.0,Economics
+IE,BEC,ECONOMIC RESEARCH: CONSUMERS & MARKETS,25.0,Economics
+IE,BEC,ECONOMIC RESEARCH: REGIONS & INDUSTRIES,0.0,Economics
+IE,BEC,CURRICULAR INTERNSHIPS,40.0,Economics
+IE,BEC,CURRICULAR INTERNSHIPS,40.0,Economics
+IE,BEC,ENVIRONMENTAL ECONOMICS,40.0,Economics
+IE,BEC,FINANCIAL ECONOMICS & ACCOUNTING,50.0,Economics
+IE,BEC,FOUNDATIONS OF MACROECONOMICS,60.0,Economics
+IE,BEC,FOUNDATIONS OF MICROECONOMICS,60.0,Economics
+IE,BEC,GAME THEORY,60.0,Economics
+IE,BEC,IE-CHALLENGE,0.0,Economics
+IE,BEC,IE HUMANITIES,40.0,Economics
+IE,BEC,ENTREPRENEURSHIP,0.0,Economics
+IE,BEC,INDUSTRIAL ORGANIZATION AND STRATEGY,60.0,Economics
+IE,BEC,INSTITUTIONAL ECONOMICS,65.0,Economics
+IE,BEC,INTERNATIONAL TRADE AND MONETARY SYSTEM,30.0,Economics
+IE,BEC,"LABOR ECONOMICS, DIGITALIZATION, AND AI",0.0,Economics
+IE,BEC,MACHINE LEARNING & ANALYTICS FOR,50.0,Economics
+IE,BEC,"MARKET, AUCTION AND CONTRACT DESIGN",45.0,Economics
+IE,BEC,MATHEMATICS FOR ECONOMISTS,60.0,Economics
+IE,BEC,MICROECONOMETRICS,70.0,Economics
+IE,BEC,NEW ECONOMY: DIGITAL ECOSYSTEMS &,35.0,Economics
+IE,BEC,PROBABILITY & STATISTICS,60.0,Economics
+IE,BEC,PROGRAMMING FOR ECONOMISTS I,40.0,Economics
+IE,BEC,PROGRAMMING FOR ECONOMISTS II,80.0,Economics
+IE,BEC,PUBLIC ECONOMICS & POLITICAL ECONOMY,60.0,Economics
+IE,BEC,RESEARCH METHODS,100.0,Economics
+IE,BEC,TECHNOLOGY,0.0,Economics
+IE,BEC,BIE FINAL PROJECT,0.0,Economics
+IE,BHUM,ADVANCED WRITING SKILLS,0.0,Humanities
+IE,BHUM,APPLIED BUSINESS MATHEMATICS,70.0,Humanities
+IE,BHUM,INTRODUCTION TO DIGITAL HUMANITIES,0.0,Humanities
+IE,BHUM,FINANCIAL ACCOUNTING,70.0,Humanities
+IE,BHUM,FOUNDATIONS OF SOCIAL THEORY,60.0,Humanities
+IE,BHUM,GLOBAL HISTORY I,0.0,Humanities
+IE,BHUM,GLOBAL HISTORY II,55.0,Humanities
+IE,BHUM,INTRODUCTION TO PROGRAMMING,70.0,Humanities
+IE,BHUM,LOGIC AND ALGORITHMIC THINKING,40.0,Humanities
+IE,BHUM,MANAGEMENT TOOLS AND PRINCIPLES,60.0,Humanities
+IE,BHUM,MATHEMATICS FOR MANAGEMENT,65.0,Humanities
+IE,BHUM,MICROECONOMICS,60.0,Humanities
+IE,BHUM,PHILOSOPHICAL METHODS AND QUESTIONS,30.0,Humanities
+IE,BHUM,RESEARCH & ACADEMIC WRITING SKILLS,0.0,Humanities
+IE,BHUM,RHETORIC AND STORYTELLING,45.0,Humanities
+IE,BIR,RESEARCH METHODS,100.0,International Relations
+IE,BIR,GLOBAL GOVERNANCE AND INTERNATIONAL,70.0,International Relations
+IE,BIR,INTERNATIONAL TRADE AND FINANCE,60.0,International Relations
+IE,BIR,INTERNATIONAL LAW,55.0,International Relations
+IE,BIR,PEACE AND CONFLICT RESOLUTION,55.0,International Relations
+IE,BIR,PROJECT MANAGEMENT,40.0,International Relations
+IE,BIR,INTERNATIONAL RELATIONS SKILLS I,50.0,International Relations
+IE,BIR,INTERNATIONAL RELATIONS SKILLS II,20.0,International Relations
+IE,BIR,INTERNATIONAL RELATIONS SKILLS III,40.0,International Relations
+IE,BIR,INTERNATIONAL RELATIONS SKILLS IV,45.0,International Relations
+IE,BIR,"AID, DEVELOPMENT AND SOCIAL",50.0,International Relations
+IE,BIR,IEU Languages 2023-2024,30.0,International Relations
+IE,BIR,COMPARATIVE POLITICS,40.0,International Relations
+IE,BIR,ADVANCED NEGOTIATIONS AND PUBLIC,0.0,International Relations
+IE,BIR,ENTREPRENEURSHIP,0.0,International Relations
+IE,BIR,HISTORY OF INT. RELATIONS UPTO 1945:HISTORY,60.0,International Relations
+IE,BIR,HISTORY OF INT. REL. SINCE,55.0,International Relations
+IE,BIR,IE HUMANITIES,30.0,International Relations
+IE,BIR,IE-CHALLENGE,0.0,International Relations
+IE,BIR,INTERNATIONAL POLITICAL ECONOMY,60.0,International Relations
+IE,BIR,INTERNATIONAL RELATIONS THEORY,35.0,International Relations
+IE,BIR,INTRODUCTION TO POLITICAL SCIENCE,60.0,International Relations
+IE,BIR,MANDARIN CHINESE 2.1,55.0,International Relations
+IE,BIR,MANDARIN CHINESE 3.1,55.0,International Relations
+IE,BIR,MACROECONOMICS,60.0,International Relations
+IE,BIR,MICROECONOMICS,60.0,International Relations
+IE,BIR,POLITICAL THEORY,50.0,International Relations
+IE,BIR,PUBLIC OPINION & POLITICAL COMMUNICATION,0.0,International Relations
+IE,BIR,TECHNOLOGY,0.0,International Relations
+IE,BIR,TECHNOLOGY WITH IMPACT,0.0,International Relations
+IE,BIR,THE EUROPEAN UNION,50.0,International Relations
+IE,BIR,TOPICS IN FOREIGN POLICY,40.0,International Relations
+IE,LLB,ACCOUNTING AND FINANCE,60.0,Law
+IE,LLB,ADMINISTRATIVE LAW,60.0,Law
+IE,LLB,ADMINISTRATIVE LAW AND ECONOMIC,60.0,Law
+IE,LLB,COMMERCIAL LAW AND CORPORATIONS II,50.0,Law
+IE,LLB,COMMERCIAL LAW AND CORPORATIONS I,50.0,Law
+IE,LLB,CONFLICTS AND BUSINESS LAW,40.0,Law
+IE,LLB,CONSTITUTIONAL LAW,60.0,Law
+IE,LLB,CONTRACTS,60.0,Law
+IE,LLB,CRIMINAL LAW II,65.0,Law
+IE,LLB,CRIMINAL LAW I,60.0,Law
+IE,LLB,ECONOMICS,50.0,Law
+IE,LLB,UNPLUGGED I,60.0,Law
+IE,LLB,EUROPEAN LEGAL HISTORY,60.0,Law
+IE,LLB,"FAMILY, ESTATE AND TRUST",0.0,Law
+IE,LLB,HUMAN RIGHTS,50.0,Law
+IE,LLB,INTRODUCTION TO PRIVATE LAW,60.0,Law
+IE,LLB,LABOUR LAW II,30.0,Law
+IE,LLB,LABOUR LAW I,50.0,Law
+IE,LLB,UNPLUGGED IV,50.0,Law
+IE,LLB,LEGAL THOUGHT,60.0,Law
+IE,LLB,LITIGATION II,40.0,Law
+IE,LLB,LITIGATION I,0.0,Law
+IE,LLB,ADVANCED TOPICS ON SPANISH PUBLIC LAW (in,0.0,Law
+IE,LLB,COMPETITION LAW,90.0,Law
+IE,LLB,UNPLUGGED I,35.0,Law
+IE,LLB,PROPERTY,60.0,Law
+IE,LLB,PUBLIC INTERNATIONAL LAW,30.0,Law
+IE,LLB,TAXATION II,70.0,Law
+IE,LLB,TAXATION I,70.0,Law
+IE,LLB,TORTS,60.0,Law
+IE,LLB,UNPLUGGED V,0.0,Law
+IE,LLB,UNPLUGGED II,0.0,Law
+IE,PPLE,CONSTITUTIONAL LAW,40.0,"Philosophy, Politics, Law & Economics"
+IE,PPLE,CONTRACTS,60.0,"Philosophy, Politics, Law & Economics"
+IE,PPLE,ECONOMETRICS,70.0,"Philosophy, Politics, Law & Economics"
+IE,PPLE,EUROPEAN LEGAL HISTORY,60.0,"Philosophy, Politics, Law & Economics"
+IE,PPLE,ADVANCED TOPICS ON SPANISH PUBLIC LAW (in,0.0,"Philosophy, Politics, Law & Economics"
+IE,PPLE,GAME THEORY AND INDUSTRIAL ORGANIZATION,60.0,"Philosophy, Politics, Law & Economics"
+IE,PPLE,GOVERNMENT AND COMPARATIVE POLITICS,60.0,"Philosophy, Politics, Law & Economics"
+IE,PPLE,HISTORY OF ANCIENT AND MEDIEVAL,0.0,"Philosophy, Politics, Law & Economics"
+IE,PPLE,INTERNATIONAL TRADE LAW AND POLICY,30.0,"Philosophy, Politics, Law & Economics"
+IE,PPLE,INTRODUCTION TO LAW SYSTEMS,80.0,"Philosophy, Politics, Law & Economics"
+IE,PPLE,INTRODUCTION TO POLITICAL SCIENCE,60.0,"Philosophy, Politics, Law & Economics"
+IE,PPLE,LEGAL PHILOSOPHY,30.0,"Philosophy, Politics, Law & Economics"
+IE,PPLE,MACROECONOMICS,60.0,"Philosophy, Politics, Law & Economics"
+IE,PPLE,MATHEMATICS,70.0,"Philosophy, Politics, Law & Economics"
+IE,PPLE,MICROECONOMICS,60.0,"Philosophy, Politics, Law & Economics"
+IE,PPLE,MONETARY ECONOMICS,40.0,"Philosophy, Politics, Law & Economics"
+IE,PPLE,POLITICAL PHILOSOPHY,60.0,"Philosophy, Politics, Law & Economics"
+IE,PPLE,PROBABILITY AND STATISTICS,35.0,"Philosophy, Politics, Law & Economics"
+IE,PPLE,PUBLIC ADMINISTRATION AND MANAGEMENT,40.0,"Philosophy, Politics, Law & Economics"
+IE,PPLE,PUBLIC INTERNATIONAL LAW,30.0,"Philosophy, Politics, Law & Economics"
+IE,PPLE,PUBLIC ECONOMICS,0.0,"Philosophy, Politics, Law & Economics"
+IE,PPLE,RESEARCH METHODS AND DATA ANALYSIS,40.0,"Philosophy, Politics, Law & Economics"
+IE,PPLE,SOCIAL SEMINAR III,70.0,"Philosophy, Politics, Law & Economics"
+IE,PPLE,SOCIAL SEMINAR I,30.0,"Philosophy, Politics, Law & Economics"
+IE,PPLE,SOCIAL SEMINAR II,0.0,"Philosophy, Politics, Law & Economics"
+UC3M,matematica-aplicada,Álgebra Lineal,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Cálculo,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Competencias digitales para la ingeniería,0.0,Applied Mathematics
+UC3M,matematica-aplicada,Estrategias de Expresión,0.0,Applied Mathematics
+UC3M,matematica-aplicada,Fundamentos de Matemáticas,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Programación,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Álgebra Matricial,50.0,Applied Mathematics
+UC3M,matematica-aplicada,Cálculo Numérico,30.0,Applied Mathematics
+UC3M,matematica-aplicada,Cálculo Vectorial,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Matemática Discreta,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Probabilidad y Estadística,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Álgebra lineal numérica,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Análisis Real,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Ecuaciones diferenciales ordinarias,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Mecánica y Ondas,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Teoría de la medida y aplicaciones a la probabilidad,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Ecuaciones derivadas parciales,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Métodos numéricos para ecuaciones diferenciales,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Modelización,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Termodinámica y electromagnetismo,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Variable Compleja,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Análisis Funcional,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Estructuras Algebraicas,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Modelización Predictiva,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Optimización lineal y no lineal,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Teoría de Juegos,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Aplicaciones de principios variacionales,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Cáculo Estocástico,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Métodos numéricos para EDP's,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Modelos de la Biología Matemática,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Elementos de geometría diferencial,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Principios matemáticos de la criptografía,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Aprendizaje Automático,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Métodos numéricos para matemática industrial,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Modelos matemáticos en biología molecular y celular,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Optimización convexa,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Procesamiento de Imágenes,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Regresión en alta dimensión,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Sistemas Complejos,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Teoría de Aproximación,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Aerodinámica I,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Física Cuántica,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Mecánica Cuantica,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Física Estadística,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Mecánica de Fluidos,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Mecánica y Relatividad,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Proyectos y Gestión,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Robótica,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Simulación en probabilidad y estadística,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Análisis bayesiano de datos,60.0,Applied Mathematics
+UC3M,matematica-aplicada,"Aprendizaje automático probalistico, modelos gráficos e inferencia",60.0,Applied Mathematics
+UC3M,matematica-aplicada,Criptografía Post-cuántica,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Dinámica no lineal,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Fundamentos matemáticos de la mecánica cuántica,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Matemática Financiera,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Métodos de interferencia en aprendizaje automático Bayesiano,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Redes neuronales y aprendizaje profundo,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Sistemas estocrásticos dinámicos,60.0,Applied Mathematics
+UC3M,matematica-aplicada,"Biofísica 1: Biología física molecular, celular y tisular",60.0,Applied Mathematics
+UC3M,matematica-aplicada,Biofísica 2: Biológia de sistemas y sinética. Biología computacional,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Fundamentos de gestión empresarial,60.0,Applied Mathematics
+UC3M,matematica-aplicada,Vehículos espaciales y dinámica orbital,60.0,Applied Mathematics
+UC3M,matematicas-computacion,Álgebra Lineal,60.0,Mathematics & Computing
+UC3M,matematicas-computacion,Cálculo,60.0,Mathematics & Computing
+UC3M,matematicas-computacion,Competencias digitales para la ingeniería,0.0,Mathematics & Computing
+UC3M,matematicas-computacion,Estrategias de Expresión,0.0,Mathematics & Computing
+UC3M,matematicas-computacion,Fundamentos de Matemáticas,0.0,Mathematics & Computing
+UC3M,matematicas-computacion,Programación,40.0,Mathematics & Computing
+UC3M,matematicas-computacion,Álgebra Matricial,50.0,Mathematics & Computing
+UC3M,matematicas-computacion,Cálculo Numérico,40.0,Mathematics & Computing
+UC3M,matematicas-computacion,Cálculo Vectorial,60.0,Mathematics & Computing
+UC3M,matematicas-computacion,Matemática Discreta,60.0,Mathematics & Computing
+UC3M,matematicas-computacion,Técnicas de Programación,40.0,Mathematics & Computing
+UC3M,matematicas-computacion,Álgebra Lineal Numérica,40.0,Mathematics & Computing
+UC3M,matematicas-computacion,Criptografía,40.0,Mathematics & Computing
+UC3M,matematicas-computacion,Estructura de Computadores,40.0,Mathematics & Computing
+UC3M,matematicas-computacion,Principios de Análisis Matemático,60.0,Mathematics & Computing
+UC3M,matematicas-computacion,Teoría de autómatas y lenguajes formales,50.0,Mathematics & Computing
+UC3M,matematicas-computacion,Estructuras de datos y algoritmos,50.0,Mathematics & Computing
+UC3M,matematicas-computacion,Inteligencia Artificial,40.0,Mathematics & Computing
+UC3M,matematicas-computacion,Probabilidad,45.0,Mathematics & Computing
+UC3M,matematicas-computacion,Sistemas Operativos,40.0,Mathematics & Computing
+UC3M,matematicas-computacion,Variable Compleja,60.0,Mathematics & Computing
+UC3M,matematicas-computacion,Arquitectura de Computadores,40.0,Mathematics & Computing
+UC3M,matematicas-computacion,Ecuaciones Diferenciales Ordinarias,60.0,Mathematics & Computing
+UC3M,matematicas-computacion,Heurística y Optimización,40.0,Mathematics & Computing
+UC3M,matematicas-computacion,Inferencia Estadística,60.0,Mathematics & Computing
+UC3M,matematicas-computacion,Ecuaciones en Derivadas Parciales,60.0,Mathematics & Computing
+UC3M,matematicas-computacion,Ficheros y bases de datos,50.0,Mathematics & Computing
+UC3M,matematicas-computacion,Procesadores de Lenguajes,40.0,Mathematics & Computing
+UC3M,matematicas-computacion,Técnicas de verificación de software,30.0,Mathematics & Computing
+UC3M,matematicas-computacion,Teoría de la Información,0.0,Mathematics & Computing
+UC3M,matematicas-computacion,Análisis Funcional Aplicado,60.0,Mathematics & Computing
+UC3M,matematicas-computacion,Procesos Estocásticos,40.0,Mathematics & Computing
+UC3M,matematicas-computacion,Programación Funcional,40.0,Mathematics & Computing
+UC3M,matematicas-computacion,Integración y visualización de datos,20.0,Mathematics & Computing
+UC3M,matematicas-computacion,Modelización no lineal y estocástica,60.0,Mathematics & Computing
+UC3M,matematicas-computacion,Simulación en Probabilidad y Estadística,40.0,Mathematics & Computing
+UC3M,matematicas-computacion,Aprendizaje Automático,30.0,Mathematics & Computing
+UC3M,matematicas-computacion,Matemática Financiera,40.0,Mathematics & Computing
+UC3M,matematicas-computacion,Métodos Numéricos para Ecuaciones Diferenciales,40.0,Mathematics & Computing
+UC3M,matematicas-computacion,Programación Concurrente y Paralela,0.0,Mathematics & Computing
+UC3M,matematicas-computacion,Técnicas de Modelización,60.0,Mathematics & Computing
+UC3M,informatica,Álgebra Lineal,60.0,Computer Science
+UC3M,informatica,Cálculo,60.0,Computer Science
+UC3M,informatica,Competencias digitales para la ingeniería,0.0,Computer Science
+UC3M,informatica,Estrategias de Expresión,0.0,Computer Science
+UC3M,informatica,Física,60.0,Computer Science
+UC3M,informatica,Programación,50.0,Computer Science
+UC3M,informatica,Lógica,40.0,Computer Science
+UC3M,informatica,Matemática Discreta,60.0,Computer Science
+UC3M,informatica,Probabilidad y Estadística,40.0,Computer Science
+UC3M,informatica,Técnicas de Programación,50.0,Computer Science
+UC3M,informatica,Tecnología de Computadores,60.0,Computer Science
+UC3M,informatica,Estructura de Computadores,40.0,Computer Science
+UC3M,informatica,Fundamentos de gestión empresarial,60.0,Computer Science
+UC3M,informatica,Ingeniería del Software,55.0,Computer Science
+UC3M,informatica,Teoría de autómatas y lenguajes formales,50.0,Computer Science
+UC3M,informatica,Desarrollo de Software,40.0,Computer Science
+UC3M,informatica,Inteligencia Artificial,40.0,Computer Science
+UC3M,informatica,Sistemas Operativos,40.0,Computer Science
+UC3M,informatica,Arquitectura de computadores,40.0,Computer Science
+UC3M,informatica,Criptografía y seguridad informática,40.0,Computer Science
+UC3M,informatica,Heurística y Optimización,40.0,Computer Science
+UC3M,informatica,Interfaces de Usuario,40.0,Computer Science
+UC3M,informatica,Redes de ordenadores,30.0,Computer Science
+UC3M,informatica,Aprendizaje Automático,40.0,Computer Science
+UC3M,informatica,Ficheros y bases de datos,50.0,Computer Science
+UC3M,informatica,Procesadores del Lenguaje,40.0,Computer Science
+UC3M,informatica,Sistemas Distribuidos,20.0,Computer Science
+UC3M,informatica,Sistemas Interactivos y Ubicuos,40.0,Computer Science
+UC3M,informatica,Arquitectura de Datos,60.0,Computer Science
+UC3M,informatica,Dirección de proyectos de desarrollo de software,0.0,Computer Science
+UC3M,informatica,Ingeniería de la Ciberseguridad,60.0,Computer Science
+UC3M,informatica,Redes de neuronas artificiales,40.0,Computer Science
+UC3M,informatica,Accesibilidad y diseño para todos,30.0,Computer Science
+UC3M,informatica,Ingeniería de Sistemas Ciberfísicos,30.0,Computer Science
+UC3M,informatica,Integración y visualización de datos,20.0,Computer Science
+UC3M,informatica,Inteligencia artificial en las organizaciones,0.0,Computer Science
+UC3M,informatica,Programación Concurrente y Paralela,0.0,Computer Science
+UC3M,informatica,Programación Funcional,40.0,Computer Science
+UC3M,informatica,Tecnologías informáticas para la web,0.0,Computer Science
+UC3M,informatica,Desarrollo y operación de sistemas software,0.0,Computer Science
+UC3M,informatica,Fundamentos de internet de las cosas,60.0,Computer Science
+UC3M,informatica,Agentes Inteligentes,17.0,Computer Science
+UC3M,informatica,Informática Gráfica,30.0,Computer Science
+UC3M,informatica,Ingeniería para la transformación digital,10.0,Computer Science
+UC3M,informatica,Robótica,0.0,Computer Science
+UC3M,informatica,Seguridad en dispositivos móviles,30.0,Computer Science
+UC3M,informatica,Sistemas de tiempo real,50.0,Computer Science
+UC3M,informatica,Técnicas de desarrollo de software,30.0,Computer Science
+UC3M,informatica,Tecnologías para la privacidad,60.0,Computer Science
+UC3M,informatica,Visión Artificial,0.0,Computer Science
+UC3M,informatica,Álgebra lineal,60.0,Computer Science
+UC3M,informatica,Cálculo,60.0,Computer Science
+UC3M,informatica,Fisica,60.0,Computer Science
+UC3M,informatica,Programación,50.0,Computer Science
+UC3M,informatica,Técnicas de expresión oral y escrita,0.0,Computer Science
+UC3M,informatica,Matemática discreta,60.0,Computer Science
+UC3M,informatica,Principios físicos de la ingeniería informática,50.0,Computer Science
+UC3M,informatica,Tecnología de Computadores,60.0,Computer Science
+UC3M,informatica,Estructura de datos y algoritmos,50.0,Computer Science
+UC3M,informatica,Lógica,40.0,Computer Science
+UC3M,informatica,Estadística,40.0,Computer Science
+UC3M,informatica,Estructuras de Computadores,40.0,Computer Science
+UC3M,informatica,Teoría de autómatas y lenguajes formales,50.0,Computer Science
+UC3M,informatica,Fundamentos de la gestión empresarial,60.0,Computer Science
+UC3M,informatica,Ingeniería del software,55.0,Computer Science
+UC3M,informatica,Cálculo diferencial aplicado,60.0,Computer Science
+UC3M,informatica,Ficheros y bases de datos,50.0,Computer Science
+UC3M,informatica,Inteligencia artificial,40.0,Computer Science
+UC3M,informatica,Desarrollo del software,40.0,Computer Science
+UC3M,informatica,Sistemas operativos,40.0,Computer Science
+UC3M,informatica,Arquitectura de computadores,40.0,Computer Science
+UC3M,informatica,Heurística y optimización,40.0,Computer Science
+UC3M,informatica,Interfaces del usuario,40.0,Computer Science
+UC3M,informatica,Redes de ordenadores,30.0,Computer Science
+UC3M,informatica,Criptografía y seguridad informática,40.0,Computer Science
+UC3M,informatica,Competencias digitales para el uso de la información,0.0,Computer Science
+UC3M,informatica,Hojas de Cálculo. Nivel avanzado,0.0,Computer Science
+UC3M,informatica,Aprendizaje Automático,40.0,Computer Science
+UC3M,informatica,Sistemas Interactivos y Ubicuos,40.0,Computer Science
+UC3M,informatica,Procesadores del Lenguaje,40.0,Computer Science
+UC3M,informatica,Sistemas distribuidos,20.0,Computer Science
+UC3M,informatica,Ingeniería de la Ciberseguridad,60.0,Computer Science
+UC3M,informatica,Dirección de proyectos de desarrollo software,0.0,Computer Science
+UC3M,informatica,Inteligencia artificial en las organizaciones,0.0,Computer Science
+UC3M,informatica,Arquitectura de datos,60.0,Computer Science
+UC3M,informatica,Accesibilidad y Diseño para todos,30.0,Computer Science
+UC3M,informatica,Integración y visualizacion de datos,20.0,Computer Science
+UC3M,informatica,Redes de Neuronas Artificiales,40.0,Computer Science
+UC3M,informatica,Ingeniería de Sistemas Ciberfísicos,30.0,Computer Science
+UC3M,informatica,Tecnologías Informáticas para Web,0.0,Computer Science
+UC3M,informatica,Programación concurrente y paralela,0.0,Computer Science
+UC3M,informatica,Programacion funcional,40.0,Computer Science
+UC3M,informatica,Desarrollo y Operación de Sistemas Software,0.0,Computer Science
+UC3M,informatica,Fundamentos de internet de las cosas,60.0,Computer Science
+UC3M,informatica,Ingeniería para la transformación digital,10.0,Computer Science
+UC3M,informatica,Tecnologías para la privacidad,60.0,Computer Science
+UC3M,informatica,Teoría avanzada de la Computación,35.0,Computer Science
+UC3M,informatica,Informática Gráfica,30.0,Computer Science
+UC3M,informatica,Técnicas de Desarrollo de Software,30.0,Computer Science
+UC3M,informatica,Seguridad en Dispositivos móviles,30.0,Computer Science
+UC3M,informatica,Sistemas de Tiempo Real,50.0,Computer Science
+UC3M,informatica,Visión Artificial,0.0,Computer Science
+UC3M,informatica,Agentes Inteligentes,17.0,Computer Science
+UC3M,informatica,Robótica,0.0,Computer Science
+UC3M,ade,Competencias digitales para el uso de la información,0.0,Business Administration
+UC3M,ade,Estrategias de Expresión,0.0,Business Administration
+UC3M,ade,Fundamentos de administración de empresas,50.0,Business Administration
+UC3M,ade,Introducción al derecho civil patrimonial,60.0,Business Administration
+UC3M,ade,Matemáticas para la economía I,60.0,Business Administration
+UC3M,ade,Principios de Economía,60.0,Business Administration
+UC3M,ade,Estadística I,40.0,Business Administration
+UC3M,ade,Historia Económica,60.0,Business Administration
+UC3M,ade,Introducción a la Contabilidad,60.0,Business Administration
+UC3M,ade,Matemáticas para la economía II,60.0,Business Administration
+UC3M,ade,Microeconomía,60.0,Business Administration
+UC3M,ade,Contabilidad de Gestión,0.0,Business Administration
+UC3M,ade,Economía de las Organizaciones,40.0,Business Administration
+UC3M,ade,Estadística II,60.0,Business Administration
+UC3M,ade,Macroeconomía,60.0,Business Administration
+UC3M,ade,Teoría de los Juegos,60.0,Business Administration
+UC3M,ade,Competencias digitales para el tratamiento de datos. Nivel avanzado,0.0,Business Administration
+UC3M,ade,Comportamiento Organizativo,50.0,Business Administration
+UC3M,ade,Derecho Mercantil,60.0,Business Administration
+UC3M,ade,Econometría,50.0,Business Administration
+UC3M,ade,Economía Financiera,60.0,Business Administration
+UC3M,ade,Marketing,40.0,Business Administration
+UC3M,ade,Dirección Financiera,60.0,Business Administration
+UC3M,ade,Gestión de Marketing,50.0,Business Administration
+UC3M,ade,Dirección Estratégica,60.0,Business Administration
+UC3M,ade,Gestión de Operaciones,0.0,Business Administration
+UC3M,ade,Comercio Internacional,50.0,Business Administration
+UC3M,ade,Comportamiento del Consumidor,40.0,Business Administration
+UC3M,ade,Contabilidad Financiera,60.0,Business Administration
+UC3M,ade,Contabilidad Internacional,0.0,Business Administration
+UC3M,ade,Creación de empresas y gestión de PYMES,60.0,Business Administration
+UC3M,ade,Derecho de la Competencia,40.0,Business Administration
+UC3M,ade,Dirección comercial y ventas,40.0,Business Administration
+UC3M,ade,Dirección de recursos humanos,60.0,Business Administration
+UC3M,ade,Dirección multicultural de personas,60.0,Business Administration
+UC3M,ade,Diseño Organizativo,40.0,Business Administration
+UC3M,ade,Gestión Bancaria,60.0,Business Administration
+UC3M,ade,Introduccion al data mining para la empresa,50.0,Business Administration
+UC3M,ade,Marketing Digital,40.0,Business Administration
+UC3M,ade,Métodos de mejora de la calidad,40.0,Business Administration
+UC3M,ade,Negocios Digitales,40.0,Business Administration
+UC3M,ade,Orígenes de la empresa moderna,40.0,Business Administration
+UC3M,ade,Sistema fiscal español,60.0,Business Administration
+UC3M,ade,Sistemas e instituciones financieras,50.0,Business Administration
+UC3M,ade,Técnicas de análisis de datos para la empresa,50.0,Business Administration
+UC3M,ade,Análisis de datos dinámicos,60.0,Business Administration
+UC3M,ade,Análisis de estados financieros,50.0,Business Administration
+UC3M,ade,Análisis de Valores,40.0,Business Administration
+UC3M,ade,Big data para la empresa,60.0,Business Administration
+UC3M,ade,Contabilidad Positiva,0.0,Business Administration
+UC3M,ade,Derecho de la financiación de la empresa,0.0,Business Administration
+UC3M,ade,Derecho del trabajo y de la seguridad social,0.0,Business Administration
+UC3M,ade,Dirección de empresas familiares,60.0,Business Administration
+UC3M,ade,Finanzas Digitales,30.0,Business Administration
+UC3M,ade,Finanzas Internacionales,50.0,Business Administration
+UC3M,ade,Gestión de la cadena de suministro,0.0,Business Administration
+UC3M,ade,Gestión internacional de la empresa,55.0,Business Administration
+UC3M,ade,Innovación y cambio tecnológico,50.0,Business Administration
+UC3M,ade,Investigación de Mercados,35.0,Business Administration
+UC3M,ade,Macroeconomía monetaria y financiera,50.0,Business Administration
+UC3M,ade,Marketing financiero y de servicios,50.0,Business Administration
+UC3M,ade,"Motores de crecimiento: innovación, instituciones, capital humano",60.0,Business Administration
+UC3M,ade,Optimización y simulación para la empresa,40.0,Business Administration
+UC3M,ade,Organización Industrial,60.0,Business Administration
+UC3M,ade,Planificación y control de gestión,0.0,Business Administration
+UC3M,ade,Prácticas de gestión integral de la empresa (ERP),0.0,Business Administration
+UC3M,ade,Introducción al derecho civil patrimonial,60.0,Business Administration
+UC3M,ade,Fundamentos de administración de empresas,50.0,Business Administration
+UC3M,ade,Matemáticas para la economía I,60.0,Business Administration
+UC3M,ade,Principios de Economía,60.0,Business Administration
+UC3M,ade,Técnicas de búsqueda y uso de la información,0.0,Business Administration
+UC3M,ade,Técnicas de expresión oral y escrita,0.0,Business Administration
+UC3M,ade,Estadística I,40.0,Business Administration
+UC3M,ade,Historia Económica,60.0,Business Administration
+UC3M,ade,Introducción a la Contabilidad,60.0,Business Administration
+UC3M,ade,Matemáticas para la economía II,60.0,Business Administration
+UC3M,ade,Microeconomía,60.0,Business Administration
+UC3M,ade,Contabilidad de Gestión,0.0,Business Administration
+UC3M,ade,Estadística II,60.0,Business Administration
+UC3M,ade,Macroeconomía,60.0,Business Administration
+UC3M,ade,Teoría de los Juegos,60.0,Business Administration
+UC3M,ade,Comportamiento Organizativo,50.0,Business Administration
+UC3M,ade,Derecho Mercantil,60.0,Business Administration
+UC3M,ade,Econometría,50.0,Business Administration
+UC3M,ade,Economía Financiera,60.0,Business Administration
+UC3M,ade,Hojas de cálculo: nivel avanzado,0.0,Business Administration
+UC3M,ade,Economía de las Organizaciones,40.0,Business Administration
+UC3M,ade,Marketing,40.0,Business Administration
+UC3M,ade,Dirección Financiera,60.0,Business Administration
+UC3M,ade,Gestión de marketing,50.0,Business Administration
+UC3M,ade,Dirección Estratégica,60.0,Business Administration
+UC3M,ade,Gestión de Operaciones,0.0,Business Administration
+UC3M,ade,Comercio Internacional,50.0,Business Administration
+UC3M,ade,Comportamiento del Consumidor,40.0,Business Administration
+UC3M,ade,Contabilidad Financiera,60.0,Business Administration
+UC3M,ade,Contabilidad internacional,0.0,Business Administration
+UC3M,ade,Creación de empresas y gestión de PYMES,60.0,Business Administration
+UC3M,ade,Derecho de la Competencia,40.0,Business Administration
+UC3M,ade,Dirección comercial y ventas,40.0,Business Administration
+UC3M,ade,Dirección de recursos humanos,60.0,Business Administration
+UC3M,ade,Dirección multicultural de personas,60.0,Business Administration
+UC3M,ade,Diseño Organizativo,40.0,Business Administration
+UC3M,ade,Gestión Bancaria,60.0,Business Administration
+UC3M,ade,Introduccion al data mining para la empresa,50.0,Business Administration
+UC3M,ade,Marketing digital,40.0,Business Administration
+UC3M,ade,Métodos de mejora de la calidad,40.0,Business Administration
+UC3M,ade,Negocios digitales,40.0,Business Administration
+UC3M,ade,Orígenes de la empresa moderna,40.0,Business Administration
+UC3M,ade,Sistema fiscal español,60.0,Business Administration
+UC3M,ade,Sistemas e instituciones financieras,50.0,Business Administration
+UC3M,ade,Técnicas de análisis de datos para la empresa,50.0,Business Administration
+UC3M,ade,Prácticas de gestión integral de la empresa (ERP),0.0,Business Administration
+UC3M,ade,Análisis de datos dinámicos,60.0,Business Administration
+UC3M,ade,Análisis de estados financieros,50.0,Business Administration
+UC3M,ade,Análisis de Valores,40.0,Business Administration
+UC3M,ade,Big data para la empresa,60.0,Business Administration
+UC3M,ade,Contabilidad positiva,0.0,Business Administration
+UC3M,ade,Derecho de la financiación de la empresa,0.0,Business Administration
+UC3M,ade,Derecho del trabajo y de la seguridad social,0.0,Business Administration
+UC3M,ade,Dirección de empresas familiares,60.0,Business Administration
+UC3M,ade,Finanzas digitales,30.0,Business Administration
+UC3M,ade,Finanzas internacionales,50.0,Business Administration
+UC3M,ade,Gestión de la cadena de suministro,0.0,Business Administration
+UC3M,ade,Gestión internacional de la empresa,55.0,Business Administration
+UC3M,ade,Innovación y cambio tecnológico,50.0,Business Administration
+UC3M,ade,Investigación de Mercados,35.0,Business Administration
+UC3M,ade,Macroeconomía monetaria y financiera,50.0,Business Administration
+UC3M,ade,Marketing financiero y de servicios,50.0,Business Administration
+UC3M,ade,Modelos de negocio y design thinking,50.0,Business Administration
+UC3M,ade,"Motores de crecimiento: innovación, instituciones, capital humano",60.0,Business Administration
+UC3M,ade,Optimización y simulación para la empresa,40.0,Business Administration
+UC3M,ade,Organización Industrial,60.0,Business Administration
+UC3M,ade,Planificación y control de gestión,0.0,Business Administration
+UC3M,derecho,Competencias digitales para el uso de la información,0.0,Law
+UC3M,derecho,Constitución y sistema de fuentes,60.0,Law
+UC3M,derecho,Derecho Romano,50.0,Law
+UC3M,derecho,Estrategias de Expresión,0.0,Law
+UC3M,derecho,Principios de Economía,60.0,Law
+UC3M,derecho,Teoría del derecho y sociología jurídica,50.0,Law
+UC3M,derecho,Fundamentos históricos del sistema jurídico,60.0,Law
+UC3M,derecho,Instituciones básicas de derecho administrativo,60.0,Law
+UC3M,derecho,Introducción al Derecho Civil y de la persona,50.0,Law
+UC3M,derecho,Organización constitucional del Estado,60.0,Law
+UC3M,derecho,Sistema judicial español,50.0,Law
+UC3M,derecho,Actuación administrativa y su control,60.0,Law
+UC3M,derecho,Competencias digitales para el tratamiento de datos: nivel intermedio,0.0,Law
+UC3M,derecho,Derechos de los Contratos,60.0,Law
+UC3M,derecho,Derecho internacional público,50.0,Law
+UC3M,derecho,Derecho de obligaciones y daños,60.0,Law
+UC3M,derecho,Derecho procesal civil,50.0,Law
+UC3M,derecho,Instrumentos y régimenes de cooperación internacional,50.0,Law
+UC3M,derecho,Libertad de conciencia y su proyección en las libertades públicas,60.0,Law
+UC3M,derecho,Libertades públicas y derechos constitucionales,60.0,Law
+UC3M,derecho,Potestades administrativas y responsabilidad patrimonial,60.0,Law
+UC3M,derecho,Teoría jurídica del delito,60.0,Law
+UC3M,derecho,Contratación y medios de las Administraciones Públicas,60.0,Law
+UC3M,derecho,Delitos contra las personas y contra la sociedad,60.0,Law
+UC3M,derecho,Derecho procesal penal,50.0,Law
+UC3M,derecho,Derechos Reales,60.0,Law
+UC3M,derecho,El empresario y su estatuto jurídico,50.0,Law
+UC3M,derecho,Delitos contra el patrimonio y delitos de funcionarios,60.0,Law
+UC3M,derecho,Derecho de familia y sucesiones,60.0,Law
+UC3M,derecho,Derecho de la Unión Europea,50.0,Law
+UC3M,derecho,Derecho del trabajo individual y sindical,50.0,Law
+UC3M,derecho,El gasto público y los recursos para su financiación,60.0,Law
+UC3M,derecho,Filosofía del Derecho,40.0,Law
+UC3M,derecho,Derecho de la Seguridad Social,50.0,Law
+UC3M,derecho,Derecho de sociedades y mercado de valores,40.0,Law
+UC3M,derecho,Derecho internacional privado: parte general,60.0,Law
+UC3M,derecho,Sistema tributario español,60.0,Law
+UC3M,derecho,Mediación y otros medios alternativos de solución de conflictos,40.0,Law
+UC3M,derecho,Introducción a la administración de empresas,60.0,Law
+UC3M,derecho,Fundamentos de ciencia política,0.0,Law
+UC3M,derecho,Etapas de la integración europea (3),0.0,Law
+UC3M,derecho,Filosofía Política,50.0,Law
+UC3M,derecho,Construcción de los conceptos jurídicos,50.0,Law
+UC3M,derecho,Derecho de las tecnologías de la información (1),0.0,Law
+UC3M,derecho,Multiculturalismo y derechos humanos (1),0.0,Law
+UC3M,derecho,Organizaciones Internacionales (3),50.0,Law
+UC3M,derecho,Propiedad industrial y publicidad comercial (2),40.0,Law
+UC3M,derecho,Sociología,50.0,Law
+UC3M,derecho,Tráfico inmobiliario y registro de la propiedad (2),60.0,Law
+UC3M,derecho,Clínica Jurídica,0.0,Law
+UC3M,derecho,Derecho de la navegación marítima y aérea (3),40.0,Law
+UC3M,derecho,Derecho penal de los negocios (1),0.0,Law
+UC3M,derecho,Derecho procesal laboral (2),0.0,Law
+UC3M,derecho,Ética y deontología de la profesiones jurídicas,60.0,Law
+UC3M,derecho,Fiscalidad Internacional (3),50.0,Law
+UC3M,derecho,Derecho de las obligaciones y los contratos mercantiles,60.0,Law
+UC3M,derecho,Derecho internacional privado: parte especial,60.0,Law
+UC3M,derecho,Derecho del medio ambiente (1),60.0,Law
+UC3M,derecho,Derecho diplomático y consular (3),50.0,Law
+UC3M,derecho,Ejecucción de penas y derecho penitenciario (1),60.0,Law
+UC3M,derecho,Ejecución forzosa y procesos civiles especiales (2),40.0,Law
+UC3M,derecho,Constitucionalismo y Constituciones (1),0.0,Law
+UC3M,derecho,Teoría e historia de los Derechos Humanos,50.0,Law
+UC3M,derecho,Lógica y argumentación jurídica,0.0,Law
+UC3M,derecho,Procedimientos de aplicación de los tributos (1),40.0,Law
+UC3M,derecho,Propiedad Intelectual (2),60.0,Law
+UC3M,derecho,Relaciones laborales transnacionales (3),0.0,Law
+UC3M,derecho,Relaciones privadas internacionales en Internet (3),60.0,Law
+UC3M,derecho,Tribunales internacionales y derecho penal (3),40.0,Law
+UC3M,derecho,Competiciones jurídicas internacionales (3),0.0,Law
+UC3M,derecho,Derecho de las causas matrimoniales (2),60.0,Law
+UC3M,derecho,Derecho de las crisis empresariales (2),60.0,Law
+UC3M,derecho,Derecho del comercio internacional (3),0.0,Law
+UC3M,derecho,Derecho del gobierno corporativo (2),50.0,Law
+UC3M,derecho,Derecho europeo de la competencia (3),0.0,Law
+UC3M,derecho,Constitución y sistema de fuentes,60.0,Law
+UC3M,derecho,Derecho Romano,50.0,Law
+UC3M,derecho,Principios de Economía,60.0,Law
+UC3M,derecho,Técnicas de búsqueda y uso de información,0.0,Law
+UC3M,derecho,Técnicas de expresión oral y escrita,0.0,Law
+UC3M,derecho,Teoría del Derecho y sociología jurídica,50.0,Law
+UC3M,derecho,Fundamentos históricos del sistema jurídico,60.0,Law
+UC3M,derecho,Instituciones básicas de Derecho administrativo,60.0,Law
+UC3M,derecho,Introducción al Derecho Civil y de la persona,50.0,Law
+UC3M,derecho,Sistema judicial español,50.0,Law
+UC3M,derecho,Organización constitucional del Estado,60.0,Law
+UC3M,derecho,Actuación administrativa y su control,60.0,Law
+UC3M,derecho,Derecho de los contratos,60.0,Law
+UC3M,derecho,Derecho internacional público,50.0,Law
+UC3M,derecho,Hojas de cálculo: nivel intermedio,0.0,Law
+UC3M,derecho,Teoría jurídica del delito,60.0,Law
+UC3M,derecho,Derecho de obligaciones y daños,60.0,Law
+UC3M,derecho,Derecho procesal civil,50.0,Law
+UC3M,derecho,Instrumentos y regímenes de cooperación internacional,50.0,Law
+UC3M,derecho,Libertades públicas y derechos constitucionales,60.0,Law
+UC3M,derecho,Potestades administrativas y responsabilidad patrimonial,60.0,Law
+UC3M,derecho,Delitos contra las personas y contra la sociedad,60.0,Law
+UC3M,derecho,Contratación y medios de las Administraciones Públicas,60.0,Law
+UC3M,derecho,Derecho procesal penal,50.0,Law
+UC3M,derecho,Derechos Reales,60.0,Law
+UC3M,derecho,El empresario y su estatuto jurídico,50.0,Law
+UC3M,derecho,Delitos contra el patrimonio y delitos de funcionarios,60.0,Law
+UC3M,derecho,Libertad de conciencia y su proyección en las libertades públicas,60.0,Law
+UC3M,derecho,Derecho de familia y sucesiones,60.0,Law
+UC3M,derecho,Derecho de la Unión Europea,50.0,Law
+UC3M,derecho,Derecho del trabajo individual y sindical,50.0,Law
+UC3M,derecho,El gasto público y los recursos para su financiación,60.0,Law
+UC3M,derecho,Filosofía del Derecho,40.0,Law
+UC3M,derecho,Derecho de la Seguridad Social,50.0,Law
+UC3M,derecho,Derecho de sociedades y mercado de valores,40.0,Law
+UC3M,derecho,Derecho internacional privado: parte general,60.0,Law
+UC3M,derecho,Sistema tributario español,60.0,Law
+UC3M,derecho,(1) Derecho de las tecnologías de la información,0.0,Law
+UC3M,derecho,(1) Derecho penal de los negocios,0.0,Law
+UC3M,derecho,(1) Multiculturalismo y derechos humanos,0.0,Law
+UC3M,derecho,(2) Derecho procesal laboral,0.0,Law
+UC3M,derecho,(2) Propiedad industrial y publicidad comercial,40.0,Law
+UC3M,derecho,(2) Tráfico inmobiliario y Registro de la propiedad,60.0,Law
+UC3M,derecho,(3) Derecho de la navegación marítima y aérea,40.0,Law
+UC3M,derecho,(3) Etapas de la integración europea,0.0,Law
+UC3M,derecho,(3) Fiscalidad internacional,50.0,Law
+UC3M,derecho,(3) Organizaciones internacionales,50.0,Law
+UC3M,derecho,Clínica Jurídica,0.0,Law
+UC3M,derecho,Ética y deontología de las profesiones jurídicas,60.0,Law
+UC3M,derecho,Filosofía política,50.0,Law
+UC3M,derecho,Fundamentos de ciencia política,0.0,Law
+UC3M,derecho,Introducción a la administración de la empresa,60.0,Law
+UC3M,derecho,Mediación y otros sistemas alternativos de solución de conflictos,40.0,Law
+UC3M,derecho,Sociología,50.0,Law
+UC3M,derecho,Construcción de los conceptos jurídicos,50.0,Law
+UC3M,derecho,Derecho de las obligaciones y los contratos mercantiles,60.0,Law
+UC3M,derecho,Derecho internacional privado: parte especial,60.0,Law
+UC3M,derecho,(1) Constitucionalismo y constituciones,0.0,Law
+UC3M,derecho,(1) Derecho del medio ambiente,60.0,Law
+UC3M,derecho,(1) Ejecución de penas y Derecho penitenciario,60.0,Law
+UC3M,derecho,(1) Procedimientos de aplicación de los tributos,40.0,Law
+UC3M,derecho,(2) Derecho de las causas matrimoniales,60.0,Law
+UC3M,derecho,(2) Derecho de las crisis empresariales,60.0,Law
+UC3M,derecho,(2) Derecho del gobierno corporativo,50.0,Law
+UC3M,derecho,(2) Ejecución forzosa y procesos civiles especiales,40.0,Law
+UC3M,derecho,(2) Propiedad intelectual,60.0,Law
+UC3M,derecho,(3) Competiciones jurídicas internacionales,0.0,Law
+UC3M,derecho,(3) Derecho del comercio internacional,0.0,Law
+UC3M,derecho,(3) Derecho diplomático y consular,50.0,Law
+UC3M,derecho,(3) Derecho europeo de la competencia,0.0,Law
+UC3M,derecho,(3) Relaciones laborales transnacionales,0.0,Law
+UC3M,derecho,(3) Relaciones privadas internacionales en Internet,60.0,Law
+UC3M,derecho,(3) Tribunales internacionales y Derecho penal,40.0,Law
+UC3M,derecho,Lógica y argumentación jurídica,0.0,Law
+UC3M,derecho,Teoría e historia de los derechos humanos,50.0,Law
+UC3M,economia,Competencias digitales para el uso de la información,0.0,Economics
+UC3M,economia,Fundamentos de administración de empresas,50.0,Economics
+UC3M,economia,Historia Económica,60.0,Economics
+UC3M,economia,Introducción a las matemáticas para la economía,60.0,Economics
+UC3M,economia,Matemáticas para la Economía I,60.0,Economics
+UC3M,economia,Principios de Economía,60.0,Economics
+UC3M,economia,Competencias digitales para el tratamiento de datos. Nivel avanzado,0.0,Economics
+UC3M,economia,Estadística I,40.0,Economics
+UC3M,economia,Introducción a la Contabilidad,60.0,Economics
+UC3M,economia,Matemáticas para la Economía II,60.0,Economics
+UC3M,economia,Microeconomía,60.0,Economics
+UC3M,economia,Optimización matemática para la economía,60.0,Economics
+UC3M,economia,Estadística II,60.0,Economics
+UC3M,economia,Macroeconomía,60.0,Economics
+UC3M,economia,Programación,50.0,Economics
+UC3M,economia,Teoría de los Juegos,60.0,Economics
+UC3M,economia,Teoría Microeconómica,50.0,Economics
+UC3M,economia,Econometría,50.0,Economics
+UC3M,economia,Economía Financiera,60.0,Economics
+UC3M,economia,Estrategias de Expresión,0.0,Economics
+UC3M,economia,Macroeconomía Dinámica,60.0,Economics
+UC3M,economia,Organización Industrial,60.0,Economics
+UC3M,economia,Economía Pública,60.0,Economics
+UC3M,economia,Introducción al derecho civil patrimonial,60.0,Economics
+UC3M,economia,Técnicas Econométricas,0.0,Economics
+UC3M,economia,Comercio Internacional,50.0,Economics
+UC3M,economia,Economía Aplicada,0.0,Economics
+UC3M,economia,Regulación y políticas de la competencia (N1),50.0,Economics
+UC3M,economia,Crecimiento Económico (N2),50.0,Economics
+UC3M,economia,Análisis económico del derecho (1),40.0,Economics
+UC3M,economia,Economía regional y urbana (1),40.0,Economics
+UC3M,economia,Mercados y medio ambiente (1),40.0,Economics
+UC3M,economia,Microeconomía Cuantitativa (1),0.0,Economics
+UC3M,economia,Temas de matemáticas avanzadas para la economía (1) (2) (3),60.0,Economics
+UC3M,economia,Temas de microeconomía avanzada (1),25.0,Economics
+UC3M,economia,Economía de la integración europea (2),35.0,Economics
+UC3M,economia,"El progreso económico en España, 1850-2000 (2)",40.0,Economics
+UC3M,economia,Economía Laboral (3),40.0,Economics
+UC3M,economia,Temas de econometría avanzada (3),35.0,Economics
+UC3M,economia,Análisis de estados financieros,50.0,Economics
+UC3M,economia,Derecho administrativo económico,60.0,Economics
+UC3M,economia,Derecho internacional económico y del desarrollo,60.0,Economics
+UC3M,economia,Ética y deontología profesional,40.0,Economics
+UC3M,economia,Sistema fiscal español,60.0,Economics
+UC3M,economia,Sistemas e instituciones financieras,50.0,Economics
+UC3M,economia,Teoría económica en retrospectiva,60.0,Economics
+UC3M,economia,Teoría social y política,60.0,Economics
+UC3M,economia,Economía de la Información (N1),50.0,Economics
+UC3M,economia,Economía Política (N1),60.0,Economics
+UC3M,economia,Macroeconomía Internacional (N2),60.0,Economics
+UC3M,economia,Macroeconomía monetaria y financiera (N2),50.0,Economics
+UC3M,economia,Evaluación de políticas económicas (N3),60.0,Economics
+UC3M,economia,Macroeconomía Cuantitativa (N3),30.0,Economics
+UC3M,economia,Economía de las Organizaciones (1),40.0,Economics
+UC3M,economia,Modelización económica y aprendizaje automático (1) (2) (3),30.0,Economics
+UC3M,economia,Temas de intervención pública (1),60.0,Economics
+UC3M,economia,Temas de organización industrial (1),0.0,Economics
+UC3M,economia,Desarrollo Económico (2) (3),0.0,Economics
+UC3M,economia,"Motores de crecimiento: innovación, instituciones y capital humano (2)",60.0,Economics
+UC3M,economia,Temas de macroeconomía avanzada (2),60.0,Economics
+UC3M,economia,Economía de la Educación (3),60.0,Economics
+UC3M,economia,Economía de la Salud (3),60.0,Economics
+UC3M,economia,Casos de historia económica,0.0,Economics
+UC3M,economia,Derecho Mercantil,60.0,Economics
+UC3M,economia,El proceso de la integración económica europea,60.0,Economics
+UC3M,economia,Innovación y cambio tecnológico,50.0,Economics
+UC3M,economia,Marco jurídico del mercado laboral y protección social,0.0,Economics
+UC3M,economia,Fundamentos de administración de empresas,50.0,Economics
+UC3M,economia,Introducción a las matemáticas para la economía,60.0,Economics
+UC3M,economia,Introducción al derecho civil patrimonial,60.0,Economics
+UC3M,economia,Matemáticas para la economía I,60.0,Economics
+UC3M,economia,Principios de Economía,60.0,Economics
+UC3M,economia,Técnicas de búsqueda y uso de la información,0.0,Economics
+UC3M,economia,Estadística I,40.0,Economics
+UC3M,economia,Introducción a la Contabilidad,60.0,Economics
+UC3M,economia,Matemáticas para la economía II,60.0,Economics
+UC3M,economia,Microeconomía,60.0,Economics
+UC3M,economia,Optimización matemática para la economía,60.0,Economics
+UC3M,economia,Técnicas de expresión oral y escrita,0.0,Economics
+UC3M,economia,Estadística II,60.0,Economics
+UC3M,economia,Historia económica,60.0,Economics
+UC3M,economia,Macroeconomía,60.0,Economics
+UC3M,economia,Teoría de los Juegos,60.0,Economics
+UC3M,economia,Teoría microeconómica,50.0,Economics
+UC3M,economia,Econometría,50.0,Economics
+UC3M,economia,Economía financiera,60.0,Economics
+UC3M,economia,Macroeconomía dinámica,60.0,Economics
+UC3M,economia,Organización industrial,60.0,Economics
+UC3M,economia,Economía Pública,60.0,Economics
+UC3M,economia,Hojas de cálculo: nivel avanzado,0.0,Economics
+UC3M,economia,Técnicas econométricas,0.0,Economics
+UC3M,economia,Comercio internacional,50.0,Economics
+UC3M,economia,Economía aplicada,0.0,Economics
+UC3M,economia,(N1) Regulación y políticas de la competencia,50.0,Economics
+UC3M,economia,(1) Análisis económico del derecho,40.0,Economics
+UC3M,economia,(1) Economía regional y urbana,40.0,Economics
+UC3M,economia,(1) Mercados y medio ambiente,40.0,Economics
+UC3M,economia,(1) Microeconomía cuantitativa,0.0,Economics
+UC3M,economia,(1) Temas de microeconomía avanzada,25.0,Economics
+UC3M,economia,(1) Temas de matemáticas avanzadas para la economía,60.0,Economics
+UC3M,economia,(N2) Crecimiento Económico,50.0,Economics
+UC3M,economia,(2) Economía de la integración europea,35.0,Economics
+UC3M,economia,"(2) El progreso económico en España, 1850-2000",40.0,Economics
+UC3M,economia,(3) Economía laboral,40.0,Economics
+UC3M,economia,(3) Temas de econometría avanzada,35.0,Economics
+UC3M,economia,Teoría económica en retrospectiva,60.0,Economics
+UC3M,economia,Análisis de estados financieros,50.0,Economics
+UC3M,economia,Derecho administrativo económico,60.0,Economics
+UC3M,economia,Derecho internacional económico y del desarrollo,60.0,Economics
+UC3M,economia,Ética y deontología profesional,40.0,Economics
+UC3M,economia,Sistema fiscal español,60.0,Economics
+UC3M,economia,Sistemas e instituciones financieras,50.0,Economics
+UC3M,economia,Teoría social y política,60.0,Economics
+UC3M,economia,(N1) Economía de la Información,50.0,Economics
+UC3M,economia,(N1) Economía Política,60.0,Economics
+UC3M,economia,(1) Economía de las organizaciones,40.0,Economics
+UC3M,economia,(1) Temas de intervención pública,60.0,Economics
+UC3M,economia,(1) Temas de organización industrial,0.0,Economics
+UC3M,economia,(N2) Macroeconomía Internacional,60.0,Economics
+UC3M,economia,(N2) Macroeconomía Monetaria y Financiera,50.0,Economics
+UC3M,economia,(2) Desarrollo económico,0.0,Economics
+UC3M,economia,(2) Macroeconomía Cuantitativa,30.0,Economics
+UC3M,economia,"(2) Motores de crecimiento: innovación, instituciones y capital humano",60.0,Economics
+UC3M,economia,(2) Temas de macroeconomía avanzada,60.0,Economics
+UC3M,economia,(N3) Evaluación de políticas económicas,60.0,Economics
+UC3M,economia,(3) Economía de la educación,60.0,Economics
+UC3M,economia,(3) Economía de la salud,60.0,Economics
+UC3M,economia,Casos de historia económica,0.0,Economics
+UC3M,economia,Derecho mercantil,60.0,Economics
+UC3M,economia,El proceso de la integración económica europea,60.0,Economics
+UC3M,economia,Innovación y cambio tecnológico,50.0,Economics
+UC3M,economia,Marco jurídico del mercado laboral y protección social,0.0,Economics
+UC3M,estadistica-empresa,Álgebra Lineal,60.0,Statistics & Business
+UC3M,estadistica-empresa,Cálculo I,50.0,Statistics & Business
+UC3M,estadistica-empresa,Competencias digitales para el tratamiento de datos. Nivel avanzado,35.0,Statistics & Business
+UC3M,estadistica-empresa,Introducción a la administración de la empresa,60.0,Statistics & Business
+UC3M,estadistica-empresa,Programación I,0.0,Statistics & Business
+UC3M,estadistica-empresa,Visualización y análisis de datos,0.0,Statistics & Business
+UC3M,estadistica-empresa,Cálculo II,50.0,Statistics & Business
+UC3M,estadistica-empresa,Contabilidad,60.0,Statistics & Business
+UC3M,estadistica-empresa,Investigación Operativa,60.0,Statistics & Business
+UC3M,estadistica-empresa,Modelización de la Incertidumbre,40.0,Statistics & Business
+UC3M,estadistica-empresa,Programación II,0.0,Statistics & Business
+UC3M,estadistica-empresa,Ampliación de Matemáticas,60.0,Statistics & Business
+UC3M,estadistica-empresa,Competencias digitales para el uso de la información,0.0,Statistics & Business
+UC3M,estadistica-empresa,Estrategias de Expresión,0.0,Statistics & Business
+UC3M,estadistica-empresa,Fundamentos de bases de datos,60.0,Statistics & Business
+UC3M,estadistica-empresa,Probabilidad,40.0,Statistics & Business
+UC3M,estadistica-empresa,Inferencia Estadística I,35.0,Statistics & Business
+UC3M,estadistica-empresa,Análisis Multivariante,40.0,Statistics & Business
+UC3M,estadistica-empresa,Contabilidad de Gestión,0.0,Statistics & Business
+UC3M,estadistica-empresa,Inferencia Estadística II,40.0,Statistics & Business
+UC3M,estadistica-empresa,Métodos de Regresión,40.0,Statistics & Business
+UC3M,estadistica-empresa,Marketing,40.0,Statistics & Business
+UC3M,estadistica-empresa,Métodos avanzados de regresión,60.0,Statistics & Business
+UC3M,estadistica-empresa,Operaciones y cadena de suministro,30.0,Statistics & Business
+UC3M,estadistica-empresa,Optimización Avanzada,0.0,Statistics & Business
+UC3M,estadistica-empresa,Procesos Estocásticos,0.0,Statistics & Business
+UC3M,estadistica-empresa,Aprendizaje Estadístico,50.0,Statistics & Business
+UC3M,estadistica-empresa,Modelización Bayesiana,0.0,Statistics & Business
+UC3M,estadistica-empresa,Series temporales,60.0,Statistics & Business
+UC3M,estadistica-empresa,Técnicas de Remuestreo,0.0,Statistics & Business
+UC3M,estadistica-empresa,Marketing Digital,40.0,Statistics & Business
+UC3M,estadistica-empresa,Preprocesado de datos y generación de informes,0.0,Statistics & Business
+UC3M,estadistica-empresa,Análisis de datos funcionales,50.0,Statistics & Business
+UC3M,estadistica-empresa,Aprendizaje automático para el análisis de datos,30.0,Statistics & Business
+UC3M,estadistica-empresa,Estadística no Paramétrica,0.0,Statistics & Business
+UC3M,estadistica-empresa,Procesos estocásticos avanzados,0.0,Statistics & Business
+UC3M,estadistica-empresa,Regresión en alta dimensión,50.0,Statistics & Business
+UC3M,estadistica-empresa,Creación de empresas y gestión de PYMES,60.0,Statistics & Business
+UC3M,estadistica-empresa,Finanzas Digitales,30.0,Statistics & Business
+UC3M,estadistica-empresa,Gestión de la Tecnología,0.0,Statistics & Business
+UC3M,estadistica-empresa,Grafos y redes sociales,60.0,Statistics & Business
+UC3M,estadistica-empresa,Métodos analíticos para la previsión empresarial,0.0,Statistics & Business
+UC3M,estadistica-empresa,Métodos de inferencia en aprendizaje automático bayesiano,40.0,Statistics & Business
+UC3M,estadistica-empresa,Métodos para estadística oficial,40.0,Statistics & Business
+UC3M,estadistica-empresa,Modelización Geoespacial,0.0,Statistics & Business
+UC3M,estadistica-empresa,Principios de la Economía,60.0,Statistics & Business
+UC3M,estadistica-empresa,Álgebra Lineal,60.0,Statistics & Business
+UC3M,estadistica-empresa,Cálculo I,50.0,Statistics & Business
+UC3M,estadistica-empresa,Fundamentos de administración de empresas,50.0,Statistics & Business
+UC3M,estadistica-empresa,Probabilidad I,50.0,Statistics & Business
+UC3M,estadistica-empresa,Técnicas de búsqueda y uso de la información,0.0,Statistics & Business
+UC3M,estadistica-empresa,Técnicas de expresión oral y escrita,0.0,Statistics & Business
+UC3M,estadistica-empresa,Cálculo II,50.0,Statistics & Business
+UC3M,estadistica-empresa,Principios de Economía,60.0,Statistics & Business
+UC3M,estadistica-empresa,Probabilidad II,0.0,Statistics & Business
+UC3M,estadistica-empresa,Programación I,0.0,Statistics & Business
+UC3M,estadistica-empresa,Ampliación de Matemáticas,60.0,Statistics & Business
+UC3M,estadistica-empresa,Contabilidad,60.0,Statistics & Business
+UC3M,estadistica-empresa,Procesos Estocásticos,0.0,Statistics & Business
+UC3M,estadistica-empresa,Programación II,0.0,Statistics & Business
+UC3M,estadistica-empresa,Técnicas de inferencia estadística I,35.0,Statistics & Business
+UC3M,estadistica-empresa,Gestión de Operaciones,0.0,Statistics & Business
+UC3M,estadistica-empresa,Hojas de cálculo: Nivel avanzado,0.0,Statistics & Business
+UC3M,estadistica-empresa,Investigación Operativa,0.0,Statistics & Business
+UC3M,estadistica-empresa,Marketing,60.0,Statistics & Business
+UC3M,estadistica-empresa,Técnicas de inferencia estadística II,40.0,Statistics & Business
+UC3M,estadistica-empresa,Análisis de Muestras,40.0,Statistics & Business
+UC3M,estadistica-empresa,Control de Calidad,40.0,Statistics & Business
+UC3M,estadistica-empresa,Economía Financiera,60.0,Statistics & Business
+UC3M,estadistica-empresa,Fundamentos de Bases de Datos,60.0,Statistics & Business
+UC3M,estadistica-empresa,Métodos de Regresión,40.0,Statistics & Business
+UC3M,estadistica-empresa,Análisis Multivariante,40.0,Statistics & Business
+UC3M,estadistica-empresa,Gestión Financiera,60.0,Statistics & Business
+UC3M,estadistica-empresa,Investigación de Mercados,50.0,Statistics & Business
+UC3M,estadistica-empresa,Marketing Digital,40.0,Statistics & Business
+UC3M,estadistica-empresa,Métodos avanzados de regresión,60.0,Statistics & Business
+UC3M,estadistica-empresa,Métodos Bayesianos,0.0,Statistics & Business
+UC3M,estadistica-empresa,Métodos Econométricos,60.0,Statistics & Business
+UC3M,estadistica-empresa,Aprendizaje automático para el análisis de datos,30.0,Statistics & Business
+UC3M,estadistica-empresa,Aprendizaje Estadístico,50.0,Statistics & Business
+UC3M,estadistica-empresa,Estimación no Paramétrica,0.0,Statistics & Business
+UC3M,estadistica-empresa,Métodos estadísticos en minería de datos,60.0,Statistics & Business
+UC3M,estadistica-empresa,Optimización,0.0,Statistics & Business
+UC3M,estadistica-empresa,Procesos estocásticos avanzados,0.0,Statistics & Business
+UC3M,estadistica-empresa,Técnicas de Remuestreo,30.0,Statistics & Business
+UC3M,estadistica-empresa,Creación de empresas y gestión de PYMES,60.0,Statistics & Business
+UC3M,estadistica-empresa,Análisis de datos categóricos,50.0,Statistics & Business
+UC3M,estadistica-empresa,Big Data para la empresa,60.0,Statistics & Business
+UC3M,estadistica-empresa,Derecho de la financiación de la empresa,0.0,Statistics & Business
+UC3M,estadistica-empresa,Grafos y redes sociales,60.0,Statistics & Business
+UC3M,estadistica-empresa,Métodos de mejora de la calidad,40.0,Statistics & Business
+UC3M,estadistica-empresa,Métodos estadísticos para finanzas y seguros,60.0,Statistics & Business
+UC3M,estadistica-empresa,Técnicas de Predicción,30.0,Statistics & Business
+UC3M,estadistica-empresa,Valoración y selección de activos,0.0,Statistics & Business
+UC3M,electronica,Cálculo I,60.0,Electronic Engineering
+UC3M,electronica,Álgebra Lineal,60.0,Electronic Engineering
+UC3M,electronica,Programación,50.0,Electronic Engineering
+UC3M,electronica,Física I,60.0,Electronic Engineering
+UC3M,electronica,Técnicas de expresión oral y escrita,0.0,Electronic Engineering
+UC3M,electronica,Física II,60.0,Electronic Engineering
+UC3M,electronica,Cálculo II,60.0,Electronic Engineering
+UC3M,electronica,Fundamentos químicos de la ingeniería,55.0,Electronic Engineering
+UC3M,electronica,Expresión gráfica en la ingeniería,49.0,Electronic Engineering
+UC3M,electronica,Estadística,50.0,Electronic Engineering
+UC3M,electronica,Fundamentos de ingeniería eléctrica,60.0,Electronic Engineering
+UC3M,electronica,Mecánica de Máquinas,50.0,Electronic Engineering
+UC3M,electronica,Ingeniería Térmica,60.0,Electronic Engineering
+UC3M,electronica,Mecánica de Estructuras,60.0,Electronic Engineering
+UC3M,electronica,Sistemas de producción y fabricación,60.0,Electronic Engineering
+UC3M,electronica,Simulación de sistemas dinámicos,20.0,Electronic Engineering
+UC3M,electronica,Fundamentos de ingeniería electrónica,30.0,Electronic Engineering
+UC3M,electronica,Ciencia e ingeniería de materiales,60.0,Electronic Engineering
+UC3M,electronica,Ingeniería Fluidomecánica,60.0,Electronic Engineering
+UC3M,electronica,Fundamentos de gestión empresarial,60.0,Electronic Engineering
+UC3M,electronica,Informática Industrial I,0.0,Electronic Engineering
+UC3M,electronica,Automatización Industrial I,50.0,Electronic Engineering
+UC3M,electronica,Ingeniería de Control I,50.0,Electronic Engineering
+UC3M,electronica,Electrónica Digital,45.0,Electronic Engineering
+UC3M,electronica,Máquinas eléctricas e instalaciones,50.0,Electronic Engineering
+UC3M,electronica,Electrónica Analógica,50.0,Electronic Engineering
+UC3M,electronica,Ingeniería de Control II,0.0,Electronic Engineering
+UC3M,electronica,Electrónica de Potencia,60.0,Electronic Engineering
+UC3M,electronica,Robótica Industrial,60.0,Electronic Engineering
+UC3M,electronica,Instrumentación Electrónica,45.0,Electronic Engineering
+UC3M,electronica,Microprocesadores y Microcontroladores,50.0,Electronic Engineering
+UC3M,electronica,Técnicas de búsqueda y uso de la información,0.0,Electronic Engineering
+UC3M,electronica,Tecnología Ambiental,0.0,Electronic Engineering
+UC3M,electronica,Hojas de cálculo. Nivel avanzado,0.0,Electronic Engineering
+UC3M,electronica,Automatización Industrial II,0.0,Electronic Engineering
+UC3M,electronica,Convertidores electrónicos de potencia,60.0,Electronic Engineering
+UC3M,electronica,Sistemas electrónicos de instrumentación,40.0,Electronic Engineering
+UC3M,electronica,Robótica,50.0,Electronic Engineering
+UC3M,electronica,Informática Industrial II,0.0,Electronic Engineering
+UC3M,electronica,Fabricación y construcción de equipos electrónicos,40.0,Electronic Engineering
+UC3M,electronica,Sistemas electrónicos digitales,35.0,Electronic Engineering
+UC3M,electronica,Aplicaciones de la automática en edificios,50.0,Electronic Engineering
+UC3M,electronica,Generación eólica y fotovoltaica,30.0,Electronic Engineering
+UC3M,electronica,Laboratorio de electrónica analógica,30.0,Electronic Engineering
+UC3M,electronica,Laboratorio de sistemas de instrumentación,0.0,Electronic Engineering
+UC3M,electronica,Sistemas informáticos en tiempo real,0.0,Electronic Engineering
+UC3M,electronica,Organización Industrial,60.0,Electronic Engineering
+UC3M,electronica,Oficina Técnica,25.0,Electronic Engineering
+UC3M,electronica,Control Inteligente,0.0,Electronic Engineering
+UC3M,electronica,Sistemas de Percepción,0.0,Electronic Engineering
+UC3M,electronica,Sistemas electrónicos de potencia,40.0,Electronic Engineering
+UC3M,electronica,Aplicaciones de la automática en vehículos,50.0,Electronic Engineering
+UC3M,electronica,Aplicaciones de la automática en biomedicina,0.0,Electronic Engineering
+UC3M,electronica,Electrónica para comunicaciones industriales,60.0,Electronic Engineering
+UC3M,electronica,Laboratorio de electrónica industrial,0.0,Electronic Engineering
+UC3M,electronica,Sistemas Optoelectrónicos,40.0,Electronic Engineering
+UC3M,mecanica,Cálculo I,60.0,Mechanical Engineering
+UC3M,mecanica,Álgebra Lineal,60.0,Mechanical Engineering
+UC3M,mecanica,Programación,30.0,Mechanical Engineering
+UC3M,mecanica,Fundamentos químicos de la ingeniería,55.0,Mechanical Engineering
+UC3M,mecanica,Física I,60.0,Mechanical Engineering
+UC3M,mecanica,Física II,60.0,Mechanical Engineering
+UC3M,mecanica,Cálculo II,60.0,Mechanical Engineering
+UC3M,mecanica,Expresión gráfica en la ingeniería,49.0,Mechanical Engineering
+UC3M,mecanica,Estadística,50.0,Mechanical Engineering
+UC3M,mecanica,Técnicas de expresión oral y escrita,0.0,Mechanical Engineering
+UC3M,mecanica,Ciencia e ingeniería de materiales,60.0,Mechanical Engineering
+UC3M,mecanica,Fundamentos de ingeniería eléctrica,60.0,Mechanical Engineering
+UC3M,mecanica,Ingeniería Térmica,60.0,Mechanical Engineering
+UC3M,mecanica,Mecánica de Máquinas,50.0,Mechanical Engineering
+UC3M,mecanica,Fundamentos de vibraciones mecánicas,50.0,Mechanical Engineering
+UC3M,mecanica,Fundamentos de ingeniería electrónica,30.0,Mechanical Engineering
+UC3M,mecanica,Mecánica de Estructuras,60.0,Mechanical Engineering
+UC3M,mecanica,Ingeniería Fluidomecánica,60.0,Mechanical Engineering
+UC3M,mecanica,Fundamentos de gestión empresarial,60.0,Mechanical Engineering
+UC3M,mecanica,Sistemas de producción y fabricación,60.0,Mechanical Engineering
+UC3M,mecanica,Tecnología Ambiental,50.0,Mechanical Engineering
+UC3M,mecanica,Automatización Industrial,50.0,Mechanical Engineering
+UC3M,mecanica,Teoría de Máquinas,60.0,Mechanical Engineering
+UC3M,mecanica,Elasticidad,60.0,Mechanical Engineering
+UC3M,mecanica,Transferencia de Calor,60.0,Mechanical Engineering
+UC3M,mecanica,Instalaciones y máquinas hidráulicas,50.0,Mechanical Engineering
+UC3M,mecanica,Tecnología Mecánica,45.0,Mechanical Engineering
+UC3M,mecanica,Técnicas de búsqueda y uso de la información,0.0,Mechanical Engineering
+UC3M,mecanica,Máquinas y centrales térmicas,60.0,Mechanical Engineering
+UC3M,mecanica,Tecnología de Materiales,50.0,Mechanical Engineering
+UC3M,mecanica,Instalaciones Térmicas,60.0,Mechanical Engineering
+UC3M,mecanica,Resistencia de Materiales,60.0,Mechanical Engineering
+UC3M,mecanica,Hojas de cálculo. Nivel avanzado,0.0,Mechanical Engineering
+UC3M,mecanica,Teoría de estructuras y construcciones industriales,60.0,Mechanical Engineering
+UC3M,mecanica,Teoría de Vehículos,50.0,Mechanical Engineering
+UC3M,mecanica,Cálculo y diseño de máquinas,60.0,Mechanical Engineering
+UC3M,mecanica,Mecánica de Sólidos,60.0,Mechanical Engineering
+UC3M,mecanica,Organización Industrial,60.0,Mechanical Engineering
+UC3M,mecanica,Oficina Técnica,25.0,Mechanical Engineering
+UC3M,mecanica,Diseño Industrial,60.0,Mechanical Engineering
+UC3M,mecanica,Dinámica de Estructuras,0.0,Mechanical Engineering
+UC3M,mecanica,Equipos Térmicos,40.0,Mechanical Engineering
+UC3M,mecanica,Estructuras Ligeras,0.0,Mechanical Engineering
+UC3M,mecanica,Mecánica Experimental,30.0,Mechanical Engineering
+UC3M,mecanica,Simulación numérica de flujos industriales,0.0,Mechanical Engineering
+UC3M,mecanica,Ingeniería Ferroviaria,50.0,Mechanical Engineering
+UC3M,mecanica,Instalaciones de energías renovables,50.0,Mechanical Engineering
+UC3M,mecanica,Mantenimiento y diagnóstico de máquinas,30.0,Mechanical Engineering
+UC3M,mecanica,Modelización numérica de elementos estructurales,40.0,Mechanical Engineering
+UC3M,mecanica,Motores de combustión interna,60.0,Mechanical Engineering
+UC3M,mecanica,Integridad Estructural,0.0,Mechanical Engineering
+UC3M,mecanica,Energía en el Transporte,40.0,Mechanical Engineering
+UC3M,mecanica,Energía y Agua,0.0,Mechanical Engineering
+UC3M,mecanica,Ampliación de mecánica de fluidos,60.0,Mechanical Engineering
+UC3M,mecanica,Biomecanica,0.0,Mechanical Engineering
+UC3M,mecanica,Neumatica y Oleohidraulica,50.0,Mechanical Engineering
+UC3M,mecanica,Materiales y su impacto medioambiental,40.0,Mechanical Engineering
+UC3M,mecanica,Tecnologías de unión: soldadura y adhesivos,60.0,Mechanical Engineering
+UC3M,mecanica,Ingeniería de Superficies,60.0,Mechanical Engineering
+UC3M,mecanica,Materiales para producción y almacenamiento de energía,0.0,Mechanical Engineering
+UC3M,comunicacion,Competencias digitales para el uso de la información,0.0,Communication
+UC3M,comunicacion,Creación audiovisual: imagen,40.0,Communication
+UC3M,comunicacion,Cultura del Audiovisual,60.0,Communication
+UC3M,comunicacion,Estrategias de Expresión,0.0,Communication
+UC3M,comunicacion,Teoría y análisis de la imagen,60.0,Communication
+UC3M,comunicacion,Teoría del Derecho,50.0,Communication
+UC3M,comunicacion,Comunicación Publicitaria,50.0,Communication
+UC3M,comunicacion,Creación audiovisual: sonido,40.0,Communication
+UC3M,comunicacion,Historia del Cine,50.0,Communication
+UC3M,comunicacion,Psicología de los medios audiovisuales,60.0,Communication
+UC3M,comunicacion,Tendencias literarias en la cultura contemporánea,60.0,Communication
+UC3M,comunicacion,Guión de Cine,50.0,Communication
+UC3M,comunicacion,Producción Audiovisual,60.0,Communication
+UC3M,comunicacion,Comunicación Periodística,50.0,Communication
+UC3M,comunicacion,Cine y televisión en España,60.0,Communication
+UC3M,comunicacion,Estudios Fílmicos,50.0,Communication
+UC3M,comunicacion,Competencias digitales para el tratamiento de datos. Nivel Intermedio,35.0,Communication
+UC3M,comunicacion,Estructura del sistema audiovisual,60.0,Communication
+UC3M,comunicacion,Estudios Televisivos,60.0,Communication
+UC3M,comunicacion,Realización de Ficción,30.0,Communication
+UC3M,comunicacion,El lenguaje y las lenguas en los medios audiovisuales,40.0,Communication
+UC3M,comunicacion,Comunicación Audiovisual,60.0,Communication
+UC3M,comunicacion,Técnicas de búsqueda y uso de la información,0.0,Communication
+UC3M,comunicacion,Técnicas de expresión oral y escrita,0.0,Communication
+UC3M,comunicacion,Tecnologías y técnicas del audiovisual,40.0,Communication
+UC3M,comunicacion,Teoría de la Imagen,60.0,Communication
+UC3M,comunicacion,Teoría del Derecho,50.0,Communication
+UC3M,comunicacion,Comunicación Publicitaria,50.0,Communication
+UC3M,comunicacion,Lengua Española,60.0,Communication
+UC3M,comunicacion,Psicología de los medios audiovisuales,60.0,Communication
+UC3M,comunicacion,Taller de Radio,40.0,Communication
+UC3M,comunicacion,Análisis de la imagen audiovisual,50.0,Communication
+UC3M,comunicacion,Historia de la España del siglo XX,60.0,Communication
+UC3M,comunicacion,Historia de los medios audiovisuales,50.0,Communication
+UC3M,comunicacion,Principios de Economía,60.0,Communication
+UC3M,comunicacion,Teoría y técnica de la realización I,30.0,Communication
+UC3M,comunicacion,Comunicación Periodística,50.0,Communication
+UC3M,comunicacion,Hojas de cálculo. Nivel Intermedio,0.0,Communication
+UC3M,comunicacion,Narrativa Audiovisual,50.0,Communication
+UC3M,comunicacion,Tendencias literarias en la cultura contemporánea,60.0,Communication
+UC3M,comunicacion,Teoría y técnica de la realización II,40.0,Communication
+UC3M,comunicacion,Guión de Cine,50.0,Communication
+UC3M,comunicacion,Postproducción Digital,40.0,Communication
+UC3M,comunicacion,Producción Audiovisual,60.0,Communication
+UC3M,comunicacion,Documental y reportaje,40.0,Communication
+UC3M,comunicacion,Estructura del sistema audiovisual,60.0,Communication
+UC3M,comunicacion,Estudios Televisivos,60.0,Communication
+UC3M,comunicacion,Cine y televisión en España,60.0,Communication
+UC3M,comunicacion,Estudios Fílmicos,50.0,Communication
+UC3M,comunicacion,Realización de Ficción,30.0,Communication
+UC3M,comunicacion,Ficción Televisiva (2),40.0,Communication
+UC3M,comunicacion,Filosofía y medios audiovisuales (3),60.0,Communication
+UC3M,comunicacion,Formatos Radiofónicos (3),60.0,Communication
+UC3M,comunicacion,Género y cultura audiovisual (2),50.0,Communication
+UC3M,comunicacion,Géneros Cinematográficos (1),50.0,Communication
+UC3M,comunicacion,Géneros Televisivos (2),40.0,Communication
+UC3M,comunicacion,Guión de televisión I (ficción) (2),50.0,Communication
+UC3M,comunicacion,Nuevas formas publicitarias (3),35.0,Communication
+UC3M,comunicacion,Nuevas tendencias de la comunicación audiovisual (2),50.0,Communication
+UC3M,comunicacion,Programación de Televisión (2),40.0,Communication
+UC3M,comunicacion,Puesta en escena audiovisual (1),60.0,Communication
+UC3M,comunicacion,Teoría y técnica de la fotografía (1),40.0,Communication
+UC3M,comunicacion,Cine en Medio Oriente y Asia (1),50.0,Communication
+UC3M,comunicacion,Cine no narrativo (1),50.0,Communication
+UC3M,comunicacion,Cine y sociedad contemporánea (1),60.0,Communication
+UC3M,comunicacion,Derecho de la Comunicación (3),40.0,Communication
+UC3M,comunicacion,Documentación y patrimonio audiovisual (3),50.0,Communication
+UC3M,comunicacion,Estrategias Empresariales (3),60.0,Communication
+UC3M,comunicacion,Cine Europeo (1),0.0,Communication
+UC3M,comunicacion,Cine latinoamericano y transnacional (1),60.0,Communication
+UC3M,comunicacion,Cine Norteamericano (1),60.0,Communication
+UC3M,comunicacion,Comunicación audiovisual en la red (2),40.0,Communication
+UC3M,comunicacion,Comunicación audiovisual y cultura digital (3),60.0,Communication
+UC3M,comunicacion,Crítica de Cine (1),60.0,Communication
+UC3M,comunicacion,Dirección de Cámara (1),0.0,Communication
+UC3M,comunicacion,Documentación y fuentes en comunicación audiovisual (3),50.0,Communication
+UC3M,comunicacion,El Público Audiovisual (2),40.0,Communication
+UC3M,comunicacion,Festivales de cine en la cultura global (1),50.0,Communication
+UC3M,comunicacion,Filosofía Política (3),50.0,Communication
+UC3M,comunicacion,Formatos Televisivos (2),40.0,Communication
+UC3M,comunicacion,Geografía y medios audiovisuales (3),0.0,Communication
+UC3M,comunicacion,Gestión y promoción de productos audiovisuales (1),60.0,Communication
+UC3M,comunicacion,Guión de televisión II (programas) (2),40.0,Communication
+UC3M,comunicacion,Industrias culturales y de la comunicación (3),60.0,Communication
+UC3M,comunicacion,Movimientos artísticos contemporáneos (3),50.0,Communication
+UC3M,comunicacion,Representaciones identidades en los medios audiovisuales (2),0.0,Communication
+UC3M,periodismo,Competencias digitales para el uso de la información,0.0,Journalism
+UC3M,periodismo,Estrategias de Expresión,0.0,Journalism
+UC3M,periodismo,Fundamentos del Periodismo,60.0,Journalism
+UC3M,periodismo,Historia del periodismo en España,60.0,Journalism
+UC3M,periodismo,Redacción Periodística I,60.0,Journalism
+UC3M,periodismo,Verificación Informativa,50.0,Journalism
+UC3M,periodismo,Filosofía Política,50.0,Journalism
+UC3M,periodismo,Lenguaje aplicado al periodismo,60.0,Journalism
+UC3M,periodismo,Periodismo e Inteligencia Artificial,50.0,Journalism
+UC3M,periodismo,Redacción Periodística II,40.0,Journalism
+UC3M,periodismo,Teoría de la Comunicación,50.0,Journalism
+UC3M,periodismo,Derecho de la Información,60.0,Journalism
+UC3M,periodismo,Radio Informativa,30.0,Journalism
+UC3M,periodismo,Diseño en medios periodísticos,40.0,Journalism
+UC3M,periodismo,Competencias digitales para el tratamiento de datos. Nivel intermedio,35.0,Journalism
+UC3M,periodismo,Periodismo Social,50.0,Journalism
+UC3M,periodismo,Periodismo Económico,50.0,Journalism
+UC3M,periodismo,Fotoperiodismo,30.0,Journalism
+UC3M,periodismo,Periodismo Deportivo,60.0,Journalism
+UC3M,periodismo,Técnicas de Locución,50.0,Journalism
+UC3M,periodismo,Comunicación de la Empresa,50.0,Journalism
+UC3M,periodismo,Geografía del mundo actual,0.0,Journalism
+UC3M,periodismo,Grandes desafíos mundiales,60.0,Journalism
+UC3M,periodismo,Historia del periodismo universal,60.0,Journalism
+UC3M,periodismo,Infografía en medios periodísticos,40.0,Journalism
+UC3M,periodismo,Oratoria y medios de comunicación,60.0,Journalism
+UC3M,periodismo,Técnicas de búsqueda y uso de la información,0.0,Journalism
+UC3M,periodismo,Técnicas de expresión oral y escrita,0.0,Journalism
+UC3M,periodismo,Filosofía Política,50.0,Journalism
+UC3M,periodismo,Historia de España,50.0,Journalism
+UC3M,periodismo,Teoría de la comunicación mediática,60.0,Journalism
+UC3M,periodismo,Comunicación y participación ciudadana en la red,30.0,Journalism
+UC3M,periodismo,Estadística aplicada al periodismo,45.0,Journalism
+UC3M,periodismo,Estructura del sistema de medios,50.0,Journalism
+UC3M,periodismo,La noticia periodística,50.0,Journalism
+UC3M,periodismo,Lengua española aplicada a los medios,60.0,Journalism
+UC3M,periodismo,Derecho de la Información,60.0,Journalism
+UC3M,periodismo,Economía,60.0,Journalism
+UC3M,periodismo,Periodismo y cambio social en España,60.0,Journalism
+UC3M,periodismo,Radio Informativa,30.0,Journalism
+UC3M,periodismo,Teoría y análisis del documental audiovisual,50.0,Journalism
+UC3M,periodismo,Hojas de cálculo. Nivel Intermedio,0.0,Journalism
+UC3M,periodismo,Diseño en medios periodísticos,40.0,Journalism
+UC3M,periodismo,Metodologías de investigación en periodismo,50.0,Journalism
+UC3M,periodismo,Periodismo en la Red,30.0,Journalism
+UC3M,periodismo,Televisión Informativa,30.0,Journalism
+UC3M,periodismo,El Reportaje en Profundidad,50.0,Journalism
+UC3M,periodismo,Organización y gestión de la empresa informativa,50.0,Journalism
+UC3M,periodismo,Periodismo interpretativo,40.0,Journalism
+UC3M,periodismo,Periodismo internacional I: la información global,50.0,Journalism
+UC3M,periodismo,Periodismo internacional II: las grandes organizaciones mundiales,60.0,Journalism
+UC3M,periodismo,Periodismo Local,30.0,Journalism
+UC3M,periodismo,Información Institucional,50.0,Journalism
+UC3M,periodismo,Periodismo científico y tecnológico,60.0,Journalism
+UC3M,periodismo,Periodismo Social,50.0,Journalism
+UC3M,periodismo,Periodismo Económico,50.0,Journalism
+UC3M,periodismo,Buenas prácticas periodísticas,30.0,Journalism
+UC3M,periodismo,Comunicación en la Empresa,50.0,Journalism
+UC3M,periodismo,Comunicación multimedia: el relato periodístico,40.0,Journalism
+UC3M,periodismo,Historia Universal,60.0,Journalism
+UC3M,periodismo,Oratoria y medios de comunicación,60.0,Journalism
+UC3M,periodismo,Pensamiento y creencias en el mundo contemporáneo,60.0,Journalism
+UC3M,periodismo,Periodismo argumentativo y de opinión,40.0,Journalism
+UC3M,periodismo,Periodismo Deportivo,60.0,Journalism
+UC3M,periodismo,Publicidad en medios informativos,40.0,Journalism
+UC3M,periodismo,Recursos narrativos para el relato periodístico,50.0,Journalism
+UC3M,periodismo,Técnicas de Locución,50.0,Journalism
+UC3M,periodismo,Información y conflicto I: los medios ante la violencia,40.0,Journalism
+UC3M,periodismo,Periodismo de datos,40.0,Journalism
+UC3M,periodismo,Documentación Digital,0.0,Journalism
+UC3M,periodismo,Estrategias empresariales en el mundo actual,60.0,Journalism
+UC3M,periodismo,Fotoperiodismo,30.0,Journalism
+UC3M,periodismo,Geografía del mundo actual,0.0,Journalism
+UC3M,periodismo,"Historia de la escritura, edición y lectura",50.0,Journalism
+UC3M,periodismo,Historia del periodismo universal,60.0,Journalism
+UC3M,periodismo,Infografía en medios periodísticos,40.0,Journalism
+UC3M,periodismo,Información de sucesos y tribunales,40.0,Journalism
+UC3M,periodismo,Información y conflicto II: el papel de las religiones,50.0,Journalism
+UC3M,periodismo,Periodismo político y parlamentario,50.0,Journalism
+UC3M,periodismo,Producción Audiovisual,40.0,Journalism
+UC3M,historia-politica,Competencias digitales para el uso de la información,0.0,History & Politics
+UC3M,historia-politica,Estadística,40.0,History & Politics
+UC3M,historia-politica,Estrategias de Expresión,0.0,History & Politics
+UC3M,historia-politica,Fundamentos de ciencia política,60.0,History & Politics
+UC3M,historia-politica,Historia Antigua,60.0,History & Politics
+UC3M,historia-politica,Principios teóricos y metodológicos de la Historia,60.0,History & Politics
+UC3M,historia-politica,Evolución y teoría del Estado,60.0,History & Politics
+UC3M,historia-politica,Historia Medieval,50.0,History & Politics
+UC3M,historia-politica,Metodología de la ciencia política,60.0,History & Politics
+UC3M,historia-politica,Regímenes políticos: evolución histórica y formas actuales,60.0,History & Politics
+UC3M,historia-politica,Geopolítica,40.0,History & Politics
+UC3M,historia-politica,Historia cultural: Poder y representaciones culturales,50.0,History & Politics
+UC3M,historia-politica,Historia Moderna,60.0,History & Politics
+UC3M,historia-politica,Historia y teoría de las ideas políticas,60.0,History & Politics
+UC3M,historia-politica,Política e historia internacional,60.0,History & Politics
+UC3M,historia-politica,Comportamiento Político,60.0,History & Politics
+UC3M,historia-politica,Constitucionalismo histórico comparado,0.0,History & Politics
+UC3M,historia-politica,El proceso de construcción Europea,60.0,History & Politics
+UC3M,historia-politica,Historia Contemporánea,60.0,History & Politics
+UC3M,historia-politica,Historia Económica,60.0,History & Politics
+UC3M,historia-politica,Economía Política,50.0,History & Politics
+UC3M,historia-politica,Historia contemporánea de España,60.0,History & Politics
+UC3M,historia-politica,Historia del mundo actual,60.0,History & Politics
+UC3M,historia-politica,Teoría e historia de los movimientos sociales,60.0,History & Politics
+UC3M,historia-politica,Competencias digitales para el tratamiento de datos. Nivel Intermedio,35.0,History & Politics
+UC3M,historia-politica,Política de la España Actual,60.0,History & Politics
+UC3M,historia-politica,Sociología Histórica,60.0,History & Politics
+UC3M,historia-politica,Administración pública y documentación,60.0,History & Politics
+UC3M,historia-politica,El origen del Estado e ideas políticas en el Mundo Antiguo y Medieval,50.0,History & Politics
+UC3M,historia-politica,Estructura y cambio social,60.0,History & Politics
+UC3M,historia-politica,Filosofía Política,50.0,History & Politics
+UC3M,historia-politica,Género y familia en el orden social y político,60.0,History & Politics
+UC3M,historia-politica,"Guerra, paz y violencia política",60.0,History & Politics
+UC3M,historia-politica,Historia y política de Asia y África,60.0,History & Politics
+UC3M,historia-politica,Historia y política de Latinoamérica,60.0,History & Politics
+UC3M,historia-politica,Organizaciones Internacionales,60.0,History & Politics
+UC3M,historia-politica,Principios de Economía,60.0,History & Politics
+UC3M,historia-politica,Política y medios de comunicación,30.0,History & Politics
+UC3M,historia-politica,"Cooperación, acción colectiva y modelos formales de estrategia",60.0,History & Politics
+UC3M,historia-politica,Derechos Humanos,40.0,History & Politics
+UC3M,historia-politica,Globalización,60.0,History & Politics
+UC3M,historia-politica,Historia de la Historiografía,60.0,History & Politics
+UC3M,historia-politica,Historia de las políticas científicas y culturales,60.0,History & Politics
+UC3M,historia-politica,Historia moderna de España,60.0,History & Politics
+UC3M,historia-politica,Historia social del Arte,50.0,History & Politics
+UC3M,historia-politica,Historia y política de Estados Unidos,60.0,History & Politics
+UC3M,historia-politica,Historia y política del mundo islámico,50.0,History & Politics
+UC3M,historia-politica,Nacionalismos e imperialismos,60.0,History & Politics
+UC3M,historia-politica,Política y Religión,60.0,History & Politics
+UC3M,historia-politica,Técnicas de búsqueda y uso de la información,0.0,History & Politics
+UC3M,historia-politica,Técnicas de expresión oral y escrita,0.0,History & Politics
+UC3M,historia-politica,Principios teóricos y metodológicos de la Historia,60.0,History & Politics
+UC3M,historia-politica,Fundamentos de Ciencia Política,60.0,History & Politics
+UC3M,historia-politica,Estadística,40.0,History & Politics
+UC3M,historia-politica,El origen del Estado e ideas políticas en el Mundo Antiguo y Medieval,50.0,History & Politics
+UC3M,historia-politica,Metodología de la Ciencia Política,60.0,History & Politics
+UC3M,historia-politica,Regímenes políticos:evolución histórica y formas actuales,60.0,History & Politics
+UC3M,historia-politica,Evolución y Teoría del Estado,60.0,History & Politics
+UC3M,historia-politica,Historia moderna,60.0,History & Politics
+UC3M,historia-politica,Historia y teoría de las ideas políticas,60.0,History & Politics
+UC3M,historia-politica,Política e Historia Internacional,60.0,History & Politics
+UC3M,historia-politica,Principios de Economía,60.0,History & Politics
+UC3M,historia-politica,Historia contemporánea,60.0,History & Politics
+UC3M,historia-politica,Geopolítica,40.0,History & Politics
+UC3M,historia-politica,Constitucionalismo histórico comparado,0.0,History & Politics
+UC3M,historia-politica,Historia moderna de España,60.0,History & Politics
+UC3M,historia-politica,Comportamiento político,60.0,History & Politics
+UC3M,historia-politica,Historia económica,60.0,History & Politics
+UC3M,historia-politica,Hojas de Cálculo: Nivel Intermedio,0.0,History & Politics
+UC3M,historia-politica,Historia del mundo actual,60.0,History & Politics
+UC3M,historia-politica,Economía política,50.0,History & Politics
+UC3M,historia-politica,Historia contemporánea de España,60.0,History & Politics
+UC3M,historia-politica,El proceso de construcción europea,60.0,History & Politics
+UC3M,historia-politica,Teoría e Historia de los movimientos sociales,60.0,History & Politics
+UC3M,historia-politica,Sociología histórica,60.0,History & Politics
+UC3M,historia-politica,Política de la España Actual,60.0,History & Politics
+UC3M,historia-politica,Historia antigua,60.0,History & Politics
+UC3M,historia-politica,Administración pública y documentación,60.0,History & Politics
+UC3M,historia-politica,Estructura y cambio social,60.0,History & Politics
+UC3M,historia-politica,Filosofía política,50.0,History & Politics
+UC3M,historia-politica,Género y familia en el orden social y político,60.0,History & Politics
+UC3M,historia-politica,"Guerra, paz y violencia política",60.0,History & Politics
+UC3M,historia-politica,Historia cultural: Poder y representaciones culturales,50.0,History & Politics
+UC3M,historia-politica,Historia y política de Asia y África,60.0,History & Politics
+UC3M,historia-politica,Historia y política de Latinoamérica,60.0,History & Politics
+UC3M,historia-politica,Organizaciones internacionales,60.0,History & Politics
+UC3M,historia-politica,Política y medios de comunicación,30.0,History & Politics
+UC3M,historia-politica,"Cooperación, acción colectiva y modelos formales de estrategia",60.0,History & Politics
+UC3M,historia-politica,Derechos Humanos,40.0,History & Politics
+UC3M,historia-politica,Globalización,60.0,History & Politics
+UC3M,historia-politica,Historia de la historiografía,60.0,History & Politics
+UC3M,historia-politica,Historia de las políticas científicas y culturales,60.0,History & Politics
+UC3M,historia-politica,Historia medieval,50.0,History & Politics
+UC3M,historia-politica,Historia Social del Arte,50.0,History & Politics
+UC3M,historia-politica,Historia y Política de Estados Unidos,60.0,History & Politics
+UC3M,historia-politica,Historia y política del mundo Islámico,50.0,History & Politics
+UC3M,historia-politica,Nacionalismos e imperialismos,60.0,History & Politics
+UC3M,historia-politica,Política y religión,60.0,History & Politics
+UC3M,fpe,Lógica y Argumentación,60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Política Internacional,35.0,"Philosophy, Politics & Economics"
+UC3M,fpe,"Macroeconomía, crecimiento, inflación y sector público",60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Seminario Interdisciplinar II,40.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Teoría Microeconómica,50.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Análisis del discurso social,0.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Metodología de Investigación en ciencia política,40.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Teoría y desafíos demográficos contemporáneos,50.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Sociedad del Conocimiento,60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Historia del mundo actual,60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Asesoramiento y consultoría política,60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Periodismo argumentativo y de opinión,40.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Estructura y cambio social,60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Política comparada,40.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Temas de política comparada,50.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Derecho internacional público,50.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Organizaciones Internacionales,50.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Crecimiento Económico,50.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Geografía Regional,50.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Gestión pública directiva,50.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Economía política internacional,40.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Políticas públicas,60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Sistema político español,50.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Análisis electoral,60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Constitución y sistema de fuentes,60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Política social y estado del bienestar,40.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Política y Sociedad,50.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Teoría política y problemas contemporáneos,40.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Teoría económica en retrospectiva,60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Corrientes actuales de la filosofía,60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Estética,50.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Historia de la filosofía II,40.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Economía laboral,40.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Regulación y políticas de la competencia,50.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Economía Pública,60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Mercados y Medio Ambiente,40.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Género y políticas de igualdad,40.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Teoría de los Juegos,60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Temas de econometría Avanzada,35.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Técnicas de investigación social cualitativas I,40.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Corrupción y rendición de cuentas,50.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Justicia transicional y democratización,40.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Política y Comunicación,60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Comunicación y participación ciudadana en la red,30.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Derecho Administrativo,60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Temas de política española,50.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Sistema judicial español,50.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Libertades públicas y derechos constitucionales,60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Política Europea,60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Comercio Internacional,50.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Desarrollo Económico,0.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Macroeconomía Internacional,60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Globalización y Sociedad,40.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Historia de la economía mundial,60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Geografía,35.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Historia Cultural,50.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Sociología de las migraciones en un mundo globalizado,30.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Gobierno multinivel,60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Evaluación de políticas y programas públicos,40.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Evaluación de políticas económicas,60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Macroeconomía Dinámica,60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Teoría política y tradiciones de pensamiento,40.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Organización Industrial,60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Economía Financiera,60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Variedades del Capitalismo,50.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Economía Aplicada,0.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Economía de la Educación,60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Economía de la Salud,60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Perspectiva comparada en el Estado de Bienestar,50.0,"Philosophy, Politics & Economics"
+UC3M,fpe,"Seguridad, paz y resolución de conflictos",50.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Filosofía Moral,60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Información y conflicto I: los medios y la violencia,40.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Historia de las relaciones internacionales contemporáneas,60.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Teoría de la cultura contemporánea,30.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Antropología Social,40.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Historia del mundo actual  (online),50.0,"Philosophy, Politics & Economics"
+UC3M,fpe,Historia de la filosofía I,60.0,"Philosophy, Politics & Economics"
+UC3M,relaciones-laborales,Principios de Economía,60.0,Labor Relations
+UC3M,relaciones-laborales,Fundamentos de Administración de Empresas,50.0,Labor Relations
+UC3M,relaciones-laborales,Principios del Derecho,60.0,Labor Relations
+UC3M,relaciones-laborales,Introducción al derecho social,50.0,Labor Relations
+UC3M,relaciones-laborales,Introducción a la sociología del trabajo,50.0,Labor Relations
+UC3M,relaciones-laborales,Historia social y económica contemporánea,50.0,Labor Relations
+UC3M,relaciones-laborales,Contabilidad,60.0,Labor Relations
+UC3M,relaciones-laborales,Derecho laboral individual I,50.0,Labor Relations
+UC3M,relaciones-laborales,Competencias digitales para el uso de la información,0.0,Labor Relations
+UC3M,relaciones-laborales,Estrategias de Expresión,0.0,Labor Relations
+UC3M,relaciones-laborales,Derecho Sindical,50.0,Labor Relations
+UC3M,relaciones-laborales,Comportamiento Organizativo,50.0,Labor Relations
+UC3M,relaciones-laborales,Derecho de la seguridad social I,50.0,Labor Relations
+UC3M,relaciones-laborales,Derecho laboral individual II,50.0,Labor Relations
+UC3M,relaciones-laborales,Principios de derecho administrativo,60.0,Labor Relations
+UC3M,relaciones-laborales,Elementos de psicología del trabajo,60.0,Labor Relations
+UC3M,relaciones-laborales,Dirección de recursos humanos,60.0,Labor Relations
+UC3M,relaciones-laborales,Derecho de la Empresa,50.0,Labor Relations
+UC3M,relaciones-laborales,Derecho de la seguridad social II,50.0,Labor Relations
+UC3M,relaciones-laborales,Derecho procesal laboral I,50.0,Labor Relations
+UC3M,relaciones-laborales,Competencias digitales para el tratamiento de datos: nivel intermedio,0.0,Labor Relations
+UC3M,relaciones-laborales,Gestión y toma de Decisiones en Recursos Humanos,60.0,Labor Relations
+UC3M,relaciones-laborales,Dirección estratégica de la empresa,60.0,Labor Relations
+UC3M,relaciones-laborales,Economía Laboral,40.0,Labor Relations
+UC3M,relaciones-laborales,Derecho  del Empleo,50.0,Labor Relations
+UC3M,relaciones-laborales,Derecho procesal laboral II,50.0,Labor Relations
+UC3M,relaciones-laborales,Estrategias de crecimiento empresarial,60.0,Labor Relations
+UC3M,relaciones-laborales,Derecho sancionador del trabajo,50.0,Labor Relations
+UC3M,relaciones-laborales,Políticas públicas sociolaborales,50.0,Labor Relations
+UC3M,relaciones-laborales,Gestión de costes laborales y de Seguridad Social,0.0,Labor Relations
+UC3M,relaciones-laborales,Derecho de la prevención de riesgos laborales,50.0,Labor Relations
+UC3M,relaciones-laborales,Técnicas de auditoría sociolaboral,40.0,Labor Relations
+UC3M,relaciones-laborales,(1) (2) Técnicas de investigación social y mercado de trabajo,50.0,Labor Relations
+UC3M,relaciones-laborales,(1) Derechos fundamentales y contrato de trabajo,0.0,Labor Relations
+UC3M,relaciones-laborales,(1) (2)Sociología de las organizaciones y del trabajo,50.0,Labor Relations
+UC3M,relaciones-laborales,(2) Gestión de equipos y habilidades directivas,50.0,Labor Relations
+UC3M,relaciones-laborales,(2) Emprendimiento empresarial,60.0,Labor Relations
+UC3M,relaciones-laborales,(1) Clínica Jurídica,0.0,Labor Relations
+UC3M,relaciones-laborales,(1) Fiscalidad de la Empresa,60.0,Labor Relations
+UC3M,relaciones-laborales,(1) Derecho social comunitario e internacional,0.0,Labor Relations
+UC3M,relaciones-laborales,(2) Responsabilidad social del empleador,60.0,Labor Relations
+UC3M,relaciones-laborales,(1) Trabajo autónomo y nuevas formas de trabajo,0.0,Labor Relations
+UC3M,relaciones-laborales,(2) Promoción de la igualdad y diversidad en empresas e instituciones,0.0,Labor Relations
+UC3M,relaciones-laborales,(1) Negociación colectiva y conflicto en la empresa,0.0,Labor Relations
+UC3M,relaciones-laborales,(2) Diseño Organizativo,40.0,Labor Relations
+UC3M,relaciones-laborales,(1) Derechos Sociolaborales de los extranjeros en España,0.0,Labor Relations
+UC3M,relaciones-laborales,(2) Psicología de los Recursos Humanos,50.0,Labor Relations
+UC3M,relaciones-laborales,(2) Estrategias de desarrollo del capital humano,60.0,Labor Relations
+UC3M,relaciones-laborales,(2) Dirección internacional de Recursos Humanos,60.0,Labor Relations
+UC3M,relaciones-laborales,(1) Empleo Público,0.0,Labor Relations
+UC3M,relaciones-laborales,(1) (2) Sociología de las migraciones del trabajo en un mundo globalizado,60.0,Labor Relations
+UC3M,relaciones-laborales,(1) Solución extrajudicial de conflictos laborales,0.0,Labor Relations
+UC3M,relaciones-laborales,(1) Protección social complementaria,0.0,Labor Relations
+UC3M,relaciones-laborales,(1) Asistencia social y servicios sociales,0.0,Labor Relations
+UC3M,relaciones-laborales,(1) Políticas y Planes de Igualdad de la empresa,60.0,Labor Relations
+UC3M,ciencias-politicas,Competencias digitales para el uso de la información,0.0,Political Science
+UC3M,ciencias-politicas,Estrategias de Expresión,0.0,Political Science
+UC3M,ciencias-politicas,Fundamentos de Ciencia Política,60.0,Political Science
+UC3M,ciencias-politicas,Introducción a la Sociología,45.0,Political Science
+UC3M,ciencias-politicas,Metodología de investigación en Ciencias Sociales,0.0,Political Science
+UC3M,ciencias-politicas,Teoría del Derecho,50.0,Political Science
+UC3M,ciencias-politicas,Actores Políticos,50.0,Political Science
+UC3M,ciencias-politicas,Estadísticas aplicada a las Ciencias Sociales I,60.0,Political Science
+UC3M,ciencias-politicas,Historia política y social,60.0,Political Science
+UC3M,ciencias-politicas,Política Mundial,50.0,Political Science
+UC3M,ciencias-politicas,Teoría política y tradiciones de pensamiento,40.0,Political Science
+UC3M,ciencias-politicas,Derecho Constitucional,60.0,Political Science
+UC3M,ciencias-politicas,Estadística aplicada para las Ciencias Sociales II,40.0,Political Science
+UC3M,ciencias-politicas,Política Comparada,60.0,Political Science
+UC3M,ciencias-politicas,Principios de Economía,60.0,Political Science
+UC3M,ciencias-politicas,Teoría política y problemas contemporáneos,40.0,Political Science
+UC3M,ciencias-politicas,Competencias digitales para el tratamiento de datos. Nivel intermedio,0.0,Political Science
+UC3M,ciencias-politicas,Comportamiento Político,60.0,Political Science
+UC3M,ciencias-politicas,Derecho Administrativo,60.0,Political Science
+UC3M,ciencias-politicas,Gestión y administración pública,50.0,Political Science
+UC3M,ciencias-politicas,Técnicas de investigación en Ciencia Política I,60.0,Political Science
+UC3M,ciencias-politicas,Análisis de políticas públicas,60.0,Political Science
+UC3M,ciencias-politicas,Análisis Electoral,60.0,Political Science
+UC3M,ciencias-politicas,Política Española,50.0,Political Science
+UC3M,ciencias-politicas,Temas de política comparada,50.0,Political Science
+UC3M,ciencias-politicas,"Estados, mercados e instituciones",60.0,Political Science
+UC3M,ciencias-politicas,Evaluación de políticas y programas públicos,40.0,Political Science
+UC3M,ciencias-politicas,Política Europea,60.0,Political Science
+UC3M,ciencias-politicas,Política y Comunicación,60.0,Political Science
+UC3M,ciencias-politicas,Temas de política mundial,50.0,Political Science
+UC3M,ciencias-politicas,Técnicas de investigación en Ciencia Política II,60.0,Political Science
+UC3M,ciencias-politicas,Asesoramiento y consultoría política,60.0,Political Science
+UC3M,ciencias-politicas,Gestión pública directiva,50.0,Political Science
+UC3M,ciencias-politicas,Los derechos fundamentales y sus garantias,60.0,Political Science
+UC3M,ciencias-politicas,Política internacional de seguridad,50.0,Political Science
+UC3M,ciencias-politicas,Política Local,50.0,Political Science
+UC3M,ciencias-politicas,Psicología Política,60.0,Political Science
+UC3M,ciencias-politicas,Relaciones y orden mundial,40.0,Political Science
+UC3M,ciencias-politicas,Sociedad de la información y de las nuevas tecnologías,30.0,Political Science
+UC3M,ciencias-politicas,Cambio climático y transformación social,60.0,Political Science
+UC3M,ciencias-politicas,Conflicto y Violencia,60.0,Political Science
+UC3M,ciencias-politicas,Derecho Administrativo II,60.0,Political Science
+UC3M,ciencias-politicas,Derecho e instituciones europeas,50.0,Political Science
+UC3M,ciencias-politicas,Estructura y cambio social,60.0,Political Science
+UC3M,ciencias-politicas,Filosofía Política,50.0,Political Science
+UC3M,ciencias-politicas,Ideologías y movimientos políticos en el siglo XXI,0.0,Political Science
+UC3M,ciencias-politicas,"Inmigración, multiculturalidad y derechos humanos",60.0,Political Science
+UC3M,ciencias-politicas,Política y Género,60.0,Political Science
+UC3M,ciencias-politicas,Política y sociedad en América Latina,60.0,Political Science
+UC3M,ciencias-politicas,Presupuesto y gasto público,60.0,Political Science
+UC3M,ciencias-politicas,Fundamentos de Ciencia Política,60.0,Political Science
+UC3M,ciencias-politicas,Metodología de investigación en Ciencias Sociales,0.0,Political Science
+UC3M,ciencias-politicas,Sociología,60.0,Political Science
+UC3M,ciencias-politicas,Técnicas de búsqueda y uso de la información,0.0,Political Science
+UC3M,ciencias-politicas,Técnicas de expresión oral y escrita,0.0,Political Science
+UC3M,ciencias-politicas,Teoría del Derecho,50.0,Political Science
+UC3M,ciencias-politicas,Derecho Constitucional,60.0,Political Science
+UC3M,ciencias-politicas,Estadística aplicada a las Ciencias Sociales I,60.0,Political Science
+UC3M,ciencias-politicas,Historia de los procesos políticos contemporáneos,60.0,Political Science
+UC3M,ciencias-politicas,Teoría política y tradiciones de pensamiento,40.0,Political Science
+UC3M,ciencias-politicas,Teorías y enfoques de investigación en Ciencia Política,50.0,Political Science
+UC3M,ciencias-politicas,Actores Políticos,50.0,Political Science
+UC3M,ciencias-politicas,Estadística aplicada a las Ciencias Sociales II,40.0,Political Science
+UC3M,ciencias-politicas,Política comparada I,40.0,Political Science
+UC3M,ciencias-politicas,Principios de Economía,60.0,Political Science
+UC3M,ciencias-politicas,Teoría política y problemas contemporáneos,40.0,Political Science
+UC3M,ciencias-politicas,Comportamiento Político,60.0,Political Science
+UC3M,ciencias-politicas,Derecho Administrativo,60.0,Political Science
+UC3M,ciencias-politicas,Gestión y administración pública,50.0,Political Science
+UC3M,ciencias-politicas,Técnicas de investigación en Ciencia Política,60.0,Political Science
+UC3M,ciencias-politicas,Análisis electoral,60.0,Political Science
+UC3M,ciencias-politicas,Hojas de cálculo: Nivel intermedio,0.0,Political Science
+UC3M,ciencias-politicas,Políticas Públicas,60.0,Political Science
+UC3M,ciencias-politicas,Sistema político español,50.0,Political Science
+UC3M,ciencias-politicas,Temas de política comparada,50.0,Political Science
+UC3M,ciencias-politicas,Evaluación de políticas y programas públicos,40.0,Political Science
+UC3M,ciencias-politicas,Política Europea,60.0,Political Science
+UC3M,ciencias-politicas,Política mundial,50.0,Political Science
+UC3M,ciencias-politicas,Política y comunicación,60.0,Political Science
+UC3M,ciencias-politicas,Temas de política española,50.0,Political Science
+UC3M,ciencias-politicas,Seminario de Investigación,40.0,Political Science
+UC3M,ciencias-politicas,Asesoramiento y consultoría política,60.0,Political Science
+UC3M,ciencias-politicas,Derecho Constitucional II: derechos fundamentales y garantías constitucionales,60.0,Political Science
+UC3M,ciencias-politicas,Diálogo social y gobernanza: actores y reformas laborales,40.0,Political Science
+UC3M,ciencias-politicas,Economía pública,60.0,Political Science
+UC3M,ciencias-politicas,Estructura y cambio social,60.0,Political Science
+UC3M,ciencias-politicas,Filosofía política,50.0,Political Science
+UC3M,ciencias-politicas,Gestión pública directiva,50.0,Political Science
+UC3M,ciencias-politicas,Márketing público,60.0,Political Science
+UC3M,ciencias-politicas,Organizaciones y relaciones internacionales,50.0,Political Science
+UC3M,ciencias-politicas,Política local,50.0,Political Science
+UC3M,ciencias-politicas,Psicología Política,60.0,Political Science
+UC3M,ciencias-politicas,Sociología de España,50.0,Political Science
+UC3M,ciencias-politicas,Teoría de los Juegos,50.0,Political Science
+UC3M,ciencias-politicas,Derecho Administrativo II,60.0,Political Science
+UC3M,ciencias-politicas,Derecho e instituciones europeas,50.0,Political Science
+UC3M,ciencias-politicas,Economía internacional,50.0,Political Science
+UC3M,ciencias-politicas,Gobierno Multinivel,60.0,Political Science
+UC3M,ciencias-politicas,Ideologías y movimientos políticos en el siglo XXI,0.0,Political Science
+UC3M,ciencias-politicas,"Inmigración, multiculturalidad y derechos humanos",60.0,Political Science
+UC3M,ciencias-politicas,Inteligencia política aplicada,40.0,Political Science
+UC3M,ciencias-politicas,Política internacional de seguridad,50.0,Political Science
+UC3M,ciencias-politicas,Política social y Estado del Bienestar,40.0,Political Science
+UC3M,ciencias-politicas,Presupuesto y gasto público,60.0,Political Science
+UC3M,turismo,Alemán I,0.0,Tourism
+UC3M,turismo,Competencias digitales para el uso de la información,0.0,Tourism
+UC3M,turismo,Estrategias de Expresión,0.0,Tourism
+UC3M,turismo,Francés I,40.0,Tourism
+UC3M,turismo,Geografía del turismo y tendencias del turismo actual,30.0,Tourism
+UC3M,turismo,Historia contemporánea y turismo,60.0,Tourism
+UC3M,turismo,Introducción al derecho patrimonial,60.0,Tourism
+UC3M,turismo,Alemán II,0.0,Tourism
+UC3M,turismo,Francés II,40.0,Tourism
+UC3M,turismo,Historia del Arte,60.0,Tourism
+UC3M,turismo,Introducción a la Contabilidad,60.0,Tourism
+UC3M,turismo,Introducción a la Estadística,60.0,Tourism
+UC3M,turismo,Recursos territoriales turísticos,30.0,Tourism
+UC3M,turismo,Alemán III,0.0,Tourism
+UC3M,turismo,Derecho privado turístico (Contratación turística),40.0,Tourism
+UC3M,turismo,Francés III,40.0,Tourism
+UC3M,turismo,Fundamentos de administración de empresas,50.0,Tourism
+UC3M,turismo,Patrimonio Cultural,50.0,Tourism
+UC3M,turismo,Principios de Economía,60.0,Tourism
+UC3M,turismo,Alemán IV,0.0,Tourism
+UC3M,turismo,Competencias digitales para el tratamiento de datos. Nivel Intermedio,0.0,Tourism
+UC3M,turismo,Francés IV,40.0,Tourism
+UC3M,turismo,Operaciones y procesos en empresas turísticas,50.0,Tourism
+UC3M,turismo,Planificación territorial turística,50.0,Tourism
+UC3M,turismo,Turismos emergentes y nuevas modalidades turísticas,30.0,Tourism
+UC3M,turismo,Dirección Estratégica de empresas turísticas,60.0,Tourism
+UC3M,turismo,Marketing,40.0,Tourism
+UC3M,turismo,Regulación administrativa del turismo,60.0,Tourism
+UC3M,turismo,Sistemas informáticos en el sector turístico,25.0,Tourism
+UC3M,turismo,Turismo Sostenible,40.0,Tourism
+UC3M,turismo,Comunicación de marketing y medios sociales,50.0,Tourism
+UC3M,turismo,Dirección de recursos humanos,60.0,Tourism
+UC3M,turismo,Gestión de eventos turísticos y protocolo,0.0,Tourism
+UC3M,turismo,Gestión de la calidad de los servicios turísticos y atención al cliente,40.0,Tourism
+UC3M,turismo,Creación de empresas turísticas,60.0,Tourism
+UC3M,turismo,Diseño de servicios turísticos para las culturas asiáticas,50.0,Tourism
+UC3M,turismo,Legislación laboral en el sector turístico,0.0,Tourism
+UC3M,turismo,Lengua extranjera aplicada al turismo I,40.0,Tourism
+UC3M,turismo,Marketing Digital,40.0,Tourism
+UC3M,turismo,Negocios Digitales,40.0,Tourism
+UC3M,turismo,Turismo cultural y de museos,50.0,Tourism
+UC3M,turismo,Creación y planificación de itinerarios y rutas turísticas,50.0,Tourism
+UC3M,turismo,Dirección de hoteles y alojamientos turísticos,0.0,Tourism
+UC3M,turismo,Investigación de Mercados,35.0,Tourism
+UC3M,turismo,Lengua extranjera aplicada al turismo II,0.0,Tourism
+UC3M,turismo,Sociología del turismo y del ocio,40.0,Tourism
+UC3M,turismo,Viajes e imágenes de los espacios turísticos,50.0,Tourism
+UC3M,turismo,Principios de Economía,60.0,Tourism
+UC3M,turismo,Fundamentos de administración de empresas,50.0,Tourism
+UC3M,turismo,Introducción al derecho patrimonial,60.0,Tourism
+UC3M,turismo,Francés I,40.0,Tourism
+UC3M,turismo,Alemán I,0.0,Tourism
+UC3M,turismo,Geografía del turismo y tendencias del turismo actual,30.0,Tourism
+UC3M,turismo,Francés II,40.0,Tourism
+UC3M,turismo,Alemán II,0.0,Tourism
+UC3M,turismo,Técnicas de búsqueda y uso de la información,0.0,Tourism
+UC3M,turismo,Técnicas de expresión oral y escrita,0.0,Tourism
+UC3M,turismo,Recursos territoriales turísticos,30.0,Tourism
+UC3M,turismo,Introducción a la Contabilidad,60.0,Tourism
+UC3M,turismo,Introducción a la Estadística,60.0,Tourism
+UC3M,turismo,Regulación administrativa del turismo,60.0,Tourism
+UC3M,turismo,Patrimonio Cultural,50.0,Tourism
+UC3M,turismo,Francés III,40.0,Tourism
+UC3M,turismo,Alemán III,0.0,Tourism
+UC3M,turismo,Historia contemporána y turismo,60.0,Tourism
+UC3M,turismo,Dirección Estratégica de empresas turísticas,60.0,Tourism
+UC3M,turismo,Planificación territorial y turística,50.0,Tourism
+UC3M,turismo,Operaciones y procesos en empresas turísticas,50.0,Tourism
+UC3M,turismo,Marketing Turístico,55.0,Tourism
+UC3M,turismo,Francés IV,40.0,Tourism
+UC3M,turismo,Alemán IV,0.0,Tourism
+UC3M,turismo,Dirección Financiera,60.0,Tourism
+UC3M,turismo,Derecho privado turístico (Contratación turística),40.0,Tourism
+UC3M,turismo,Sistemas informáticos en el sector turístico,25.0,Tourism
+UC3M,turismo,Hojas de Cálculo: nivel intermedio,0.0,Tourism
+UC3M,turismo,Gestión de eventos turísticos y protocolo,0.0,Tourism
+UC3M,turismo,Creación de empresas turísticas,60.0,Tourism
+UC3M,turismo,Investigación de mercados y fuentes de información para el sector turístico,50.0,Tourism
+UC3M,turismo,Gestión de la calidad de los servicios turísticos y atención al cliente,40.0,Tourism
+UC3M,turismo,"Técnicas de Comunicación, Patrocinios  y RRPP",55.0,Tourism
+UC3M,turismo,Organización y gestión de recursos humanos,60.0,Tourism
+UC3M,turismo,Historia del Arte,60.0,Tourism
+UC3M,turismo,Turismo cultural y de museos,50.0,Tourism
+UC3M,turismo,Viajes e imágenes de los espacios turísticos,50.0,Tourism
+UC3M,turismo,Turismos emergentes y nuevas modalidades turísticas,30.0,Tourism
+UC3M,turismo,Diseño de servicios turísticos para las culturas asiáticas,50.0,Tourism
+UC3M,turismo,Turismo sostenible,40.0,Tourism
+UC3M,turismo,Lengua extranjera aplicada al turismo I,40.0,Tourism
+UC3M,turismo,Negocios online de servicios turísticos,55.0,Tourism
+UC3M,turismo,Marketing digital y redes sociales para productos turísticos,40.0,Tourism
+UC3M,turismo,Modelos estadísticos para el sector turístico,40.0,Tourism
+UC3M,turismo,Legislación laboral en el sector turístico,0.0,Tourism
+UC3M,turismo,Creación y planificación de itinerarios y rutas turísticas,50.0,Tourism
+UC3M,turismo,Modelos de negocio y design thinking para servicios turísticos,50.0,Tourism
+UC3M,turismo,Lengua extranjera aplicada al turismo II,0.0,Tourism
+UC3M,turismo,Estrategias de turismo colaborativo,50.0,Tourism
+UC3M,turismo,Creación y gestión de marca de destinos turísticos y culturales,55.0,Tourism
+UC3M,turismo,Gestión de empresas de Intermediación turística y ocio,10.0,Tourism
+UC3M,turismo,Dirección de hoteles y alojamientos turísticos,0.0,Tourism
+UC3M,turismo,Sociología del turismo y del ocio,40.0,Tourism
+UC3M,aeroespacial,Calculo I,60.0,Aerospace Engineering
+UC3M,aeroespacial,Algebra Lineal,60.0,Aerospace Engineering
+UC3M,aeroespacial,Fisica I,60.0,Aerospace Engineering
+UC3M,aeroespacial,Programación,50.0,Aerospace Engineering
+UC3M,aeroespacial,Estadistica,0.0,Aerospace Engineering
+UC3M,aeroespacial,Tecnicas de Expresión Oral y Escrita,0.0,Aerospace Engineering
+UC3M,aeroespacial,Calculo II,60.0,Aerospace Engineering
+UC3M,aeroespacial,Fundamentos Químicos en la ingeniería,60.0,Aerospace Engineering
+UC3M,aeroespacial,Expresión Gráfica,60.0,Aerospace Engineering
+UC3M,aeroespacial,Fisica II,60.0,Aerospace Engineering
+UC3M,aeroespacial,Mecánica de Fluidos I,60.0,Aerospace Engineering
+UC3M,aeroespacial,Mecánica aplicada a la Ingeniería Aeroespacial,60.0,Aerospace Engineering
+UC3M,aeroespacial,Ampliación de Matemáticas,60.0,Aerospace Engineering
+UC3M,aeroespacial,Fundamentos de Gestión Empresarial,60.0,Aerospace Engineering
+UC3M,aeroespacial,Materiales Aeroespaciales I,60.0,Aerospace Engineering
+UC3M,aeroespacial,Modelización en Ingeniería Aeroespacial,60.0,Aerospace Engineering
+UC3M,aeroespacial,Ingeniería Térmica,60.0,Aerospace Engineering
+UC3M,aeroespacial,Elasticidad y Resistencia de Materiales,60.0,Aerospace Engineering
+UC3M,aeroespacial,Materiales Aeroespaciales II,60.0,Aerospace Engineering
+UC3M,aeroespacial,Mecánica de Fluidos II,60.0,Aerospace Engineering
+UC3M,aeroespacial,Aerodinámica I,60.0,Aerospace Engineering
+UC3M,aeroespacial,Fundamentos de Ingeniería Electrónica,50.0,Aerospace Engineering
+UC3M,aeroespacial,Estructuras Aeroespaciales,60.0,Aerospace Engineering
+UC3M,aeroespacial,Sistemas e Instalaciones del Avion,60.0,Aerospace Engineering
+UC3M,aeroespacial,Propulsión Aeroespacial I,60.0,Aerospace Engineering
+UC3M,aeroespacial,Técnicas de Búsqueda y uso de la Información,0.0,Aerospace Engineering
+UC3M,aeroespacial,Mecánica de Vuelo I,60.0,Aerospace Engineering
+UC3M,aeroespacial,"Navegación, Transporte Aereo y Aeropuertos",25.0,Aerospace Engineering
+UC3M,aeroespacial,Diseño Aeroespacial I,60.0,Aerospace Engineering
+UC3M,aeroespacial,Hojas de cálculo. Nivel avanzado,0.0,Aerospace Engineering
+UC3M,aeroespacial,Estabilidad e Integridad de Estructuras Aeroespaciales,60.0,Aerospace Engineering
+UC3M,aeroespacial,Control de Sistemas Aeroespaciales,0.0,Aerospace Engineering
+UC3M,aeroespacial,Diseño Aeroespacial II,60.0,Aerospace Engineering
+UC3M,aeroespacial,Aerodinámica II,25.0,Aerospace Engineering
+UC3M,aeroespacial,Integración de Sistemas Embarcados,25.0,Aerospace Engineering
+UC3M,aeroespacial,Aeroelasticidad,60.0,Aerospace Engineering
+UC3M,aeroespacial,Diseño de Turbohélices,25.0,Aerospace Engineering
+UC3M,aeroespacial,Combustión,60.0,Aerospace Engineering
+UC3M,aeroespacial,Diseño de Turbomáquinas,25.0,Aerospace Engineering
+UC3M,aeroespacial,Vehículos espaciales y dinámica orbital,60.0,Aerospace Engineering
+UC3M,aeroespacial,Diseño y cálculo de aeronaves,60.0,Aerospace Engineering
+UC3M,aeroespacial,Mecánica de Vuelo II,60.0,Aerospace Engineering
+UC3M,aeroespacial,Helicópteros y Aeronaves Diversas,30.0,Aerospace Engineering
+UC3M,aeroespacial,Propulsión Aeroespacial II,60.0,Aerospace Engineering
+UC3M,aeroespacial,Motores Cohete,60.0,Aerospace Engineering
+UC3M,aeroespacial,Instrumentación Electrónica en Sistemas Energéticos,30.0,Aerospace Engineering
+UC3M,datos,Álgebra Lineal,60.0,Data Science
+UC3M,datos,Cálculo I,60.0,Data Science
+UC3M,datos,Introducción a la ciencia de datos,0.0,Data Science
+UC3M,datos,Probabilidad y análisis de datos,60.0,Data Science
+UC3M,datos,Programación,50.0,Data Science
+UC3M,datos,Cálculo II,60.0,Data Science
+UC3M,datos,Competencias digitales para la ingeniería,0.0,Data Science
+UC3M,datos,Estrategias de Expresión,0.0,Data Science
+UC3M,datos,Estructura de datos y algoritmos,50.0,Data Science
+UC3M,datos,Introducción a la modelización estadística,60.0,Data Science
+UC3M,datos,Matemática Discreta,60.0,Data Science
+UC3M,datos,Aprendizaje Estadístico,50.0,Data Science
+UC3M,datos,Bases de Datos,50.0,Data Science
+UC3M,datos,Métodos Numéricos,50.0,Data Science
+UC3M,datos,Señales y Sistemas,60.0,Data Science
+UC3M,datos,Aprendizaje Automático I,30.0,Data Science
+UC3M,datos,Modelización Predictiva,60.0,Data Science
+UC3M,datos,Protección de datos y ciberseguridad,30.0,Data Science
+UC3M,datos,Redes de Ordenadores,30.0,Data Science
+UC3M,datos,Tratamiento estadístico de señales,60.0,Data Science
+UC3M,datos,Aplicaciones Web,30.0,Data Science
+UC3M,datos,Aprendizaje Automático II,30.0,Data Science
+UC3M,datos,Introducción a los negocios,60.0,Data Science
+UC3M,datos,Optimización y Analítica,50.0,Data Science
+UC3M,datos,Análisis Bayesiano de datos,60.0,Data Science
+UC3M,datos,Aspectos legales y éticos en ingeniería de datos,60.0,Data Science
+UC3M,datos,Analítica Web,0.0,Data Science
+UC3M,datos,Proyecto en ciencia de datos,0.0,Data Science
+UC3M,datos,Aprendizaje automático en salud,0.0,Data Science
+UC3M,datos,Fundamentos de BioInformática,0.0,Data Science
+UC3M,datos,Ingeniería de la Ciberseguridad,60.0,Data Science
+UC3M,datos,Procesos Estocásticos,40.0,Data Science
+UC3M,datos,Tecnologías de Red en Internet para Big Data,60.0,Data Science
+UC3M,datos,Analítica de datos educativos,60.0,Data Science
+UC3M,datos,Aprendizaje automático y profundo para astronomía y astrofísica,0.0,Data Science
+UC3M,datos,Inteligencia Artificial,40.0,Data Science
+UC3M,datos,Robótica,0.0,Data Science
+UC3M,datos,Series temporales y predicción,50.0,Data Science
+UC3M,datos,Simulación en probabilidad y estadística,60.0,Data Science
+UC3M,datos,Tecnología Avanzada en Red en Internet,40.0,Data Science
+UC3M,datos,Álgebra Lineal,60.0,Data Science
+UC3M,datos,Cálculo I,60.0,Data Science
+UC3M,datos,Introducción a la ciencia de datos,0.0,Data Science
+UC3M,datos,Probabilidad y análisis de datos,60.0,Data Science
+UC3M,datos,Programación,50.0,Data Science
+UC3M,datos,Cálculo II,60.0,Data Science
+UC3M,datos,Estructura de datos y algoritmos,50.0,Data Science
+UC3M,datos,Hojas de cálculo. Nivel avanzado,0.0,Data Science
+UC3M,datos,Introducción a la modelización estadística,60.0,Data Science
+UC3M,datos,Redes de Ordenadores,30.0,Data Science
+UC3M,datos,Técnicas de búsqueda y uso de información,0.0,Data Science
+UC3M,datos,Técnicas de expresión oral y escrita,0.0,Data Science
+UC3M,datos,Aprendizaje estadístico,50.0,Data Science
+UC3M,datos,Bases de datos,50.0,Data Science
+UC3M,datos,Matemática discreta,60.0,Data Science
+UC3M,datos,Señales y Sistemas,60.0,Data Science
+UC3M,datos,Teoría de autómatas y compiladores,50.0,Data Science
+UC3M,datos,Aprendizaje automático I,30.0,Data Science
+UC3M,datos,Métodos numéricos,50.0,Data Science
+UC3M,datos,Modelización predictiva,60.0,Data Science
+UC3M,datos,Protección de datos y ciberseguridad,30.0,Data Science
+UC3M,datos,Tratamiento estadístico de señales,60.0,Data Science
+UC3M,datos,Aplicaciones Web,30.0,Data Science
+UC3M,datos,Aprendizaje automático II,30.0,Data Science
+UC3M,datos,Computación masiva,0.0,Data Science
+UC3M,datos,Introducción a los negocios,60.0,Data Science
+UC3M,datos,Optimización y analítica,50.0,Data Science
+UC3M,datos,Análisis Bayesiano de datos,60.0,Data Science
+UC3M,datos,Aplicaciones del aprendizaje automático,30.0,Data Science
+UC3M,datos,Aplicaciones Móviles,0.0,Data Science
+UC3M,datos,Aspectos legales y éticos en ingeniería de datos,60.0,Data Science
+UC3M,datos,Redes Neuronales,30.0,Data Science
+UC3M,datos,Analítica Web,0.0,Data Science
+UC3M,datos,Proyecto en ciencia de datos,0.0,Data Science
+UC3M,datos,"Tratamiento de audio, video y visión artificial",40.0,Data Science
+UC3M,datos,Análisis de datos funcionales,50.0,Data Science
+UC3M,datos,Aprendizaje automático en salud,0.0,Data Science
+UC3M,datos,Fundamentos de BioInformática,0.0,Data Science
+UC3M,datos,Ingeniería de la ciberseguridad,60.0,Data Science
+UC3M,datos,Métodos de simulación y muestreo,60.0,Data Science
+UC3M,datos,Regresión en Alta dimensión,50.0,Data Science
+UC3M,datos,Tecnologías de Red en Internet para Big Data,60.0,Data Science
+UC3M,datos,Analítica de datos educativos,60.0,Data Science
+UC3M,datos,Diseño para la interpretación de datos,60.0,Data Science
+UC3M,datos,Inteligencia Artificial,40.0,Data Science
+UC3M,datos,Métodos de Inferencia en aprendizaje automático Bayesiano,60.0,Data Science
+UC3M,datos,Robótica,0.0,Data Science
+UC3M,datos,Series temporales y predicción,50.0,Data Science
+UC3M,datos,Sistemas estocásticos dinámicos,60.0,Data Science
+UC3M,datos,Tecnología Avanzada en Red de Internet,40.0,Data Science
+UC3M,biomedica,Cálculo I,60.0,Biomedical Engineering
+UC3M,biomedica,Álgebra Lineal,60.0,Biomedical Engineering
+UC3M,biomedica,Química,60.0,Biomedical Engineering
+UC3M,biomedica,Introducción a la Bioingeniería,40.0,Biomedical Engineering
+UC3M,biomedica,Programación,40.0,Biomedical Engineering
+UC3M,biomedica,Competencias digitales para la ingeniería,0.0,Biomedical Engineering
+UC3M,biomedica,Estrategias de Expresión,0.0,Biomedical Engineering
+UC3M,biomedica,Cálculo II,60.0,Biomedical Engineering
+UC3M,biomedica,Biología celular y molecular,60.0,Biomedical Engineering
+UC3M,biomedica,Física I,60.0,Biomedical Engineering
+UC3M,biomedica,Física II,60.0,Biomedical Engineering
+UC3M,biomedica,Física III,60.0,Biomedical Engineering
+UC3M,biomedica,Ecuaciones Diferenciales,60.0,Biomedical Engineering
+UC3M,biomedica,Bioquímica,40.0,Biomedical Engineering
+UC3M,biomedica,Mecánica de Sólidos en Bioingeniería,60.0,Biomedical Engineering
+UC3M,biomedica,Señales y Sistemas,50.0,Biomedical Engineering
+UC3M,biomedica,Tecnología electrónica en biomedicina,50.0,Biomedical Engineering
+UC3M,biomedica,Métodos numéricos en biomedicina,40.0,Biomedical Engineering
+UC3M,biomedica,Mecánica de Fluidos en Bioingeniería,40.0,Biomedical Engineering
+UC3M,biomedica,Estadística,0.0,Biomedical Engineering
+UC3M,biomedica,Ingeniería de Control,45.0,Biomedical Engineering
+UC3M,biomedica,Fundamentos de la gestión empresarial,60.0,Biomedical Engineering
+UC3M,biomedica,Robótica,45.0,Biomedical Engineering
+UC3M,biomedica,Ciencia e ingeniería de materiales,60.0,Biomedical Engineering
+UC3M,biomedica,Fisiología Médica I,60.0,Biomedical Engineering
+UC3M,biomedica,Fenómenos de transporte en biomedicina,30.0,Biomedical Engineering
+UC3M,biomedica,Instrumentación de Medida,50.0,Biomedical Engineering
+UC3M,biomedica,Fisiología Médica II,40.0,Biomedical Engineering
+UC3M,biomedica,Procesamiento de imágenes médicas,50.0,Biomedical Engineering
+UC3M,biomedica,Introducción a los Biomateriales,30.0,Biomedical Engineering
+UC3M,biomedica,Introducción al diseño de Instrumentación médica,35.0,Biomedical Engineering
+UC3M,biomedica,Fundamentos de ingeniería de tejidos y medicina regenerativa,60.0,Biomedical Engineering
+UC3M,biomedica,Proyectos e innovación en Bioingeniería,60.0,Biomedical Engineering
+UC3M,biomedica,Biología Computacional,60.0,Biomedical Engineering
+UC3M,biomedica,Microdispositivos Biomédicos,40.0,Biomedical Engineering
+UC3M,biomedica,Temas avanzados en imagen médica,50.0,Biomedical Engineering
+UC3M,biomedica,Dispositivos e instrumental médico,25.0,Biomedical Engineering
+UC3M,biomedica,Regeneración y bioingeniería de tejidos y órganos,30.0,Biomedical Engineering
+UC3M,biomedica,Introducción a la imagen biomédica,40.0,Biomedical Engineering
+UC3M,biomedica,Aplicaciones biomédicas de la robótica,50.0,Biomedical Engineering
+UC3M,biomedica,Bioética,0.0,Biomedical Engineering
+UC3M,biomedica,Aplicaciones biomédicas de la nanotecnología,30.0,Biomedical Engineering
+UC3M,biomedica,Biología sintética y de sistemas,50.0,Biomedical Engineering
+UC3M,biomedica,"Biomateriales avanzados, bioimpresión 3D y micro/nano biofabricación",35.0,Biomedical Engineering
+UC3M,biomedica,Instrumentación de imagen médica,40.0,Biomedical Engineering
+UC3M,biomedica,Modelización computacional de sistemas biológicos,50.0,Biomedical Engineering
+UC3M,biomedica,Ingeniería Neuronal,60.0,Biomedical Engineering
+UC3M,biomedica,Interfaces cerebro máquina,60.0,Biomedical Engineering
+UC3M,biomedica,Biomecánica,60.0,Biomedical Engineering
+UC3M,biomedica,Cálculo I,60.0,Biomedical Engineering
+UC3M,biomedica,Álgebra Lineal,60.0,Biomedical Engineering
+UC3M,biomedica,Química,60.0,Biomedical Engineering
+UC3M,biomedica,Introducción a la Bioingeniería,40.0,Biomedical Engineering
+UC3M,biomedica,Programación,40.0,Biomedical Engineering
+UC3M,biomedica,Técnicas de expresión oral y escrita,0.0,Biomedical Engineering
+UC3M,biomedica,Cálculo II,60.0,Biomedical Engineering
+UC3M,biomedica,Biología celular y molecular,60.0,Biomedical Engineering
+UC3M,biomedica,Física I,60.0,Biomedical Engineering
+UC3M,biomedica,Física II,60.0,Biomedical Engineering
+UC3M,biomedica,Física III,60.0,Biomedical Engineering
+UC3M,biomedica,Ecuaciones Diferenciales,60.0,Biomedical Engineering
+UC3M,biomedica,Bioquímica,40.0,Biomedical Engineering
+UC3M,biomedica,Biomecánica del medio continuo I (sólidos),60.0,Biomedical Engineering
+UC3M,biomedica,Señales y Sistemas,50.0,Biomedical Engineering
+UC3M,biomedica,Sistemas Biológicos,50.0,Biomedical Engineering
+UC3M,biomedica,Ciencia e ingeniería de materiales,60.0,Biomedical Engineering
+UC3M,biomedica,Tecnología electrónica en biomedicina,50.0,Biomedical Engineering
+UC3M,biomedica,Métodos numéricos en biomedicina,40.0,Biomedical Engineering
+UC3M,biomedica,Biomecánica del medio continuo II (fluidos),40.0,Biomedical Engineering
+UC3M,biomedica,Técnicas de búsqueda y uso de la información,0.0,Biomedical Engineering
+UC3M,biomedica,Fisiología Médica I,60.0,Biomedical Engineering
+UC3M,biomedica,Estadística,0.0,Biomedical Engineering
+UC3M,biomedica,Fenómenos de transporte en biomedicina,30.0,Biomedical Engineering
+UC3M,biomedica,Ingeniería de Control,45.0,Biomedical Engineering
+UC3M,biomedica,Instrumentación de Medida,50.0,Biomedical Engineering
+UC3M,biomedica,Hojas de cálculo. Nivel avanzado,0.0,Biomedical Engineering
+UC3M,biomedica,Fisiología Médica II,40.0,Biomedical Engineering
+UC3M,biomedica,Procesamiento de imágenes médicas,50.0,Biomedical Engineering
+UC3M,biomedica,Introducción a los Biomateriales,30.0,Biomedical Engineering
+UC3M,biomedica,Introducción al diseño de Instrumentación médica,35.0,Biomedical Engineering
+UC3M,biomedica,Fundamentos de ingeniería de tejidos y medicina regenerativa,60.0,Biomedical Engineering
+UC3M,biomedica,Biología Computacional,60.0,Biomedical Engineering
+UC3M,biomedica,Robótica,45.0,Biomedical Engineering
+UC3M,biomedica,Microdispositivos Biomédicos,40.0,Biomedical Engineering
+UC3M,biomedica,Dispositivos e instrumental médico,25.0,Biomedical Engineering
+UC3M,biomedica,Regeneración y bioingeniería de tejidos y órganos,30.0,Biomedical Engineering
+UC3M,biomedica,Introducción a la imagen biomédica,40.0,Biomedical Engineering
+UC3M,biomedica,Aplicaciones biomédicas de la robótica,30.0,Biomedical Engineering
+UC3M,biomedica,Bioética,0.0,Biomedical Engineering
+UC3M,biomedica,Biología sintética y de sistemas,50.0,Biomedical Engineering
+UC3M,biomedica,Temas avanzados en imagen médica,50.0,Biomedical Engineering
+UC3M,biomedica,"Biomateriales avanzados, bioimpresión 3D y micro/nano biofabricación",35.0,Biomedical Engineering
+UC3M,biomedica,Instrumentación e imagen multimodal,50.0,Biomedical Engineering
+UC3M,biomedica,Instrumentación e imagen médica,40.0,Biomedical Engineering
+UC3M,biomedica,Ingeniería Neuronal,60.0,Biomedical Engineering
+UC3M,biomedica,Interfaces cerebro máquina,60.0,Biomedical Engineering
+UC3M,ingenieria-fisica,Álgebra lineal,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Cálculo I,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Física I,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Química I,50.0,Engineering Physics
+UC3M,ingenieria-fisica,Técnicas de expresión oral y escrita,0.0,Engineering Physics
+UC3M,ingenieria-fisica,Cálculo II,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Física II,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Probabilidad y Estadística,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Programación,30.0,Engineering Physics
+UC3M,ingenieria-fisica,Química II,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Ciencia e ingeniería de materiales,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Ecuaciones Diferenciales,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Física Cuántica,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Mecánica y Relatividad,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Variable compleja y transformadas,60.0,Engineering Physics
+UC3M,ingenieria-fisica,"Biofísica 1: Biología física molecular, celular y tisular",35.0,Engineering Physics
+UC3M,ingenieria-fisica,Electromagnetismo y Óptica,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Fundamentos de estado sólido para ingeniería,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Métodos Numéricos,40.0,Engineering Physics
+UC3M,ingenieria-fisica,"Señales, sistemas y circuitos",60.0,Engineering Physics
+UC3M,ingenieria-fisica,Campos y ondas electromagnéticos,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Física cuántica avanzada,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Física Estadística,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Fundamentos de ingeniería electrónica,40.0,Engineering Physics
+UC3M,ingenieria-fisica,Hojas de cálculo. Nivel avanzado,0.0,Engineering Physics
+UC3M,ingenieria-fisica,Ingeniería Fluidomecánica,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Técnicas de búsqueda y uso de la información,0.0,Engineering Physics
+UC3M,ingenieria-fisica,Biofísica 2: Biología de sistemas y sintética. Biología computacional,50.0,Engineering Physics
+UC3M,ingenieria-fisica,Fotónica,40.0,Engineering Physics
+UC3M,ingenieria-fisica,Ingeniería Térmica,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Instrumentación y Medida,50.0,Engineering Physics
+UC3M,ingenieria-fisica,Biomateriales avanzados y técnicas de biofabricación,25.0,Engineering Physics
+UC3M,ingenieria-fisica,Computación e información cuántica,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Nanoelectrónica y Nanofotónica,50.0,Engineering Physics
+UC3M,ingenieria-fisica,Proyectos de Ingeniería,40.0,Engineering Physics
+UC3M,ingenieria-fisica,Sensores y técnicas de medida avanzados,50.0,Engineering Physics
+UC3M,ingenieria-fisica,Física y tecnología de plasmas,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Fundamentos matemáticos de la mecánica cuántica,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Ingeniería neuronal,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Introducción a la espintrónica,50.0,Engineering Physics
+UC3M,ingenieria-fisica,Materiales avanzados para producción y almacenamiento de energía,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Nanomateriales,50.0,Engineering Physics
+UC3M,ingenieria-fisica,Tecnologías cuánticas,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Aplicaciones biomédicas de la nanotecnología,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Biología computacional,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Elasticidad y resistencia de materiales,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Energía eólica,55.0,Engineering Physics
+UC3M,ingenieria-fisica,Energía nuclear,50.0,Engineering Physics
+UC3M,ingenieria-fisica,Energía solar,40.0,Engineering Physics
+UC3M,ingenieria-fisica,Fundamentos de gestión empresarial,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Fundamentos de ingeniería tisular y medicina regenerativa,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Generación eólica y fotovoltáica,30.0,Engineering Physics
+UC3M,ingenieria-fisica,Ingeniería de control I,50.0,Engineering Physics
+UC3M,ingenieria-fisica,Ingeniería de superficies,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Innovación y Cambio Tecnológico,50.0,Engineering Physics
+UC3M,ingenieria-fisica,Introducción a la imagen biomédica,40.0,Engineering Physics
+UC3M,ingenieria-fisica,Robótica industrial,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Selección de materiales para las industrias del transporte y aeroespacial,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Sistemas digitales basados en microprocesador,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Sistemas electrónicos,40.0,Engineering Physics
+UC3M,ingenieria-fisica,Sistemas estocásticos dinámicos,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Sistemas lineales,50.0,Engineering Physics
+UC3M,ingenieria-fisica,Tecnología de materiales,55.0,Engineering Physics
+UC3M,ingenieria-fisica,Teoría de la comunicación,60.0,Engineering Physics
+UC3M,ingenieria-fisica,Transporte y distribución de energía,0.0,Engineering Physics
+UC3M,inteligencia-artificial,Programación,50.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Computación e Inteligencia,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Álgebra Lineal,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Cálculo,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Estrategias de Expresión,0.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Competencias digitales para la ingeniería,0.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Técnicas de Programación,50.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Inteligencia Artificial,40.0,Artificial Intelligence
+UC3M,inteligencia-artificial,IA Generativa,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Computación en la Nube,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Seguridad de la información e IA,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Ética e IA,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Tratamiento de datos masivo,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Aplicaciones WEB,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Visión Artificial,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Robótica,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Gestión de Proyectos,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Procesamiento de lenguaje natural,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,IA en Salud,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Fundamentos de la Bioinformática,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Inteligencia Artificial en las Organizaciones,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Programación Funcional,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Aprendizaje Estadístico,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Interfaces de Usuario,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Analítica Web,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Servicios Audiovisuales,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Métodos de interferencia en aprendizaje automático bayesiano,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Integración y Visualización de Datos,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Análisis de datos,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Informática Gráfica,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Derecho de las tecnologías de la información,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Teoría de Juegos,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Proyectos IA,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Regulación en IA,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Introducción a la comunicación y computación cuántica,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Tecnologías para sistemas autónomos y vehículos no tripulados,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Agentes Inteligentes,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Ingeniería del Software de productos de Inteligencia Artificial,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Interfaces Cerebro Máquina,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Ingeniería Neuronal,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,El lenguaje humano: arquitectura y funciones,60.0,Artificial Intelligence
+UC3M,inteligencia-artificial,Comunicación y cultura ante la Inteligencia Artificial,60.0,Artificial Intelligence
+UC3M,finanzas-contabilidad,Fundamentos de la Administración de Empresas,50.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Matemáticas Financieras,50.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Introducción al Derecho Civil Patrimonial,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Matemáticas para la Economía I,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Principios de Economía,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Estrategias de Expresión,0.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Estadística I,40.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Introducción a la Contabilidad,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Historia Económica,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Matemáticas para la Economía II,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Competencias digitales para el tratamiento de datos: nivel avanzado,0.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Derecho Mercantil,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Contabilidad Financiera I,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Estadística II,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Organización y Dirección,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Economía Financiera,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Programación,50.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Derivados financieros,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Gestión Financiera,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Contabilidad Financiera II,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Competencias digitales para el uso de la información,0.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Microeconomía,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Macroeconomía,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Métodos cuantitativos para la empresa,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Gestión de Costes,0.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Sistemas e Instituciones Financieras,50.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Análisis de Estados Financieros,50.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Control de Gestión,0.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Gestión de Riesgos Financieros,50.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Finanzas Corporativas,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Análisis de datos dinámicos,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Auditoría de Estados Contables,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Gobierno Corporativo y Responsabilidad Social,40.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Contabilidad para la Alta Dirección,0.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Contabilidad Internacional,0.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Introducción a la minería de datos para la empresa,50.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Análisis de datos financieros,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Gestión Bancaria,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Gestión avanzada de inversores,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Legislación sobre costes laborales y de Seguridad Social,0.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Desarrollo de aplicaciones informáticas para la empresa,0.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Derecho del Mercado Financiero,40.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Derivados financieros avanzados,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Finanzas Sostenibles,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Aplicaciones informáticas para las finanzas,30.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Contabilidad de Instrumentos Financieros,50.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Derecho de la Financiación de la Empresa,0.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Macroeconomía Monetaria y Financiera,50.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Fiscalidad de la Empresa,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Big Data para finanzas y banca,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Finanzas Digitales,30.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Informe País y evaluación de riesgos,50.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Contabilidad Positiva,0.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Finanzas Internacionales,50.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Prácticas de gestión integral de la empresa (ERP),0.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Aplicación práctica de auditoria de estados financieros,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Responsabilidad Civil por Daños Extracontractuales,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Fundamentos de la Administración de Empresas,50.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Matemáticas Financieras,50.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Introducción al Derecho Civil Patrimonial,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Matemáticas para la Economía I,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Principios de Economía,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Estadística I,40.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Introducción a la Contabilidad,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Historia Económica,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Microeconomía,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Matemáticas para la Economía II,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Derecho Mercantil,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Contabilidad Financiera I,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Estadística II,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Organización y Dirección,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Economía Financiera,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Renta Fija y Derivados,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Gestión Financiera,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Contabilidad Financiera II,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Técnicas de búsqueda de información,0.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Técnicas de expresión oral y escrita,0.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Macroeconomía,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Métodos cuantitativos para la empresa,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Gestión de Costes,0.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Sistemas e Instituciones Financieras,50.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Hojas de cálculo. Nivel Avanzado,0.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Análisis de Estados Financieros,50.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Control de Gestión,0.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Gestión de Riesgos Financieros,50.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Finanzas Corporativas,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Análisis de datos dinámicos,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Auditoría de Estados Contables,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Gobierno Corporativo y Responsabilidad Social,40.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Contabilidad para la Alta Dirección,0.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Contabilidad Internacional,0.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Introducción a la minería de datos para la empresa,50.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Análisis de datos financieros,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Gestión Bancaria,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Valoración y Selección de Activos,0.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Legislación sobre costes laborales y de Seguridad Social,0.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Desarrollo de aplicaciones informáticas para la empresa,0.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Derecho del Mercado Financiero,40.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Derivados financieros avanzados,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Prácticas de gestión integral de la empresa (ERP),0.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Aplicaciones informáticas para las finanzas,30.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Contabilidad de Instrumentos Financieros,50.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Derecho de la Financiación de la Empresa,0.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Macroeconomía Monetaria y Financiera,50.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Fiscalidad de la Empresa,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Big Data para finanzas y banca,60.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Finanzas Digitales,30.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Informe País y evaluación de riesgos,50.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Contabilidad Positiva,0.0,Finance & Accounting
+UC3M,finanzas-contabilidad,Finanzas Internacionales,50.0,Finance & Accounting
+UC3M,empresa-tecnologia,Introducción a la administración de la empresa,60.0,Business & Technology
+UC3M,empresa-tecnologia,Fundamentos de tecnologías de la información,55.0,Business & Technology
+UC3M,empresa-tecnologia,Principios de Economía,60.0,Business & Technology
+UC3M,empresa-tecnologia,Matemáticas I,60.0,Business & Technology
+UC3M,empresa-tecnologia,Estrategias de Expresión,0.0,Business & Technology
+UC3M,empresa-tecnologia,Introducción al derecho de empresa,50.0,Business & Technology
+UC3M,empresa-tecnologia,Programación para los Negocios,0.0,Business & Technology
+UC3M,empresa-tecnologia,Microeconomía,60.0,Business & Technology
+UC3M,empresa-tecnologia,Principios de Contabilidad,60.0,Business & Technology
+UC3M,empresa-tecnologia,Matemáticas II,60.0,Business & Technology
+UC3M,empresa-tecnologia,Estadística I,40.0,Business & Technology
+UC3M,empresa-tecnologia,Bases de datos y modelización de datos,60.0,Business & Technology
+UC3M,empresa-tecnologia,Macroeconomía,60.0,Business & Technology
+UC3M,empresa-tecnologia,Operaciones y cadena de suministros,30.0,Business & Technology
+UC3M,empresa-tecnologia,Negocios Digitales,40.0,Business & Technology
+UC3M,empresa-tecnologia,Estadística II,60.0,Business & Technology
+UC3M,empresa-tecnologia,Fundamentos de producción de software para negocios digitales,0.0,Business & Technology
+UC3M,empresa-tecnologia,Contabilidad de Gestión,50.0,Business & Technology
+UC3M,empresa-tecnologia,Economía Financiera,60.0,Business & Technology
+UC3M,empresa-tecnologia,Gestión de la Innovación,50.0,Business & Technology
+UC3M,empresa-tecnologia,Competencias digitales para el tratamiento de datos: nivel avanzado,0.0,Business & Technology
+UC3M,empresa-tecnologia,Competencias digitales para el uso de la información,0.0,Business & Technology
+UC3M,empresa-tecnologia,Big data y análisis empresarial,25.0,Business & Technology
+UC3M,empresa-tecnologia,Recursos Humanos,60.0,Business & Technology
+UC3M,empresa-tecnologia,Métodos cuantitativos para la empresa,60.0,Business & Technology
+UC3M,empresa-tecnologia,Emprendimiento Digital,60.0,Business & Technology
+UC3M,empresa-tecnologia,Dirección Estratégica,60.0,Business & Technology
+UC3M,empresa-tecnologia,Inteligencia artificial en la empresa,0.0,Business & Technology
+UC3M,empresa-tecnologia,Ecosistemas Interactivos,30.0,Business & Technology
+UC3M,empresa-tecnologia,Sistemas de información integrados,40.0,Business & Technology
+UC3M,empresa-tecnologia,Marketing,40.0,Business & Technology
+UC3M,empresa-tecnologia,Aprendizaje automático para la toma de decisiones empresariales,30.0,Business & Technology
+UC3M,empresa-tecnologia,Dirección Financiera,60.0,Business & Technology
+UC3M,empresa-tecnologia,Ética Empresarial,50.0,Business & Technology
+UC3M,empresa-tecnologia,Aprendizaje Estadístico,50.0,Business & Technology
+UC3M,empresa-tecnologia,Sistemas de información globales,60.0,Business & Technology
+UC3M,empresa-tecnologia,Diseño para la interpretación de datos,60.0,Business & Technology
+UC3M,empresa-tecnologia,Comportamiento del consumidor digital,40.0,Business & Technology
+UC3M,empresa-tecnologia,Cadena de suministro digital,0.0,Business & Technology
+UC3M,empresa-tecnologia,Gestión de Proyectos,60.0,Business & Technology
+UC3M,empresa-tecnologia,Diseño Organizativo,40.0,Business & Technology
+UC3M,empresa-tecnologia,Gestión internacional de la empresa,55.0,Business & Technology
+UC3M,empresa-tecnologia,Desarrollo de producto digital,60.0,Business & Technology
+UC3M,empresa-tecnologia,Vigilancia tecnológica e inteligencia competitiva,60.0,Business & Technology
+UC3M,empresa-tecnologia,Análisis avanzado de big data,0.0,Business & Technology
+UC3M,empresa-tecnologia,Gestión de marcas en el mundo digital (E-Branding),40.0,Business & Technology
+UC3M,empresa-tecnologia,Contabilidad Financiera,60.0,Business & Technology
+UC3M,empresa-tecnologia,Ciberseguridad y protección de datos,40.0,Business & Technology
+UC3M,empresa-tecnologia,Programación de aplicaciones informáticas,40.0,Business & Technology
+UC3M,empresa-tecnologia,Gestión de la Tecnología,0.0,Business & Technology
+UC3M,empresa-tecnologia,Análisis de estados financieros,50.0,Business & Technology
+UC3M,empresa-tecnologia,Comunicación de marketing y medios sociales,50.0,Business & Technology
+UC3M,empresa-tecnologia,Recursos humanos digitales,60.0,Business & Technology
+UC3M,empresa-tecnologia,Técnicas de predicción para la investigación,20.0,Business & Technology
+UC3M,empresa-tecnologia,Teoría de Juegos,60.0,Business & Technology
+UC3M,empresa-tecnologia,Finanzas Digitales,30.0,Business & Technology
+UC3M,empresa-tecnologia,"Derecho de la creación, protección y financiación de la empresa",20.0,Business & Technology
+UC3M,empresa-tecnologia,Derecho Laboral,0.0,Business & Technology
+UC3M,empresa-tecnologia,Optimización matemática para la empresa,0.0,Business & Technology
+UC3M,empresa-tecnologia,Prácticas de Gestión Integral de la Empresa (ERP),0.0,Business & Technology
+UC3M,empresa-tecnologia,Marketing Digital,40.0,Business & Technology
+UC3M,estudios-internacionales,Competencias digitales para el uso de la información,0.0,International Studies
+UC3M,estudios-internacionales,Economía I (Microeconomía),50.0,International Studies
+UC3M,estudios-internacionales,Metodología y cultura jurídica,50.0,International Studies
+UC3M,estudios-internacionales,Política Comparada,50.0,International Studies
+UC3M,estudios-internacionales,Sociología Comparada,40.0,International Studies
+UC3M,estudios-internacionales,Estrategias de Expresión,0.0,International Studies
+UC3M,estudios-internacionales,Economía II (Macroeconomía),35.0,International Studies
+UC3M,estudios-internacionales,Estadística para las ciencias sociales I: Introducción a la estadística,40.0,International Studies
+UC3M,estudios-internacionales,Historia de la economía mundial,60.0,International Studies
+UC3M,estudios-internacionales,Historia política y social,30.0,International Studies
+UC3M,estudios-internacionales,Política Mundial,50.0,International Studies
+UC3M,estudios-internacionales,"Cooperación, acción colectiva y modelos formales de estrategia",20.0,International Studies
+UC3M,estudios-internacionales,Competencias digitales para el tratamiento de datos. Nivel avanzado,35.0,International Studies
+UC3M,estudios-internacionales,Derecho internacional público,50.0,International Studies
+UC3M,estudios-internacionales,Economía política internacional,40.0,International Studies
+UC3M,estudios-internacionales,Estadística para las Ciencias Sociales II: técnicas multivariantes,30.0,International Studies
+UC3M,estudios-internacionales,Conflicto y Violencia,60.0,International Studies
+UC3M,estudios-internacionales,Demografía,25.0,International Studies
+UC3M,estudios-internacionales,Organizaciones Internacionales,40.0,International Studies
+UC3M,estudios-internacionales,Política europea y sociedad,60.0,International Studies
+UC3M,estudios-internacionales,"Seguridad, paz y resolución de conflictos",50.0,International Studies
+UC3M,estudios-internacionales,Derechos Humanos,40.0,International Studies
+UC3M,estudios-internacionales,Diseño de investigación en ciencias sociales,50.0,International Studies
+UC3M,estudios-internacionales,Economía internacional: integración económica,50.0,International Studies
+UC3M,estudios-internacionales,Sistemas financieros internacionales,50.0,International Studies
+UC3M,estudios-internacionales,Temas de política internacional,40.0,International Studies
+UC3M,estudios-internacionales,Casos de Estudios Internacionales (Seminario Multidisciplinar),0.0,International Studies
+UC3M,estudios-internacionales,Evaluación de políticas públicas,40.0,International Studies
+UC3M,estudios-internacionales,"Globalización: economía, política y sociedad",60.0,International Studies
+UC3M,estudios-internacionales,Ayuda internacional y cooperación al desarrollo,60.0,International Studies
+UC3M,estudios-internacionales,Comercio Internacional,50.0,International Studies
+UC3M,estudios-internacionales,Corrupción y rendición de cuentas,50.0,International Studies
+UC3M,estudios-internacionales,El futuro de la democracia,60.0,International Studies
+UC3M,estudios-internacionales,Geopolítica,40.0,International Studies
+UC3M,estudios-internacionales,Movimientos y nuevos actores transnacionales,60.0,International Studies
+UC3M,estudios-internacionales,Nuevas tecnologías y el sistema internacional,40.0,International Studies
+UC3M,estudios-internacionales,Países emergentes,50.0,International Studies
+UC3M,estudios-internacionales,Política y Religión,60.0,International Studies
+UC3M,estudios-internacionales,Procesos de integración supranacional,0.0,International Studies
+UC3M,estudios-internacionales,Desarrollo Sostenible,50.0,International Studies
+UC3M,estudios-internacionales,Big Data para la empresa,50.0,International Studies
+UC3M,estudios-internacionales,Cambio climático y transformación social,60.0,International Studies
+UC3M,estudios-internacionales,Cultura e identidades en la globalización,40.0,International Studies
+UC3M,estudios-internacionales,Desigualdad,50.0,International Studies
+UC3M,estudios-internacionales,Educación y crecimiento en perspectiva comparada,0.0,International Studies
+UC3M,estudios-internacionales,Filosofía política y buen gobierno,50.0,International Studies
+UC3M,estudios-internacionales,Gestión de proyectos internacionales,40.0,International Studies
+UC3M,estudios-internacionales,Informe País y evaluación de riesgos,50.0,International Studies
+UC3M,estudios-internacionales,Movimientos de población y fronteras,60.0,International Studies
+UC3M,estudios-internacionales,Perspectiva comparada en el Estado de Bienestar,50.0,International Studies
+UC3M,estudios-internacionales,Política internacional de seguridad,50.0,International Studies
+UC3M,estudios-internacionales,Salud Global,40.0,International Studies
+UC3M,estudios-internacionales,Economía I (Microeconomía),50.0,International Studies
+UC3M,estudios-internacionales,Metodología y cultura jurídica,50.0,International Studies
+UC3M,estudios-internacionales,Política comparada,50.0,International Studies
+UC3M,estudios-internacionales,Sociología comparada,40.0,International Studies
+UC3M,estudios-internacionales,Técnicas de búsqueda y uso de la información,0.0,International Studies
+UC3M,estudios-internacionales,Técnicas de expresión oral y escrita,0.0,International Studies
+UC3M,estudios-internacionales,Economía II (Macroeconomía),35.0,International Studies
+UC3M,estudios-internacionales,Estadística para las ciencias sociales I: introducción a la estadística,40.0,International Studies
+UC3M,estudios-internacionales,Globalización y Sociedad,40.0,International Studies
+UC3M,estudios-internacionales,Historia de la economía mundial,60.0,International Studies
+UC3M,estudios-internacionales,Política Mundial,50.0,International Studies
+UC3M,estudios-internacionales,"Cooperación, acción colectiva y modelos formales de estrategia",20.0,International Studies
+UC3M,estudios-internacionales,Derecho internacional público,50.0,International Studies
+UC3M,estudios-internacionales,Economía internacional: integración económica,50.0,International Studies
+UC3M,estudios-internacionales,Economía política internacional,40.0,International Studies
+UC3M,estudios-internacionales,Estadística para las Ciencias Sociales II: técnicas multivariantes,30.0,International Studies
+UC3M,estudios-internacionales,Diseño de investigación en ciencias sociales,50.0,International Studies
+UC3M,estudios-internacionales,Historia política y social,30.0,International Studies
+UC3M,estudios-internacionales,Métodos estadísticos para las Ciencias Sociales: Técnicas de previsión,60.0,International Studies
+UC3M,estudios-internacionales,Organizaciones Internacionales,40.0,International Studies
+UC3M,estudios-internacionales,"Seguridad, paz y resolución de conflictos",50.0,International Studies
+UC3M,estudios-internacionales,Casos de Estudios Internacionales (Seminario Multidisciplinar),0.0,International Studies
+UC3M,estudios-internacionales,Derechos Humanos,40.0,International Studies
+UC3M,estudios-internacionales,Finanzas Internacionales,50.0,International Studies
+UC3M,estudios-internacionales,Hojas de cálculo. Nivel Avanzado,0.0,International Studies
+UC3M,estudios-internacionales,Temas de política internacional,40.0,International Studies
+UC3M,estudios-internacionales,Demografía,25.0,International Studies
+UC3M,estudios-internacionales,Evaluación de políticas públicas,40.0,International Studies
+UC3M,estudios-internacionales,Globalización (Seminario multidisciplinar),60.0,International Studies
+UC3M,estudios-internacionales,Ayuda internacional y cooperación al desarrollo,60.0,International Studies
+UC3M,estudios-internacionales,Comercio Internacional,50.0,International Studies
+UC3M,estudios-internacionales,Comportamiento y actores políticos,60.0,International Studies
+UC3M,estudios-internacionales,Corrupción y rendición de cuentas,50.0,International Studies
+UC3M,estudios-internacionales,Justicia transicional y democratización,40.0,International Studies
+UC3M,estudios-internacionales,Movimientos y nuevos actores transnacionales,60.0,International Studies
+UC3M,estudios-internacionales,Países emergentes,50.0,International Studies
+UC3M,estudios-internacionales,Procesos de integración supranacional,0.0,International Studies
+UC3M,estudios-internacionales,Sistemas financieros internacionales,50.0,International Studies
+UC3M,estudios-internacionales,Teoría e ideologías políticas,40.0,International Studies
+UC3M,estudios-internacionales,Análisis Político,50.0,International Studies
+UC3M,estudios-internacionales,Cultura e identidades en la globalización,40.0,International Studies
+UC3M,estudios-internacionales,Desigualdad,50.0,International Studies
+UC3M,estudios-internacionales,Educación y crecimiento en perspectiva comparada,0.0,International Studies
+UC3M,estudios-internacionales,Informe País y evaluación de riesgos,50.0,International Studies
+UC3M,estudios-internacionales,Métodos de estadística avanzada,60.0,International Studies
+UC3M,estudios-internacionales,Perspectiva comparada en el Estado de Bienestar,50.0,International Studies
+UC3M,estudios-internacionales,Retos ambientales globales,40.0,International Studies
+UC3M,estudios-internacionales,Salud Global,40.0,International Studies
+UC3M,estudios-internacionales,Variedades del Capitalismo,50.0,International Studies
+UPM,matematicas,Álgebra Lineal,80.0,Mathematics
+UPM,matematicas,Cálculo en una variable,80.0,Mathematics
+UPM,matematicas,Programación,100.0,Mathematics
+UPM,matematicas,Geometría I,70.0,Mathematics
+UPM,matematicas,Modelización y simulación I,0.0,Mathematics
+UPM,matematicas,Ecuaciones diferenciales ordinarias I,80.0,Mathematics
+UPM,matematicas,Análisis vectorial,60.0,Mathematics
+UPM,matematicas,Cálculo numérico II,100.0,Mathematics
+UPM,matematicas,Análisis real,90.0,Mathematics
+UPM,matematicas,Probabilidad,50.0,Mathematics
+UPM,matematicas,Modelización y simulación II,40.0,Mathematics
+UPM,matematicas,Análisis complejo,80.0,Mathematics
+UPM,matematicas,Estadística,90.0,Mathematics
+UPM,matematicas,Geometría diferencial de curvas y superficies,70.0,Mathematics
+UPM,matematicas,Investigación operativa,70.0,Mathematics
+UPM,matematicas,Estadística multivariante,60.0,Mathematics
+UPM,matematicas,Modelización y simulación III,30.0,Mathematics
+UPM,matematicas,Inglés para la Comunicación Profesional y Académica,0.0,Mathematics
+UPM,matematicas,Ampliación de análisis,60.0,Mathematics
+UPM,matematicas,Introducción a la ciencia de datos,20.0,Mathematics
+UPM,matematicas,Introducción a la codificación de la información,0.0,Mathematics
+UPM,matematicas,Introducción al análisis funcional,60.0,Mathematics
+UPM,matematicas,Métodos numéricos en EDP,50.0,Mathematics
+UPM,matematicas,Topología de variedades,0.0,Mathematics
+UPM,matematicas,Ampliación de ecuaciones diferenciales,0.0,Mathematics
+UPM,matematicas,Comunicación en matemáticas,0.0,Mathematics
+UPM,matematicas,Curvas algebraicas,55.0,Mathematics
+UPM,informatica,Lógica,70.0,Computer Science
+UPM,informatica,Matemática Discreta I,100.0,Computer Science
+UPM,informatica,Algoritmos y Estructura de Datos,55.0,Computer Science
+UPM,informatica,Aplicaciones Numéricas de la Informática,35.0,Computer Science
+UPM,informatica,El Arte de Programar,30.0,Computer Science
+UPM,informatica,Gestión de Procesos de Tecnologías de la Información,100.0,Computer Science
+UPM,informatica,"Computación Paralela, Multiprocesadores, HPC y GPU",0.0,Computer Science
+UPM,informatica,Español para Extranjeros,95.0,Computer Science
+UPM,informatica,Información y Computación Cuántica,0.0,Computer Science
+UPM,informatica,Introducción a la Biocomputación,0.0,Computer Science
+UPM,informatica,Practicum,0.0,Computer Science
+UPM,informatica,Técnicas de Computación Científica,0.0,Computer Science
+UPM,informatica,"Web Semántica, Linked Data y Grafos de Conocimientos",30.0,Computer Science
+UPM,informatica,Probabilidades y Estadística I,90.0,Computer Science
+UPM,informatica,Programación II,70.0,Computer Science
+UPM,informatica,Fundamentos de Gestión de Tecnologías de la Información en la Empresa,90.0,Computer Science
+UPM,informatica,Ingeniería del Software I,0.0,Computer Science
+UPM,informatica,Proyecto de Instalación Informática,0.0,Computer Science
+UPM,informatica,Español Profesional y Académico,0.0,Computer Science
+UPM,informatica,Sistemas Inteligentes,0.0,Computer Science
+UPM,informatica,Español para Extranjeros,95.0,Computer Science
+UPM,informatica,Geometría 3D para Informática Gráfica,100.0,Computer Science
+UPM,informatica,Minería de Datos,50.0,Computer Science
+UPM,informatica,Practicum,0.0,Computer Science
+UPM,informatica,Robótica y Percepción Computacional,45.0,Computer Science
+UPM,informatica,Teoría de la Información y la Codificación,0.0,Computer Science
+UPM,ciencia-datos,Álgebra Lineal,90.0,Data Science & AI
+UPM,ciencia-datos,Fundamentos de Programación,70.0,Data Science & AI
+UPM,ciencia-datos,Lógica para Inteligencia Artificial,70.0,Data Science & AI
+UPM,ciencia-datos,Algorítmica Numérica,75.0,Data Science & AI
+UPM,ciencia-datos,"Web Semántica, Linked Data y Grafos de Conocimientos",50.0,Data Science & AI
+UPM,ciencia-datos,Aprendizaje Automático I,40.0,Data Science & AI
+UPM,ciencia-datos,Métodos Clásicos para Predicción,0.0,Data Science & AI
+UPM,ciencia-datos,Algoritmos y Arquitecturas para Procesado de Imágenes,40.0,Data Science & AI
+UPM,ciencia-datos,Descubrimiento de Conocimiento en Datos Complejos,0.0,Data Science & AI
+UPM,ciencia-datos,Proyecto de Ciencia de Datos,40.0,Data Science & AI
+UPM,ciencia-datos,Análisis Topológico de Datos Funcionales para Modelos de Aprendizaje Automático,20.0,Data Science & AI
+UPM,ciencia-datos,Experimentación en Ingeniería del Software con Aprendizaje Profundo,0.0,Data Science & AI
+UPM,ciencia-datos,Practicum,0.0,Data Science & AI
+UPM,ciencia-datos,Probabilidades y Estadística I,80.0,Data Science & AI
+UPM,ciencia-datos,Computación Social y Personalización,40.0,Data Science & AI
+UPM,ciencia-datos,Probabilidades y Estadística II,100.0,Data Science & AI
+UPM,ciencia-datos,Seguridad de las Tecnologías de la Información,0.0,Data Science & AI
+UPM,ciencia-datos,Sistemas Inteligentes,0.0,Data Science & AI
+UPM,ciencia-datos,Español Profesional y Académico,0.0,Data Science & AI
+UPM,ciencia-datos,Practicum,0.0,Data Science & AI
